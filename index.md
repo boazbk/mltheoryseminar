@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## CS 229r: Advanced topics in the theory of machine learning
 
-You can use the [editor on GitHub](https://github.com/boazbk/mltheoryseminar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+__Spring 2021__ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Boaz Barak](https://boazbarak.org) 
 
-### Markdown
+This will be a graduate level course on recent advances and open questions in the theory of machine learning and specifically deep learning. We will review both classical results as well as recent papers in areas including classifiers and generalization gaps, representation learning, generative models, adversarial robustness and out of distribution performance, and more. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a fast-moving area and it will be a fast-moving course. We will aim to cover both state-of-art results, as well as the intellectual foundations for them, and have a substantive discussion on both the “big picture” and technical details of the papers. In addition to the theoretical lectures, the course will involve a programming component aiming to get students to the point where they can both reproduce results from papers and work on their own research. This component will be largely self-directed and we expect students to be proficient in Python and in picking up technologies and libraries on their own (aka “Stack Overflow oriented programming”). We will ensure students have access to the appropriate computational resources (i.e., GPUs).
 
-```markdown
-Syntax highlighted code block
+__Prerequisites:__ The course will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (CS 121 and 124 or similar) as well as machine learning background (CS 181 or 183 or similar). There will be an application process to the course, details of which will be announced on the course webpage.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boazbk/mltheoryseminar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
