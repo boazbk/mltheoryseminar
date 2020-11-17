@@ -1,4 +1,3 @@
-## CS 229r: Advanced topics in the theory of machine learning
 
 __Spring 2021__ 
 
