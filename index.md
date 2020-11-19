@@ -1,6 +1,8 @@
 
 __Spring 2021__ 
 
+__More details on this course will be posted here no later than the end of December 2020__
+
 [Boaz Barak](https://boazbarak.org) 
 
 This will be a graduate level course on recent advances and open questions in the theory of machine learning and specifically deep learning. We will review both classical results as well as recent papers in areas including classifiers and generalization gaps, representation learning, generative models, adversarial robustness and out of distribution performance, and more. 
