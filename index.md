@@ -13,4 +13,6 @@ This Harvard seminar will be coordinated with a "sister seminar" at MIT, taught 
  
 __Prerequisites:__ The course will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (CS 121 and 124 or similar) as well as machine learning background (CS 181 or 183 or similar). There will be an application process to the course, details of which will be announced on the course webpage.
 
+Students interested in this seminar will likely also be interested in following our [machine learning theory seminar series](https://mltheory.org/talk/). You can sign up for the mailing list to get announcements and Zoom links. Also, since last spring, all the talks in this series have been recorded and available on the webpage.
+
 
