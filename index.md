@@ -6,6 +6,7 @@ __Harvard CS 229br: [Boaz Barak](https://boazbarak.org)  Mondays 12-3pm Eastern_
 
 __MIT 18.400: [Ankur Moitra](http://people.csail.mit.edu/moitra/)  Wednesdays 12pm-3pm Eastern__
 
+[Apply to one or both courses here.](http://tiny.cc/mltheoryseminar)
 
 
 __Harvard CS 229br description:__
