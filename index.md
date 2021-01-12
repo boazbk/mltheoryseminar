@@ -13,8 +13,10 @@ This is a fast-moving area and it will be a fast-moving course. We will aim to c
 
 __Tentative list of topics (subject to change):__
 
+_Harvard CS 229br:_ 
+
 * Generalization bounds, and the extent that they are meaningful and/or proxies to actual performance.
-* Out of distribution performance, imagenet v2 and cifar v2, domain shift
+* Out of distribution performance, Imagenet v2 and CIFAR v2, domain shift
 * Unsupervised and self-supervised learning
 * Transfer learning, meta learning
 * Generative models (GANs,  VAE variants, DDPM, autoregressive models,...) 
@@ -23,12 +25,25 @@ __Tentative list of topics (subject to change):__
 * Reinforcement learning, bandits
 * Control theory
 * Privacy, adversarial robustness, fairness/calibration
+* Statistical physics view of machine learning.
 
+_MIT 18.400:_ 
+
+* Approximation theory: Neural networks as universal approximators, Fourier transform of Neural networks, Barron's Theorem, depth separation and open problems
+* Optimization theory: Convex optimization and acceleration, escaping local minima.
+* Solution landscape: Landscape analysis, escaping local minima, implicit regularization, Neural Tangent Kernel, implicit regularization, Langevin diffusion and meta-stability.
+* Statistical theory and representation learning: capacity and generalization, VC, margin, and Radamacher complexity, capacity and generalization, student-teacher networks, sparse coding, restricted Boltzman machines.
+* Sparse coding, spiked tensor models.
+* Robustness : adversarial examples and defenses, data poisoning attacks.
+ 
 
 
 __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "sister seminar" at MIT, taught by Ankur Moitra. We recommend that students taking CS 229br also take the MIT course, but this is not required. The two courses will share some but not all lectures and assignments.  So, if you take CS 229br, please keep the Wednesday 12-3 slot free as well. 
  
-__Prerequisites:__ The course will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (CS 121 and 124 or similar) as well as machine learning background (CS 181 or 183 or similar). There will be an application process to the course, details of which will be announced on the course webpage.
+__Prerequisites:__ The course will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
+
+__Apply for the course:__ The courses will have a limited number of slots, you can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
+
 
 Students interested in this seminar will likely also be interested in following our [machine learning theory seminar series](https://mltheory.org/#talks). You can sign up for the mailing list to get announcements and Zoom links. Also, since last spring, all the talks in this series have been recorded and available on the webpage.
 
