@@ -15,7 +15,6 @@ This is a fast-moving area and it will be a fast-moving course. We will aim to c
 
 __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "sister seminar" at MIT, taught by Ankur Moitra. We recommend that students taking CS 229br also take the MIT course, but this is not required. The two courses will share some but not all lectures and assignments.  So, if you take CS 229br, please keep the Wednesday 12-3 slot free as well. 
  
-__Prerequisites:__ The course will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
 
 ### Tentative list of topics (subject to change): 
 
