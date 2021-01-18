@@ -17,7 +17,14 @@ This will be a graduate level course on recent advances and open questions in th
 This is a fast-moving area and it will be a fast-moving course. We will aim to cover both state-of-art results, as well as the intellectual foundations for them, and have a substantive discussion on both the “big picture” and technical details of the papers. In addition to the theoretical lectures, the course will involve a programming component aiming to get students to the point where they can both reproduce results from papers and work on their own research. This component will be largely self-directed and we expect students to be proficient in Python and in picking up technologies and libraries on their own (aka “Stack Overflow oriented programming”). We will ensure students have access to the appropriate computational resources (i.e., GPUs).
 
 __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "sister seminar" at MIT, taught by Ankur Moitra. We recommend that students taking CS 229br also take the MIT course, but this is not required. The two courses will share some but not all lectures and assignments.  So, if you take CS 229br, please keep the Wednesday 12-3 slot free as well. 
- 
+
+
+
+ __Prerequisites (for both CS 229br and MIT 18.408):__ Both courses will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
+
+
+__Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
+
 
 ### Tentative list of topics (subject to change): 
 

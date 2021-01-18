@@ -18,10 +18,11 @@ Introductory blog post by Boaz: [Machine Learning Theory with Bad Drawings](http
 
 Students interested in these courses will likely also be interested in following our [machine learning theory seminar series](https://mltheory.org/#talks). You can sign up for the mailing list to get announcements and Zoom links. Also, since last spring, all the talks in this series have been recorded and available on the webpage.
 
-__Prerequisites:__ Both courses will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
+
+ __Prerequisites (for both CS 229br and MIT 18.408):__ Both courses will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
 
 
-__Apply for both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
+__Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
 
 
 
