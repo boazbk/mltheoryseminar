@@ -14,7 +14,7 @@ The two courses will cover modern topics in the theory of machine learning, and 
 
 * [Course description for MIT 18.408](mit18408)
 
-Introductory blog post by Boaz [Machine Learning Theory with Bad Drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
+Introductory blog post by Boaz: [Machine Learning Theory with Bad Drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
 
 Students interested in these courses will likely also be interested in following our [machine learning theory seminar series](https://mltheory.org/#talks). You can sign up for the mailing list to get announcements and Zoom links. Also, since last spring, all the talks in this series have been recorded and available on the webpage.
 
