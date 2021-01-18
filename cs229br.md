@@ -5,7 +5,7 @@ __Boaz Barak__
 __Mondays 12-3__
 
 
-See [home page for Harvard CS 229r and MIT 18.408](/).
+See [home page for Harvard CS 229r and MIT 18.408](/mltheoryseminar/).
 
 
 __Course description:__
