@@ -5,7 +5,7 @@ __Boaz Barak__
 __Mondays 12-3__
 
 
-See [home page for Harvard CS 229r and MIT 18.408](/mltheoryseminar/).
+See [home page for Harvard CS 229r and MIT 18.408](https://boazbk.github.io/mltheoryseminar/).
 
 Introductory blog post by Boaz [Machine Learning Theory with Bad Drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
 
