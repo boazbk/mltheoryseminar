@@ -4,6 +4,8 @@ __Boaz Barak__
 
 __Mondays 12-3__
 
+__Unofficial teaching fellows:__  [Yamini Bansal](https://yaminibansal.com/) ybansal (at) g.harvard.edu  [Gal Kaplun](https://www.galkaplun.com/) galkaplun (at) g.harvard.edu [Dimitris Kalimeris](https://www.dkalimeris.com/) kalimeris   (at) g.harvard.edu   [Preetum Nakkiran](https://preetum.nakkiran.org/) preetum (at) cs.harvard.edu 
+
 
 See [home page for Harvard CS 229r and MIT 18.408](https://boazbk.github.io/mltheoryseminar/).
 
@@ -31,3 +33,22 @@ __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "siste
 * Control theory
 * Privacy, adversarial robustness, fairness/calibration
 * Statistical physics view of machine learning.
+
+### FAQ
+
+_Is there a complete plan of all lectures and assignments?_ 
+
+No - this course will be an experiment, for both me and the students, and we will figure out how much we can cover and in what way as we go along. The goal is to start with some of the foundations and to get quickly to talk about recent papers. The intention is that students  will get to the point where they can read (and sometimes also can reproduce) recent ML papers, and hopefully also be able to generate new insights.
+
+_What will the format of the course be like?_ 
+
+We will have weekly lectures/discussions, and experimental homeworks/projects. The lectures will focus on describing and discussing papers and theory, while problem sets / projects will be more empirical. We will have formal or informal "sections" where the unofficial TFs will help out in technical issues with implementations, but we will also rely on students looking up material and helping one another.
+
+_What is expected out of students?_
+
+Students will be expected to do some reading before lectures, and to work on some experimental homework assignments, typically involving reproducing a paper, or trying out some experiment. The lecture will not discuss how to run experiments or implement neural networks, but the teaching fellows will be available.  We will also expect students to look up resources on their own (such as this [excellent deep learning course of LeCun &  Canziani](https://atcold.github.io/pytorch-Deep-Learning/)) and to help one another. There will also be some project, and students might potentially also need to write scribe notes for one lecture.
+
+_How will students be graded?_ 
+
+The course is intended for graduate students or advanced undergraduate students who have mostly completed their requirements but are deeply interested in the material for its own sake. The method of grading will be decided later on. At the moment we have several "unofficial TFs" that are spending effort in designing assignments that will get you better at being able to run your own experiments, but we don't have any official TFs. We will try to find ways that you can get feedback on your work, even if we don't have the resources to grade it. 
+
