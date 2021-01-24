@@ -45,6 +45,7 @@ It is an open problem to understand neccesary and sufficient conditions that ens
 
 ### Extra Tips
 - [Practical tips](http://karpathy.github.io/2019/04/25/recipe/) on training NNs, from Andrej Karpathy.
+- [How to Train Your ResNet](https://myrtle.ai/learn/how-to-train-your-resnet/) by David Page, walks through the design and debugging process of training a state-of-the-art network. Note the careful experimental design at each stage.
 - For longer-running training jobs, you may want to create a
 stand-alone training script instead of running jobs in notebooks.
 - We *highly reccomend* using [wandb](http://wandb.ai) (free) to track and log your experiments. For example, we like to use wandb to track train/test errors of models as they train, and automatically plot them in the web UI.
