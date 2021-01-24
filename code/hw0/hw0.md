@@ -44,6 +44,7 @@ Make sure you can run this on your GPU (/Paperspace):
 It is an open problem to understand neccesary and sufficient conditions that ensure neural-networks can be properly optimized with SGD (see the suggestions in the survey -- can you replicate their predictions with experiments?)
 
 ### Extra Tips
+- [Practical tips](http://karpathy.github.io/2019/04/25/recipe/) on training NNs, from Andrej Karpathy.
 - For longer-running training jobs, you may want to create a
 stand-alone training script instead of running jobs in notebooks.
 - We *highly reccomend* using [wandb](http://wandb.ai) (free) to track and log your experiments. For example, we like to use wandb to track train/test errors of models as they train, and automatically plot them in the web UI.
