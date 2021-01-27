@@ -28,7 +28,6 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 ### Tentative list of topics (subject to change): 
 
-
 * Generalization bounds, and the extent that they are meaningful and/or proxies to actual performance.
 * Out of distribution performance, Imagenet v2 and CIFAR v2, domain shift
 * Unsupervised and self-supervised learning
@@ -58,4 +57,9 @@ Students will be expected to do some reading before lectures, and to work on som
 _How will students be graded?_ 
 
 The course is intended for graduate students or advanced undergraduate students who have mostly completed their requirements but are deeply interested in the material for its own sake. The method of grading will be decided later on. At the moment we have several "unofficial TFs" that are spending effort in designing assignments that will get you better at being able to run your own experiments, but we don't have any official TFs. We will try to find ways that you can get feedback on your work, even if we don't have the resources to grade it. 
+
+
+## Lectures slides 
+
+* __Lecture 1:__ Introduction, blitz through classical learning theory  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint)](lectures/seminar_lecture1.pptx) (with animation and annotation)
 
