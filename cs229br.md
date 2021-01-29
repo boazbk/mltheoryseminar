@@ -6,6 +6,7 @@ __Mondays 12-3__
 
 __Unofficial teaching fellows:__  [Yamini Bansal](https://yaminibansal.com/) ybansal (at) g.harvard.edu  [Gal Kaplun](https://www.galkaplun.com/) galkaplun (at) g.harvard.edu [Dimitris Kalimeris](https://www.dkalimeris.com/) kalimeris   (at) g.harvard.edu   [Preetum Nakkiran](https://preetum.nakkiran.org/) preetum (at) cs.harvard.edu 
 
+[lectures and slides](#plan)
 
 See [home page for Harvard CS 229r and MIT 18.408](https://boazbk.github.io/mltheoryseminar/).
 
@@ -26,19 +27,34 @@ __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "siste
 __Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
 
 
-### Tentative list of topics (subject to change): 
+<a name="#plan"></a>
+## Tentative plans and lecture slides
 
-* Generalization bounds, and the extent that they are meaningful and/or proxies to actual performance.
-* Out of distribution performance, Imagenet v2 and CIFAR v2, domain shift
-* Unsupervised and self-supervised learning
-* Transfer learning, meta learning
-* Generative models (GANs,  VAE variants, DDPM, autoregressive models,...) 
-* Natural language processing, language models
-* Theoretical neuroscience, interpretation and visualization of neural networks
-* Reinforcement learning, bandits
-* Control theory
-* Privacy, adversarial robustness, fairness/calibration
-* Statistical physics view of machine learning.
+(Plans for future lectures are very tentative)
+
+1. Monday, January 25: __Introduction to course, blitz through classical learning theory, Zhang et al experiments.__  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint)](lectures/seminar_lecture1.pptx) (with animation and annotation)
+
+2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__ 
+
+3. Monday, February 8: __Out of distribution performance, ImageNet v2, CIFAR v2, self-supervised learning, generalization for self-supervised learning__
+
+4. Monday, February 22: __Transfer learning, meta learning__
+
+5. Monday, March 8: __Generative models (GANs, VAE, autoregressive models)__
+
+6. Monday, March 15: __Natural Language processing__
+
+7. Monday, March 22: __Theoretical neuroscience, visualizing and interpreting neural networks__, guest lecture by [Chris Olah](https://colah.github.io/)
+
+8. Monday, March 29: __Bandits, contextual bandits, and reinforcement learning__
+
+9. Monday, April 5:  __Control theory__
+
+10. Monday, April 12: __Causality__
+
+11. Monday, April 19:  __Adversarial robustness, privacy, fairness__
+
+12. Monday, April 26: __Statistical physics view of machine learning__
 
 ### FAQ
 
@@ -59,7 +75,4 @@ _How will students be graded?_
 The course is intended for graduate students or advanced undergraduate students who have mostly completed their requirements but are deeply interested in the material for its own sake. The method of grading will be decided later on. At the moment we have several "unofficial TFs" that are spending effort in designing assignments that will get you better at being able to run your own experiments, but we don't have any official TFs. We will try to find ways that you can get feedback on your work, even if we don't have the resources to grade it. 
 
 
-## Lectures slides 
-
-* __Lecture 1:__ Introduction, blitz through classical learning theory  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint)](lectures/seminar_lecture1.pptx) (with animation and annotation)
 
