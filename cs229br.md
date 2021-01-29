@@ -25,11 +25,11 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 <a name="plan"></a>
 ### Tentative plan and lecture slides
 
-(Plans for future lectures are very tentative)
+(Plans for future lectures are very tentative. Slides with animation and annotation are posted after the lecture)
 
-1. Monday, January 25: __Introduction to course, blitz through classical learning theory, Zhang et al experiments.__  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint)](lectures/seminar_lecture1.pptx) (with animation and annotation)
+1. Monday, January 25: __Introduction to course, blitz through classical learning theory, Zhang et al experiments.__  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint)](lectures/seminar_lecture1.pptx) (including animation and annotation)
 
-2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__ 
+2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__  [lecture slides (pdf)](seminar_lecture2.pdf) 
 
 3. Monday, February 8: __Out of distribution performance, ImageNet v2, CIFAR v2, self-supervised learning, generalization for self-supervised learning__
 
