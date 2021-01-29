@@ -27,7 +27,7 @@ __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "siste
 __Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
 
 
-<a name="#plan"></a>
+<a name="plan"></a>
 ## Tentative plans and lecture slides
 
 (Plans for future lectures are very tentative)
