@@ -10,7 +10,7 @@ __Unofficial teaching fellows:__  [Yamini Bansal](https://yaminibansal.com/) yba
 
 See [home page for Harvard CS 229r and MIT 18.408](https://boazbk.github.io/mltheoryseminar/).
 
-Introductory blog post by Boaz: [Machine Learning Theory with Bad Drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
+__Introductory blog post by Boaz:__ [Machine Learning Theory with Bad Drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
 
 __Course description:__
 This will be a graduate level course on recent advances and open questions in the theory of machine learning and specifically deep learning. We will review both classical results as well as recent papers in areas including classifiers and generalization gaps, representation learning, generative models, adversarial robustness and out of distribution performance, and more. 
@@ -19,16 +19,15 @@ This is a fast-moving area and it will be a fast-moving course. We will aim to c
 
 __MIT "Sister seminar":__ This Harvard seminar will be coordinated with a "sister seminar" at MIT, taught by Ankur Moitra. We recommend that students taking CS 229br also take the MIT course, but this is not required. The two courses will share some but not all lectures and assignments.  So, if you take CS 229br, please keep the Wednesday 12-3 slot free as well. 
 
+__Prerequisites (for both CS 229br and MIT 18.408):__ Both courses will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
 
-
- __Prerequisites (for both CS 229br and MIT 18.408):__ Both courses will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
-
-
+<!--
 __Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
+-->
 
 
 <a name="plan"></a>
-## Tentative plans and lecture slides
+### Tentative plan and lecture slides
 
 (Plans for future lectures are very tentative)
 
