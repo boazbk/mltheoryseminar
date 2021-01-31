@@ -53,6 +53,9 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 12. Monday, April 26: __Statistical physics view of machine learning__
 
+### Office Hours
+Yamini Bansal: Mondays, 5PM - 6PM EST (Message me on Slack and we can start a Zoom call!)
+
 ### FAQ
 
 _Is there a complete plan of all lectures and assignments?_ 
