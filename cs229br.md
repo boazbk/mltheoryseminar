@@ -27,6 +27,8 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 (Plans for future lectures are very tentative. Slides with animation and annotation are posted after the lecture)
 
+0. Pre lecture [introductory blog](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/).
+
 1. Monday, January 25: __Introduction to course, blitz through classical learning theory, Zhang et al experiments.__  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint with animations and annotation)](lectures/seminar_lecture1.pptx) 
 
 2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__  [lecture slides (pdf)](lectures/seminar_lecture2.pdf) 
