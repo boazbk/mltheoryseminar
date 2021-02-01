@@ -39,7 +39,7 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 5. Monday, March 8: __Generative models (GANs, VAE, autoregressive models)__
 
-6. Monday, March 15: __Natural Language processing__
+6. Monday, March 15: __Natural Language processing__, guest lecture by [Sasha Rush](http://rush-nlp.com/)
 
 7. Monday, March 22: __Theoretical neuroscience, visualizing and interpreting neural networks__, guest lecture by [Chris Olah](https://colah.github.io/)
 
