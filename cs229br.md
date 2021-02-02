@@ -29,9 +29,9 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 0. Pre lecture [introductory blog](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/).
 
-1. Monday, January 25: __Introduction to course, blitz through classical learning theory, Zhang et al experiments.__  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  , [lecture slides (Powerpoint with animations and annotation)](lectures/seminar_lecture1.pptx)  [lecture notes (blog)](https://windowsontheory.org/2021/01/31/a-blitz-through-classical-statistical-learning-theory/) [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c6a9e86-bca7-42df-a04a-acc200ed2c2d)
+1. Monday, January 25: __Introduction to course, blitz through classical learning theory, Zhang et al experiments.__  [lecture slides (pdf)](lectures/seminar_lecture1.pdf)  - [lecture slides (Powerpoint with animations and annotation)](lectures/seminar_lecture1.pptx)  -  [lecture notes (blog)](https://windowsontheory.org/2021/01/31/a-blitz-through-classical-statistical-learning-theory/) - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c6a9e86-bca7-42df-a04a-acc200ed2c2d)
 
-2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__  [lecture slides (pdf)](lectures/seminar_lecture2.pdf)  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_2.pptx)  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c518b9e4-5f63-4278-871d-acc2017b8984)
+2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__  [lecture slides (pdf)](lectures/seminar_lecture2.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_2.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c518b9e4-5f63-4278-871d-acc2017b8984)
 
 3. Monday, February 8: __Out of distribution performance, ImageNet v2, CIFAR v2, self-supervised learning, generalization for self-supervised learning__
 
