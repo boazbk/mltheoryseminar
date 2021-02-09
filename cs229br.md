@@ -33,11 +33,11 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 2. Monday, February 1: __Learning dynamics: over-parameterized linear regression, deep linear networks, simplicity bias, early layers, lower bound for parities.__  [lecture slides (pdf)](lectures/seminar_lecture2.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_2.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c518b9e4-5f63-4278-871d-acc2017b8984)
 
-3. Monday, February 8: __Out of distribution performance, ImageNet v2, CIFAR v2, self-supervised learning, generalization for self-supervised learning__
+3. Monday, February 8: __Unsupervised learning and generative models (Auto-encoders, Variational Auto-encoders, Flow based models, auto-regressive models, GANs), representation learning (contrastive learning).__  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_3.pdf) [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_3.pptx)  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70cafab0-bdea-412b-a353-acc90173fd61)
 
-4. Monday, February 22: __Transfer learning, meta learning__
+4. Monday, February 22: __Out of distribution performance, adversarial robustness, transfer learning, meta learning__
 
-5. Monday, March 8: __Generative models (GANs, VAE, autoregressive models)__
+5. Monday, March 8: __TBD__
 
 6. Monday, March 15: __Natural Language processing__, guest lecture by [Sasha Rush](http://rush-nlp.com/)
 
@@ -49,7 +49,7 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 10. Monday, April 12: __Causality__
 
-11. Monday, April 19:  __Adversarial robustness, privacy, fairness__
+11. Monday, April 19:  __privacy, fairness__
 
 12. Monday, April 26: __Statistical physics view of machine learning__
 
