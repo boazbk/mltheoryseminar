@@ -40,7 +40,7 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 3. Monday, February 8: __Unsupervised learning and generative models (Auto-encoders, Variational Auto-encoders, Flow based models, auto-regressive models, GANs), representation learning (contrastive learning).__ [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_3.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_3.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70cafab0-bdea-412b-a353-acc90173fd61)
 
-4. Monday, February 22: __Out of distribution performance, adversarial robustness, transfer learning, meta learning__ [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_4.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_4.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1186415c-f0f1-445c-886f-acd701757cb7)
+4. Monday, February 22: __Out of distribution performance, adversarial robustness, transfer learning, meta learning__ [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture4.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture4.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1186415c-f0f1-445c-886f-acd701757cb7)
 
 5. Monday, March 8: __Transfer learning, meta learning__
 
