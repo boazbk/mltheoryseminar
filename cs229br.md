@@ -21,6 +21,11 @@ This is a fast-moving area and it will be a fast-moving course. We will aim to c
 __Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
 -->
 
+## Homework assignments
+
+* [Homework 0](https://github.com/boazbk/mltheoryseminar/blob/main/code/hw0/hw0.md)
+
+* [Homework 1](https://github.com/boazbk/mltheoryseminar/blob/main/code/hw1/HW1.pdf)
 
 <a name="plan"></a>
 ### Tentative plan and lecture slides
@@ -35,9 +40,9 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 3. Monday, February 8: __Unsupervised learning and generative models (Auto-encoders, Variational Auto-encoders, Flow based models, auto-regressive models, GANs), representation learning (contrastive learning).__ [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_3.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_3.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70cafab0-bdea-412b-a353-acc90173fd61)
 
-4. Monday, February 22: __Out of distribution performance, adversarial robustness, transfer learning, meta learning__
+4. Monday, February 22: __Out of distribution performance, adversarial robustness, transfer learning, meta learning__ [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_4.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_4.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1186415c-f0f1-445c-886f-acd701757cb7)
 
-5. Monday, March 8: __TBD__
+5. Monday, March 8: __Transfer learning, meta learning__
 
 6. Monday, March 15: __Natural Language processing__, guest lecture by [Sasha Rush](http://rush-nlp.com/)
 
