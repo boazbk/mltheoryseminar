@@ -1,10 +1,10 @@
 # Rough timeline for class
 
-- HW1: Feb 15 - March 1
-- HW2: March 1 - March 15
-- Project proposal: 1 page + Appendix, due on March 15
-- (Maybe) HW3: March 22 - April 5
-- Project Milestone 1: April 5
+- HW1: Feb 15 - March 5
+- HW2: March 5 - March 19
+- Project gather.town discussions - March 5 during the lecture
+- Project proposal: 1 page + Appendix, due on March 19
+- Project Milestone 1: April 12
 - Final project: May 3
 
 ### Final Project
@@ -22,7 +22,6 @@ You will be required to submit a 8 page paper in the NeurIPS conference format (
 
 If you opt for this, your timeline for the course will be:
 
-- Project proposal: March 1
-- Milestone 1: March 22
-- Milestone 2: April 12
+- Project proposal: March 5
+- Milestone 1: April 5
 - Final project: May 3
