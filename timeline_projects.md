@@ -2,7 +2,7 @@
 
 - HW1: Feb 15 - March 5
 - HW2: March 5 - March 19
-- Project gather.town discussions - March 5 during the lecture
+- Project gather.town discussions - March 15 during the lecture
 - Project proposal: 1 page + Appendix, due on March 19
 - Project Milestone 1: April 12
 - Final project: May 3
