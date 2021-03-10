@@ -42,7 +42,7 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 4. Monday, February 22: __Out of distribution performance, adversarial robustness, transfer learning, meta learning__ [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture4.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture4.pptx) -  [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1186415c-f0f1-445c-886f-acd701757cb7)
 
-5. Monday, March 8: __Variational inference, statistical physics (Boltzmann distribution, mean-field models, a bit of replica method)__  [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5_.pptx) - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=794333ec-0897-48ea-9bc5-ace600facb9f)
+5. Monday, March 8: __Variational inference, statistical physics (Boltzmann distribution, mean-field models, a bit of replica method)__  [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pptx) - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=794333ec-0897-48ea-9bc5-ace600facb9f)
 
 6. Monday, March 15: __Natural Language processing__, guest lecture by [Sasha Rush](http://rush-nlp.com/)
 
