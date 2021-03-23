@@ -4,7 +4,9 @@ __Boaz Barak__
 
 __Mondays 12-3__
 
-__Unofficial teaching fellows:__  [Yamini Bansal](https://yaminibansal.com/) ybansal (at) g.harvard.edu  [Gal Kaplun](https://www.galkaplun.com/) galkaplun (at) g.harvard.edu [Dimitris Kalimeris](https://www.dkalimeris.com/) kalimeris   (at) g.harvard.edu   [Preetum Nakkiran](https://preetum.nakkiran.org/) preetum (at) cs.harvard.edu 
+__Official teaching fellows:__  [Yamini Bansal](https://yaminibansal.com/) ybansal (at) g.harvard.edu, Javin Pombra
+
+__Unofficial teaching fellows:__    [Gal Kaplun](https://www.galkaplun.com/) galkaplun (at) g.harvard.edu [Dimitris Kalimeris](https://www.dkalimeris.com/) kalimeris   (at) g.harvard.edu   [Preetum Nakkiran](https://preetum.nakkiran.org/) preetum (at) cs.harvard.edu 
 
 [lectures and slides](#plan)
 
@@ -48,17 +50,18 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 7. Monday, March 22: __Theoretical neuroscience, visualizing and interpreting neural networks__, guest lecture by [Chris Olah](https://colah.github.io/)
 
-8. Monday, March 29: __Bandits, contextual bandits, and reinforcement learning__
+8. Monday, March 29: __Fairness, privacy, causality__
 
-9. Monday, April 5:  __Control theory__
+9. Monday, April 5:  __Bandits, contextual bandits, and reinforcement learning__ , guest lecture by [Sham Kakade](https://homes.cs.washington.edu/~sham/)
 
-10. Monday, April 12: __Causality__
+10. Monday, April 12: __TBD__
 
-11. Monday, April 19:  __privacy, fairness__
+11. Monday, April 19:  __TBD__
 
-12. Monday, April 26: __Statistical physics view of machine learning__
+12. Monday, April 26: __TBD__
 
 ### Office Hours
+
 Yamini Bansal: Mondays, 5PM - 6PM EST (Message me on Slack and we can start a Zoom call!)
 
 ### FAQ
