@@ -46,7 +46,7 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 5. Monday, March 8: __Variational inference, statistical physics (Boltzmann distribution, mean-field models, a bit of replica method)__  [lecture notes (blog)](https://windowsontheory.org/2021/04/02/inference-and-statistical-physics/) -  [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pptx) - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=794333ec-0897-48ea-9bc5-ace600facb9f)
 
-6. Monday, March 15: __Natural Language processing__, guest lecture by [Sasha Rush](http://rush-nlp.com/)
+6. Monday, March 15: __Natural Language processing__, guest lecture by [Sasha Rush](http://rush-nlp.com/)  [lecture notes (blog)](https://windowsontheory.org/2021/04/03/natural-language-processing-guest-lecture-by-sasha-rush/)
 
 7. Monday, March 22: __Theoretical neuroscience, visualizing and interpreting neural networks__, guest lecture by [Chris Olah](https://colah.github.io/)
 
