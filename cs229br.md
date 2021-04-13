@@ -50,11 +50,11 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 7. Monday, March 22: __Theoretical neuroscience, visualizing and interpreting neural networks__, guest lecture by [Chris Olah](https://colah.github.io/)
 
-8. Monday, March 29: __Causality and Fairness__   [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pptx) -  - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87a43259-6b47-49f1-931f-acfa0177fe20)
+8. Monday, March 29: __Causality and Fairness__   [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pptx)   - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87a43259-6b47-49f1-931f-acfa0177fe20)
 
 9. Monday, April 5:  __Bandits, contextual bandits, and reinforcement learning__ , guest lecture by [Sham Kakade](https://homes.cs.washington.edu/~sham/)
 
-10. Monday, April 12: __TBD__
+10. Monday, April 12: __Privacy__  [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture7.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture7.pptx)  - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b432eac7-ff09-420b-9dc6-ad08016deacd)
 
 11. Monday, April 19:  __TBD__
 
