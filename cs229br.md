@@ -52,7 +52,7 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 
 8. Monday, March 29: __Causality and Fairness__   [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pptx)   - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87a43259-6b47-49f1-931f-acfa0177fe20)
 
-9. Monday, April 5:  __Bandits, contextual bandits, and reinforcement learning__ , guest lecture by [Sham Kakade](https://homes.cs.washington.edu/~sham/)
+9. Monday, April 5:  __Bandits, contextual bandits, and reinforcement learning__ , guest lecture by [Sham Kakade](https://homes.cs.washington.edu/~sham/) [lecture notes (blog}](https://windowsontheory.org/2021/04/24/towards-a-theory-of-generalization-in-reinforcement-learning-guest-lecture-by-sham-kakade/) - [video of lecture](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d1a4401-6dee-4e49-881c-ad13017f606c). __Lecture slides:__   Original form: [main](http://files.boazbarak.org/misc/mltheory/sham1.pdf)  / [bandit analysis](http://files.boazbarak.org/misc/mltheory/sham2.pdf). Annotated: [main](http://files.boazbarak.org/misc/mltheory/sham1_ink.pdf) /  [bandit analysis](http://files.boazbarak.org/misc/mltheory/sham2_ink.pdf).
 
 10. Monday, April 12: __Privacy__  [lecture slides (pdf)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture7.pdf) -  [lecture slides (Powerpoint with animation and annotation)](http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture7.pptx)  - [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b432eac7-ff09-420b-9dc6-ad08016deacd)
 
