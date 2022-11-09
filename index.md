@@ -1,28 +1,27 @@
 
-__Spring 2021__ 
+# CS 229br: Foundations of Deep Learning (aka Topics in the Foundations of Machine Learning)
+__Spring 2022 Thursdas 3:45pm-6p:30m__ 
 
-__[Harvard CS 229br](cs229br): [Boaz Barak](https://boazbarak.org)  Mondays 12-3pm Eastern__ (First lecture: __Monday, January 25__) 
+__Instructor:__ [Boaz Barak](https://boazbarak.org)
 
+__Teaching Fellows:__ [Gustaf Ahdritz](https://gahdritz.github.io/), [Gal Kaplun](https://www.galkaplun.com/)
 
-__[MIT 18.408](http://people.csail.mit.edu/moitra/408b.html): [Ankur Moitra](http://people.csail.mit.edu/moitra/)  Wednesdays 12pm-3pm Eastern__ (First lecture: __Wednesday, February 17__)
+See also [Spring 2021 version](/cs229br) (the field is moving rapidly, and so the courses would not be the same, but it gives some sense.)
 
-[Apply to one or both courses here.](http://tiny.cc/mltheoryseminar) For full consideration, please apply by __Wednesday January 21__.
-
-The two courses will cover modern topics in the theory of machine learning, and deep learning in particular. Both courses will contain both theorems and experimental results, but MIT 18.408 will emphasize mathematical foundations while Harvard CS 229br will focus more on experimental insights. We recommend students take both courses, which may share some lectures and assignments, but this is optional and students can choose to take either one or both of the courses. 
-
-* [Course web page for Harvard CS 229br](cs229br) (including [slides for past lectures](cs229br.html#plan))
-
-* [Course web page for MIT 18.408](http://people.csail.mit.edu/moitra/408b.html)
-
-Introductory blog post by Boaz: [Machine Learning Theory with Bad Drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
-
-Students interested in these courses will likely also be interested in following our [machine learning theory seminar series](https://mltheory.org/#talks). You can sign up for the mailing list to get announcements and Zoom links. Also, since last spring, all the talks in this series have been recorded and available on the webpage.
+__TL;DR:__ The goal of this course is to prepare students for research in the foundations of deep learning. By the end of the course you should be able to read most cutting-edge papers in this field, as well as be capable of reproducing at least some experimental results (those that do not require an inordinate amount of computational and human resources). Ideally, you should be on the way of working on original research on the field. To achieve this the course will require a large amount of independence from students, including both self-study and peer study.
 
 
- __Prerequisites (for both CS 229br and MIT 18.408):__ Both courses will require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning. We expect that students will have both theory background (at Harvard: CS 121 and CS 124 or similar, at MIT: 6.046 or similar) as well as machine learning background (at Harvard: CS 181 or 183 or similar, at MIT: 6.036 or similar). 
+__Formal description:__ A graduate level course on recent advances and open questions in the foundations of machine learning and specifically deep learning. We will review both classical results as well as recent papers in areas including classifiers and generalization gaps, representation learning, generative models, adversarial robustness, out of distribution performance, and more.
+
+This is a fast-moving area and it will be a fast-moving course. We will aim to cover both state-of-art results, as well as the intellectual foundations for them, and have a substantive discussion on both the “big picture” and technical details of the papers. In addition to the theoretical lectures, the course will involve a programming component aiming to get students to the point where they can both reproduce results from papers and work on their own research. This component will be largely self-directed and we expect students to be proficient in Python and in picking up technologies and libraries such as pytorch/numpy/etc on their own (aka “Stack Overflow oriented programming”).
 
 
-__Apply for one or both courses:__ Both courses are open to Harvard and MIT graduate and undergraduate students.  Both courses will have a limited number of slots. You can apply to both the Harvard and MIT courses by [filling out this form](http://tiny.cc/mltheoryseminar). You can apply to one or both of the courses.
+
+ __Prerequisites:__ We require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning, at the level of an undergraduate ML course such as Harvard CS 181 or MIT 6.036. You should be familiar with topics such as empirical and population loss, gradient descent, neural networks, linear regression, principal component analysis, etc.  On the applied side, you should be comfortable with Python programming, and be able to train a basic neural network. (Or achieve this via self study before the beginning of the course; see homework zero).
+
+
+ __Apply to this course:__  The course will be capped and students will need to apply. Stay tuned for more details on this page or in our slack team. As part of the application, students will need to submit homework zero, which we will post on this page. It would not be the same, but roughly along the lines of [Spring 2021 homework zero](https://github.com/boazbk/mltheoryseminar/blob/main/code/hw0/hw0.md)
+
 
 
 
