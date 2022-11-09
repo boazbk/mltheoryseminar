@@ -1,4 +1,3 @@
-# CS 229br - Foundations of Deep Learning (aka Topics in the Foundations of Machine Learning)
 
 
 __Spring 2022__,  __Thursdays 3:45pm-6p:30m__ 
