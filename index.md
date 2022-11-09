@@ -1,12 +1,12 @@
 
 
-__Spring 2022__,  __Thursdays 3:45pm-6p:30m__ 
+__Spring 2023__,  __Thursdays 3:45pm-6p:30m__ 
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
 __Teaching Fellows:__ [Gustaf Ahdritz](https://gahdritz.github.io/), [Gal Kaplun](https://www.galkaplun.com/)
 
-See also [Spring 2021 version](/cs229br) (the field is moving rapidly, and so the courses would not be the same, but it gives some sense.)
+See also [Spring 2021 version](/mltheoryseminar/cs229br) (the field is moving rapidly, and so the courses would not be the same, but it gives some sense.)
 
 __TL;DR:__ The goal of this course is to prepare students for research in the foundations of deep learning. By the end of the course you should be able to read most cutting-edge papers in this field, as well as be capable of reproducing at least some experimental results (those that do not require an inordinate amount of computational and human resources). Ideally, you should be on the way of working on original research on the field. To achieve this the course will require a large amount of independence from students, including both self-study and peer study.
 
