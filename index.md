@@ -1,6 +1,7 @@
+# CS 229br - Foundations of Deep Learning (aka Topics in the Foundations of Machine Learning)
 
-# CS 229br: Foundations of Deep Learning (aka Topics in the Foundations of Machine Learning)
-__Spring 2022 Thursdas 3:45pm-6p:30m__ 
+
+__Spring 2022__,  __Thursdays 3:45pm-6p:30m__ 
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
