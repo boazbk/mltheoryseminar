@@ -10,6 +10,12 @@ See also [Spring 2021 version](/mltheoryseminar/cs229br) (the field is moving ra
 
 __TL;DR:__ The goal of this course is to prepare students for research in the foundations of deep learning. By the end of the course you should be able to read most cutting-edge papers in this field, as well as be capable of reproducing at least some experimental results (those that do not require an inordinate amount of computational and human resources). Ideally, you should be on the way of working on original research on the field. To achieve this the course will require a large amount of independence from students, including both self-study and peer study.
 
+See also these two blog posts of Boaz:
+
+* [The uneasy relationship between deep learning and (classical) statistics](https://windowsontheory.org/2022/06/20/the-uneasy-relationship-between-deep-learning-and-classical-statistics/)
+
+* [ML Theory with bad drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/)
+
 
 __Formal description:__ A graduate level course on recent advances and open questions in the foundations of machine learning and specifically deep learning. We will review both classical results as well as recent papers in areas including classifiers and generalization gaps, representation learning, generative models, adversarial robustness, out of distribution performance, and more.
 

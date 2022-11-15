@@ -1,12 +1,14 @@
 # Harvard CS 229br Spring 2021: Advanced Topics in the theory of machine learning
 
 
-__NOTE:__ This is the web page for the Spring 2021 version of the course.  See [Spring 2023 version](/mltheoryseminar)
+__NOTE:__ This is the web page for the Spring 2021 version of the course.  See [Spring 2023 version](/mltheoryseminar) 
 
 
 __Boaz Barak__
 
 __Mondays 12-3__
+
+See [blog posts for (almost) all lectures in this seminar](https://windowsontheory.org/category/ml-theory-seminar/?order=asc)
 
 __Official teaching fellows:__  [Yamini Bansal](https://yaminibansal.com/) ybansal (at) g.harvard.edu, Javin Pombra
 
@@ -34,9 +36,11 @@ __Apply for one or both courses:__ Both courses are open to Harvard and MIT grad
 * [Homework 1](https://github.com/boazbk/mltheoryseminar/blob/main/code/hw1/HW1.pdf)
 
 <a name="plan"></a>
-### Tentative plan and lecture slides
+###  Lectures
 
-(Plans for future lectures are very tentative. Slides with animation and annotation are posted after the lecture)
+[blog posts for (almost) all lectures in this seminar](https://windowsontheory.org/category/ml-theory-seminar/?order=asc)
+
+
 
 0. Pre lecture [introductory blog](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/).
 
