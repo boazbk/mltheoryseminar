@@ -126,7 +126,7 @@ Your solution here
 \end{solution}
 
 \begin{subquestion}[Optimization]
-In this question we consider the \textit{under parameterized} setting where $n \gg d$. Let $\mathcal{F}$ be the set $\{ f_w : w\in \mathbb{R}^{d+1} \}$ where $f_w(x) = \langle w,x \rangle$. Assume $\| w_*\|^2=d$, and consider the \textit{stochastic gradient descent} algorithm on $\mathcal{L}$.
+In this question we consider the \textit{under-parameterized} setting where $n \gg d$. Let $\mathcal{F}$ be the set $\{ f_w : w\in \mathbb{R}^{d+1} \}$ where $f_w(x) = \langle w,x \rangle$. Assume $\| w_*\|^2=d$, and consider the \textit{stochastic gradient descent} algorithm on $\mathcal{L}$.
 For $(x,y)$ and function $f:\mathbb{R}^d \rightarrow \mathbb{R}$, we define $\mathcal{L}_{x,y}(f) = (f(x)-y)^2$, and consider the following algorithm, where $\delta,\eta$ are hyperparameters: 
 
 \begin{itemize}
@@ -154,7 +154,7 @@ It is possible to use this fact to prove that, in this particular setting, SGD c
 
 
 \begin{subquestion}[Inductive bias]
-In this question we consider the \textit{over parameterized} setting where $n\ll d$. We show that in this case gradient descent has a certain bias toward low norm solutions. Specifically, consider the algorithm above.
+In this question we consider the \textit{over parameterized} setting where $n\ll d$. We show that in this case gradient descent has a certain bias toward low-norm solutions. Specifically, consider the algorithm above.
 
 \begin{enumerate}
 
@@ -184,12 +184,6 @@ Thus, among all possible ``interpolating solutions'' to the training set, the al
 Complex classical algorithms often depend on elementary algorithms with well-known properties---think binary search and quicksort---as subroutines. Analogously, state-of-the-art machine learning (ML) pipelines are often built with combinations of ``soft'' pretrained machine learning primitives. Developing a familiarity with the rapidly expanding toolkit of these ML ``building blocks'' will make it easier to read new ML papers and design ML solutions of your own. \\
 
 Over the past couple of years, OpenAI's CLIP has become a popular primitive for a wide range of image-related tasks. In this exercise, we will use CLIP to build a simple text-to-image search tool. \\
-
-{\color{blue} \textbf{Submission instructions:} Submit a PDF with the results of your experiments
-(summary, any relevant plots, etc). At the top of the PDF, include links to your
-code as \href{https://gist.github.com/}{Github gists}. (For jupyter notebooks: drag-and-drop them onto gist, and make sure the file extension is .ipynb so it renders properly. Include the output cells for jupyter
-notebooks, so we know the results of running your code).
-}
     \end{question}
 
 \begin{subquestion}[Setup]
@@ -241,7 +235,7 @@ Despite its simplicity, this tool is powerful; note that you can search for arbi
 
 \begin{enumerate}
     \item Since we know that our images probably always come from a small number of categories (our TinyImageNet labels), we could augment images in our database using metadata from a classifier. Train a classifier (using a simple MLP or any other architecture of your choice) to predict the label of an image given its CLIP embedding. Specifically, the output should be a distribution over four labels chosen at random from the set of TinyImageNet labels with training data (this happens to be a subset of all of the labels represented in the validation set). The remaining labels should be grouped together into a single ``other'' label. Use cross-entropy loss. Additionally, be very careful not to backpropagate into CLIP; \texttt{detach} all CLIP vectors before you feed them to your classifier, ensuring that you only train the parameters of the classifier itself. In other words, CLIP should be ``frozen'' for this training run. For the purposes of this problem, there's no need to actually incorporate classifier predictions into your search tool; training the classifier is enough. Again, we recommend tracking your classifier's validation set accuracy across the different labels using \texttt{wandb}. Submit your code and a plot of your classifier's validation set accuracy over time.
-    \item In Question~\ref{ques:searchengine}, you'll have noticed that your search engine's performance is much worse on some labels than others. Suppose that you have reason to believe that some of these low-accuracy queries are particularly important; let's say \textit{e.g.} you think your users will be enthusiastic about the verbatim query ``scorpion,'' which currently has low accuracy. In such cases, you might consider manually intervening. We have training data for ``scorpion,'' and, as we have argued, that training data is more likely to resemble validation set scorpions than the images CLIP was trained on. Think about how we can use this training data to improve corresponding queries. One simple approach is to train an MLP using SGD to map the single CLIP text query to a query more closely aligned with the CLIP image embeddings of the training data. This has the advantage of not requiring much thought on our part. We encourage you to try this; by passing your low-accuracy ImageNet label CLIP queries through bespoke MLPs, you'll be able to improve accuracy to $> 0.8$. \\
+    \item In Question~\ref{ques:searchengine}, you'll have noticed that your search engine's performance is much worse on some labels than others. Suppose that you have reason to believe that some of these low-accuracy queries are particularly important; let's say \textit{e.g.} you think your users will be enthusiastic about the verbatim query ``scorpion,'' which currently has low accuracy. In such cases, you might consider manually intervening. We have training data for ``scorpion,'' and, as we have argued, that training data is more likely to resemble validation set scorpions than the images CLIP was trained on. Think about how we can use this training data to improve corresponding queries. One simple approach is to train an MLP using SGD to map the single CLIP text query to a query more closely aligned with the CLIP image embeddings of the training data. This has the advantage of not requiring much thought on our part. We encourage you to try this; by passing your low-accuracy ImageNet label CLIP queries through bespoke MLPs, you'll be able to improve accuracy to $>= 0.8$. \\
     
     A common pitfall, however, is applying ML where it isn't strictly needed, creating solutions that are more opaque and therefore difficult to maintain than necessary. Can you think of a simple way to use the CLIP training image embeddings for a particular label to create a better query vector for that label without training a model?
 \end{enumerate}
