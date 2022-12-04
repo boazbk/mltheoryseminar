@@ -131,7 +131,7 @@ For $(x,y)$ and function $f:\mathbb{R}^d \rightarrow \mathbb{R}$, we define $\ma
 
 \begin{itemize}
     \item Let $w_0 \sim N(0,\delta \cdot I_d)$. 
-    \item For $t=1,2,\ldots,n$ do the following:
+    \item For $t=0,2,\ldots,n-1$ do the following:
         \begin{itemize}
             \item Let $(x,y) \sim D_{w_*}$
             \item Let $w_{t+1} = w_t - \eta \nabla \mathcal{L}_{(x,y)}(f_{w_t})$
@@ -158,9 +158,9 @@ In this question we consider the \textit{over parameterized} setting where $n\ll
 
 \begin{enumerate}
 
-\item Prove that in all steps of stochastic gradient descent above, we maintain the invariant that $w_t \in \mathrm{Span}(w_0,x_1,\ldots,x_{t-1})$ where $(x_i,y_i)$ is the sample drawn in step $i$. 
+\item Prove that in all steps of stochastic gradient descent above, we maintain the invariant that $w_t \in \mathrm{Span}(w_0,x_0,\ldots,x_{t-1})$ where $(x_i,y_i)$ is the sample drawn in step $i$. 
 
-\item Let $S$ be some set $\{ (x_1,y_1),\ldots, (x_n,y_n) \}$ in $\mathbb{R}^d$ in ``general position'' ( $\| x_i \|^2\approx d$ for all $i$, $\langle x_i,x_j \rangle^2 = o(\sqrt{d})$ for all $i \neq j$, $|y_i|^2 = O(1)$) and let $w_0 = 0$. Suppose that we run the algorithm on $S$ and that it successfully converges, i.e. $\forall i \leq n, \langle x_i, w_n \rangle = y_i$. Prove that $w_n$ is 
+\item Let $S$ be some set $\{ (x_0,y_0),\ldots, (x_{n-1},y_{n-1}) \}$ in $\mathbb{R}^d$ in ``general position'' ( $\| x_i \|^2\approx d$ for all $i$, $\langle x_i,x_j \rangle^2 = o(\sqrt{d})$ for all $i \neq j$, $|y_i|^2 = O(1)$) and let $w_0 = 0$. Suppose that we run the algorithm on $S$ and that it successfully converges, i.e. $\forall i \leq n, \langle x_i, w_n \rangle = y_i$. Prove that $w_n$ is 
 
 $$\arg\min_{w : \text{ s.t. } \langle x_i, w \rangle = y_i} \| w \|^2$$
 
