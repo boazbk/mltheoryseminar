@@ -6,7 +6,7 @@ __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
 __Teaching Fellows:__ [Gustaf Ahdritz](https://gahdritz.github.io/), [Gal Kaplun](https://www.galkaplun.com/)
 
-See also [Spring 2021 version](/mltheoryseminar/cs229br) (the field is moving rapidly, and so the courses would not be the same, but it gives some sense.)
+See also [Spring 2021 version](/mltheoryseminar/cs229br) (the field is moving rapidly, and so the courses would not be the same, but it gives some sense; also, the spring 2021 was held over Zoom - Spring 2023 course would be much more "hand on" and so you could expect going into greater depth but also more work.)
 
 __TL;DR:__ The goal of this course is to prepare students for research in the foundations of deep learning. By the end of the course you should be able to read most cutting-edge papers in this field, as well as be capable of reproducing at least some experimental results (those that do not require an inordinate amount of computational and human resources). Ideally, you should be on the way of working on original research on the field. To achieve this the course will require a large amount of independence from students, including both self-study and peer study.
 
@@ -23,7 +23,7 @@ This is a fast-moving area and it will be a fast-moving course. We will aim to c
 
 
 
- __Prerequisites:__ We require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning, at the level of an undergraduate ML course such as Harvard CS 181 or MIT 6.036. You should be familiar with topics such as empirical and population loss, gradient descent, neural networks, linear regression, principal component analysis, etc.  On the applied side, you should be comfortable with Python programming, and be able to train a basic neural network. (Or achieve this via self study before the beginning of the course; see homework zero).
+ __Prerequisites:__ We require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning, at the level of an undergraduate ML course such as Harvard CS 181 or MIT 6.036. You should be familiar with topics such as empirical and population loss, gradient descent, neural networks, linear regression, principal component analysis, etc.  On the applied side, you should be comfortable with Python programming, and be able to train a basic neural network. (Or achieve this via self study before the beginning of the course; see homework zero). 
 
 
  __Apply to this course:__  The course will be capped and students will need to apply. Before applying, please make sure to complete __homework zero__ which you should submit as part of the application. Applications are due by __January 17, 2023 11:59pm.__
