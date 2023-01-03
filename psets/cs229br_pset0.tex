@@ -78,6 +78,9 @@
 
 This homework should be done \emph{before} the semester starts, and would need to be submitted as part of the form to apply for the course. Given limited teaching resources, we will need to cap the number of admitted students. However, we hope that you will still enjoy working on this problem set, even if we are not able to offer you a seat. When working on these problem sets, feel free to use any book or online resource to brush up on topics. We do expect from you not to try just search the concrete question and copy the answer, but rather learn enough about the topic that you can understand it. In fact, being able to search up and learn on your own will be an important skill for succeeding in this course. \textbf{Collaboration is not allowed for this problem set.} While limited collaboration will be allowed for future problem sets, you should solve problem set zero on your own. 
 
+\medskip
+If you have questions on the homework, feel free to email all of us (Boaz+Gustaf+Gal).
+
 \medskip 
 {\color{red} \textbf{Submission instructions:} Use the \href{https://forms.gle/gjXbdCVbqxRVu6Bj6}{Google Form} to submit your solution as two PDF files. For the Theory part, type up your solutions using \LaTeX\ using the provided template. For the programming part, submit a pdf of your jupyter notebook with the required code, plots, and responses.}
 
@@ -117,7 +120,7 @@ Let $\mathcal{F}$ be a finite set of bounded functions mapping $\mathbb{R}^d$ to
 \begin{equation*}
     \max_{f\in\mathcal{F}} \left|   \mathcal{L}(f) \;-\; \tfrac{1}{n}\sum_{(x,y)\in S} \left( f(x)-y\right)^2 \right| \leq O\left(\sqrt{\tfrac{\log |\mathcal{F}|}{n}} \right)
 \end{equation*}
-\textbf{Hint.} See \href{https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf}{link}.  
+\textbf{Hint.} See \href{https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf}{link}.  We will also accept solutions that are \textit{poly-log}$(n)$ loose in the bound above. 
 \end{subquestion}
 
 
@@ -134,13 +137,13 @@ For $(x,y)$ and function $f:\mathbb{R}^d \rightarrow \mathbb{R}$, we define $\ma
     \item For $t=0,2,\ldots,n-1$ do the following:
         \begin{itemize}
             \item Let $(x,y) \sim D_{w_*}$
-            \item Let $w_{t+1} = w_t - \eta \nabla \mathcal{L}_{(x,y)}(f_{w_t})$
+            \item Let $w_{t+1} = w_t - \eta \nabla_w \mathcal{L}_{(x,y)}(f_{w_t})$
         \end{itemize}
 \end{itemize}
 
 Prove that, \textit{in expectation}, this algorithm makes progress towards the optimal solution in every iteration. Specifically, prove that there exists some constant $c \in \mathcal{R}$ such that, for any $t$:
 \begin{equation*}
-    E[\nabla L_{(x_t, y_t)}(f_{w_t})] = c(w_t - w_*)
+    E[\nabla_w L_{(x_t, y_t)}(f_{w_t})] = c(w_t - w_*)
 \end{equation*}
 
 It is possible to use this fact to prove that, in this particular setting, SGD converges to the optimal solution with high probability.

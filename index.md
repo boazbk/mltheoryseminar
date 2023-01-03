@@ -26,7 +26,7 @@ This is a fast-moving area and it will be a fast-moving course. We will aim to c
  __Prerequisites:__ We require mathematical maturity, and proficiency with proofs, probability, and information theory, as well as the basics of machine learning, at the level of an undergraduate ML course such as Harvard CS 181 or MIT 6.036. You should be familiar with topics such as empirical and population loss, gradient descent, neural networks, linear regression, principal component analysis, etc.  On the applied side, you should be comfortable with Python programming, and be able to train a basic neural network. (Or achieve this via self study before the beginning of the course; see homework zero). 
 
 
- __Apply to this course:__  The course will be capped and students will need to apply. Before applying, please make sure to complete __homework zero__ which you should submit as part of the application. Applications are due by __January 17, 2023 11:59pm.__
+ __Apply to this course:__  The course will be capped and students will need to apply. Before applying, please make sure to complete __homework zero__ which you should submit as part of the application. Applications are due by __January 17, 2023 11:59pm.__ __Note:__ If you have any questions about homework zero then feel free to email Boaz+Gustaf+Gal.
 
  * [Course application form](https://forms.gle/gjXbdCVbqxRVu6Bj6)
 
