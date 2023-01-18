@@ -1,6 +1,8 @@
 
 
-__Spring 2023__,  __Thursdays 3:45pm-6:30pm  SEC 1.402 Classroom__ (First lecture Jan 26)
+__Spring 2023__,  __Thursdays 3:45pm-6:30pm  SEC 1.402 Classroom__ (First lecture Jan 26)   
+
+[Tentative schedule](https://docs.google.com/document/d/e/2PACX-1vSZE-bkKIbCaAJAPcAIsfJJFMXfyYEhZ-Dk-O1SaBPce4nuUlx5TcxNv1kja-a6dXTjXbqK9_Z-1Fiz/pub)
 
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
@@ -8,6 +10,7 @@ __Instructor:__ [Boaz Barak](https://boazbarak.org)
 __Teaching Fellows:__ [Gustaf Ahdritz](https://gahdritz.github.io/), [Gal Kaplun](https://www.galkaplun.com/)
 
 Links (enrolled students only): [Canvas](https://canvas.harvard.edu/courses/115242) | [Perusall](https://app.perusall.com/courses/compsci-229br-topics-in-the-foundations-of-machine-learning) | [Gradescope](https://www.gradescope.com/courses/497948)
+
 
 
 See also [Spring 2021 version](/mltheoryseminar/cs229br) (the field is moving rapidly, and so the courses would not be the same, but it gives some sense; also, the spring 2021 was held over Zoom - Spring 2023 course would be much more "hand on" and so you could expect going into greater depth but also more work.)
