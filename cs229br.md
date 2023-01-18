@@ -1,7 +1,7 @@
 # Harvard CS 229br Spring 2021: Advanced Topics in the theory of machine learning
 
 
-__NOTE:__ This is the web page for the Spring 2021 version of the course.  See [Spring 2023 version](/mltheoryseminar) 
+__NOTE:__ This is the web page for the __Spring 2021 version__ of the course.  See [Spring 2023 version](/mltheoryseminar) 
 
 
 __Boaz Barak__
