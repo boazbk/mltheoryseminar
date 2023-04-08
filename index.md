@@ -2,7 +2,6 @@
 
 __Spring 2023__,  __Thursdays 3:45pm-6:30pm  SEC 1.402 Classroom__ (First lecture Jan 26)   
 
-[Tentative schedule](https://docs.google.com/document/d/e/2PACX-1vSZE-bkKIbCaAJAPcAIsfJJFMXfyYEhZ-Dk-O1SaBPce4nuUlx5TcxNv1kja-a6dXTjXbqK9_Z-1Fiz/pub)
 
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
@@ -208,6 +207,11 @@ _(No lecture on Thursday, March 16, 2023)_
 
 
 ## Lecture 10: Thursday, April 6, 2023
+
+
+[slides (powerpoint)](https://files.boazbarak.org/mlseminar/lec10.pptx) 
+[slides (pdf)](https://files.boazbarak.org/mlseminar/lec10.pdf)
+
 
 **AI Safety, Fairness, Accountability, Transparency, Alignment.**
 
