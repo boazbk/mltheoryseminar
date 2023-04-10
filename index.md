@@ -248,6 +248,26 @@ We might not talk a lot about adversarial robustness but some sources include
 
 Guest lecture on efficient training of deep nets, by [Horace He](https://twitter.com/chhillee) from the Pytorch team.
 
+__Reading:__
+
+[The Bitter Lesson / Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+[Is Moore's law ending or not? / Herz](https://www.semianalysis.com/p/a-century-of-moores-law)
+
+
+[Hollinworth video - GPU programming - especially 15m30 to 22m20](https://www.youtube.com/watch?v=QQceTDjA4f4&t=15m30s)
+
+Horace He: [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
+
+
+[Overview of Parallelism Strategies / Lilian Weng](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+
+
+[Matt Pharr: the story of ispc](https://pharr.org/matt/blog/2018/04/30/ispc-all)
+
+
+
+
 
 ### Lecture 12: Thursday, April 20, 2023
 
