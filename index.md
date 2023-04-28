@@ -303,6 +303,19 @@ __Reading__ Some historical notes about the development of AI:
 * Early-ish discussions on "singularity" [I.J. Good 1966](https://www.sciencedirect.com/science/article/abs/pii/S0065245808604180) , [Vinge 1993](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 
 
+__Future predictions:__
+
+* [Stanford AI index report](https://aiindex.stanford.edu/report/)
+
+* [Epoch AI tracking of compute and other resources of ML models](https://epochai.org/mlinputs/visualization?startDate=1950-1-1&endDate=2023-4-1&xAxis=Publication%20date&yAxis=Training%20compute%20(FLOP)&separateCategories=true&citationThreshold=0&otherDomainThreshold=10&startDlEra=1950-1-1&startLargeScaleEra=1950-1-1&largeScaleAction=label&outliersAction=remove&recordSettersAction=ignore&bigAlphagoAction=ignore&alphagozeroAction=ignore&lowOutliersZValueThreshold=-2&highOutliersZValueThreshold=0.76&outlierWindowSize=2&filterText=&splitDomains=&domainsToNotSplit=NaN&ranges=[object%20Object]&splitDlEra=true&splitLargeScaleEra=true&plotRegressions=false&bootstrapSampleSize=10&adjustForEstimateUncertainty=true&preset=Three%20eras%20of%20compute&aspectRatio=fit%20to%20container&autoresetCamera=true&showTitle=true&labelEras=true&showDoublingTimes=true&showOpenAITrend=false&regressionDecimals=1&textSize=100&systemAlpha=100&systemNames=hide&showLegend=true&parametersRange=NaN,NaN&trainingComputeRange=NaN,NaN&inferenceComputeRange=NaN,NaN&trainingDatasetSizeRange=NaN,NaN&inferenceComputePerParameterRange=NaN,NaN&inferenceComputeTimesParameterRange=NaN,NaN&labelPoints=false)
+
+* [Survey of NLP researchers by Michael et al, 2022](https://arxiv.org/abs/2208.12852)
+
+
+
+
+
+
 
 
 
