@@ -273,5 +273,36 @@ Horace He: [Making Deep Learning Go Brrrr From First Principles](https://horace.
 
 
 
+[slides (powerpoint)](https://files.boazbarak.org/mlseminar/lec12.pptx) 
+[slides (pdf)](https://files.boazbarak.org/mlseminar/lec12.pdf)
+
+
+
+Course summary, looking back into the early days of computers in general and AI in particular, as well as trying to make predictions about the future.
+
+__Reading__ Some historical notes about the development of AI:
+
+* John von Neumann [The Computer and the Brain](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Neumann-1958%20The%20Computer%20and%20the%20Brain.pdf)
+
+* A  [New Yorker profile on Marvin Minsky from 1981](https://www.newyorker.com/magazine/1981/12/14/a-i). This is not just for reading about Minsky’s achievements, but also to get a sense of the people involved, and how AI research was perceived in the early 1980s. (Even if the author is too reverential towards Minsk
+
+* Original 1943 paper of [McCullough and Pitts](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
+
+* Alan Turing's 1950 [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) where he presented his famous "Turing test".
+
+* Rosenblatt's 1961 [book on preceptrons](https://apps.dtic.mil/sti/pdfs/AD0256582.pdf)
+
+* [Rumelhart-Hinton-Williams backpropagation paper](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+
+* The [proposal for the 1956 Dartmouth workshop](https://web.archive.org/web/20070826230310/http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html) see also [Wikipedia article](https://en.wikipedia.org/wiki/Dartmouth_workshop)
+
+* [Sir James Lighthill's 1972 report on state of AI](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/p001.htm) this depressing report summarizes the perception of an "AI winter" and apparently also [caused the UK AI winter](https://en.wikipedia.org/wiki/Lighthill_report).
+
+* [Talking Nets: Oral history](https://www.amazon.com/Talking-Nets-History-Neural-Networks/dp/0262511118) - Anderson and Rosenfeld 1998. A sequence of interviews taken in the 1990s with Michael Arbib, Gail Carpenter, Leon Cooper, Jack Cowan, Walter Freeman, Stephen Grossberg, Robert Hecht-Neilsen, Geoffrey Hinton, Teuvo Kohonen, Bart Kosko, Jerome Lettvin, Carver Mead, David Rumelhart, Terry Sejnowski, Paul Werbos, and Bernard Widrow.
+
+* Early-ish discussions on "singularity" [I.J. Good 1966](https://www.sciencedirect.com/science/article/abs/pii/S0065245808604180) , [Vinge 1993](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
+
+
+
 
 
