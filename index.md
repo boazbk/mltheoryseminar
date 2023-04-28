@@ -248,6 +248,8 @@ We might not talk a lot about adversarial robustness but some sources include
 
 Guest lecture on efficient training of deep nets, by [Horace He](https://twitter.com/chhillee) from the Pytorch team.
 
+[Horace's slides](https://docs.google.com/presentation/d/1KpS7xPxhccMJJHd7JGZYKvZeo5dP88gtkTvDRGMdBKI/edit#slide=id.g22d577a3f2d_0_1054)
+
 __Reading:__
 
 [The Bitter Lesson / Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
