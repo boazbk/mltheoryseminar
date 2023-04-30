@@ -192,7 +192,15 @@ _(No lecture on Thursday, March 16, 2023)_
 
 **Reinforcement learning - guest lecture by Sham Kakade**
 
-**Readings:** [**David Silver slides on MDP**](https://www.davidsilver.uk/wp-content/uploads/2020/03/MDP.pdf). [**AlphaZero paper**](https://arxiv.org/abs/1712.01815)**. **[**MuZero paper**](https://arxiv.org/abs/1911.08265). [**Proximal Policy Optimization (PPO) Schulman et al**](https://arxiv.org/abs/1707.06347)
+**Readings:** 
+
+* [David Silver slides on MDP](https://www.davidsilver.uk/wp-content/uploads/2020/03/MDP.pdf) 
+
+* [AlphaZero paper](https://arxiv.org/abs/1712.01815)
+
+* [MuZero paper](https://arxiv.org/abs/1911.08265). 
+
+* [Proximal Policy Optimization (PPO) Schulman et al](https://arxiv.org/abs/1707.06347)
 
 
 ## Lecture 9: Thursday, March 30, 2023
@@ -274,7 +282,7 @@ __Reading:__
 [Is Moore's law ending or not? / Herz](https://www.semianalysis.com/p/a-century-of-moores-law)
 
 
-[Hollinworth video - GPU programming - especially 15m30 to 22m20](https://www.youtube.com/watch?v=QQceTDjA4f4&t=15m30s)
+[Stephen Jones video - GPU programming - especially 15m30 to 22m20](https://www.youtube.com/watch?v=QQceTDjA4f4&t=15m30s)
 
 Horace He: [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 
