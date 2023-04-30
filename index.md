@@ -203,7 +203,22 @@ _(No lecture on Thursday, March 16, 2023)_
 
 
 
-**Test-time computation**-  test-time augmentation, beam search, retrieval-based models, differntiable vs non-differentiable memory and tools. Survey on [augmented language models](https://arxiv.org/abs/2302.07842).
+**Test-time computation**-  test-time augmentation, beam search, retrieval-based models, differntiable vs non-differentiable memory and tools. 
+
+__Reading:__
+
+* Survey on [augmented language models](https://arxiv.org/abs/2302.07842).
+
+* __Best of n outputs__ [WebGPT paper](https://arxiv.org/abs/2112.09332), __plurality voting__  [Wang et al](https://arxiv.org/abs/2203.11171), [Minerva paper](https://arxiv.org/abs/2206.14858) 
+
+* __In-context learning,__ and is it really "learning" or "conext conditioning": [Min et al](https://arxiv.org/abs/2202.12837) - in-context examples more useful for the data distributions than labels,  [Wei et al](https://arxiv.org/abs/2303.03846) - LLMs can adapt to label dist also
+
+* __Chain of thought__: [Wei et al](https://arxiv.org/abs/2201.11903), __zero shot CoT__ [Kojima et al ("step by step")](https://arxiv.org/abs/2205.11916)
+
+* __Differentiable memory:__ [RETRO (Deepmind)](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens)  , [Memorizing transformers](https://arxiv.org/abs/2203.08913), [Ruccrent memory (Bulatov et al)](https://arxiv.org/abs/2304.11062)
+
+* __Non-differentiable memory, Natural language as universal API__ [Toolformer (Schick et al)](https://arxiv.org/abs/2302.04761), see also "Bing inner monologue" (e.g. [here](https://twitter.com/StudentInfosec/status/1640360234882310145?s=20), [here](https://www.reddit.com/r/bing/comments/11ironc/bing_reveals_its_data_structure_for_conversations/), unsure the extent these are confirmed), [langchain](https://github.com/hwchase17/langchain), [Taskmatrix.ai](https://arxiv.org/abs/2303.16434)
+
 
 
 ## Lecture 10: Thursday, April 6, 2023
@@ -212,6 +227,8 @@ _(No lecture on Thursday, March 16, 2023)_
 [slides (powerpoint)](https://files.boazbarak.org/mlseminar/lec10.pptx) 
 [slides (pdf)](https://files.boazbarak.org/mlseminar/lec10.pdf)
 
+
+[Boaz's post-lecture blog post on safety](https://windowsontheory.org/2023/04/12/thoughts-on-ai-safety/)
 
 **AI Safety, Fairness, Accountability, Transparency, Alignment.**
 
