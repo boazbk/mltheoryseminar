@@ -61,7 +61,13 @@ Options (not sure how much we will cover): Vision transformers, MLP mixer,  att
 
 **Reading**:
 
-Model: [original paper](https://arxiv.org/abs/1706.03762) and [annotated version](http://nlp.seas.harvard.edu/annotated-transformer/)\* ([colab version](https://colab.research.google.com/github/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb)), 
+Model: [original paper](https://arxiv.org/abs/1706.03762) and [annotated version](http://nlp.seas.harvard.edu/annotated-transformer/)  ([colab version](https://colab.research.google.com/github/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb))
+
+Other transformer tutorials:
+
+* [Peter Blohem](https://peterbloem.nl/blog/transformers) blog - informal initial introduction 
+* [Phuong-Hutter](https://arxiv.org/abs/2207.09238) formal survey
+* [Andrej Karpathy video](https://www.youtube.com/watch) - GPT from scratch. Even if you don't code along with the video you will learn a lot from watching it and Karpathy's commentary
 
 Vision: [vision transformer](https://arxiv.org/abs/2010.11929), [MLP mixer](https://arxiv.org/abs/2105.01601)
 
