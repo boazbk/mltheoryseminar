@@ -331,6 +331,8 @@ __Reading__ Some historical notes about the development of AI:
 
 * [Sir James Lighthill's 1972 report on state of AI](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/p001.htm) this depressing report summarizes the perception of an "AI winter" and apparently also [caused the UK AI winter](https://en.wikipedia.org/wiki/Lighthill_report).
 
+* [A sociological history of the neural network controversy](https://gwern.net/doc/ai/nn/1993-olazaran.pdf) - Olazaran, 1993.
+
 * [Talking Nets: Oral history](https://www.amazon.com/Talking-Nets-History-Neural-Networks/dp/0262511118) - Anderson and Rosenfeld 1998. A sequence of interviews taken in the 1990s with Michael Arbib, Gail Carpenter, Leon Cooper, Jack Cowan, Walter Freeman, Stephen Grossberg, Robert Hecht-Neilsen, Geoffrey Hinton, Teuvo Kohonen, Bart Kosko, Jerome Lettvin, Carver Mead, David Rumelhart, Terry Sejnowski, Paul Werbos, and Bernard Widrow.
 
 * Early-ish discussions on "singularity" [I.J. Good 1966](https://www.sciencedirect.com/science/article/abs/pii/S0065245808604180) , [Vinge 1993](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
