@@ -14,6 +14,8 @@ __Apply to this course:__ The course will be capped and students will need to ap
 
 * [Course application form](https://forms.gle/csF2BAwviLMNt48J7)
 
+__Questions?__ If you have any questions about the course, please email [harvardcs2881@gmail.com](mailto:harvardcs2881@gmail.com)
+
 __Related reading by Boaz:__
 
 * [Machines of Faithful Obedience](https://windowsontheory.org/2025/06/24/machines-of-faithful-obedience/)
