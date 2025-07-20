@@ -1,4 +1,4 @@
-title: CS229br Foundations of Deep Learning (aka Topics in the Foundations of Machine Learning)
+title: CS 2881 AI Safety (aka Topics in the Foundations of Machine Learning)
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
 github:
@@ -6,5 +6,3 @@ github:
   is_user_page: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
