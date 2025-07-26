@@ -32,6 +32,8 @@ __Previous versions:__ [Spring 2023 ML Theory Seminar](spring2023.md) | [Spring 
 
 Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
+**Note:** This schedule is periodically synchronized with the [course schedule Google Doc](https://docs.google.com/document/d/e/2PACX-1vTPSa3A9sIhgiDU-tTLpqipbyQjqpq3lNYlHpoRvq9EXa3NtDfgy-Zj-hz9zWKeE_YDyPa0TcN-B899/pub), which contains the most up-to-date version.
+
 <style>
 .lecture-schedule {
   margin: 2rem 0;
