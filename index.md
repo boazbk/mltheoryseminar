@@ -273,8 +273,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2305.12417">Pan et al. – "RewardBench: Specification Robustness Benchmark" (2023)</a></li>
         <li><a href="https://governance.ai/files/WhoAuditsAI.pdf">Raji et al. – "Who Audits AI Systems?" (2022)</a></li>
         <li><a href="https://dl.acm.org/doi/10.1145/3287560.3287596">Mitchell et al. – "Model Cards for Model Reporting" (2019)</a></li>
-        <li>Constitutional AI research</li>
-        <li>Deliberative alignment research</li>
+        <li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback">Constitutional AI research</a></li>
+        <li><a href="https://openai.com/index/deliberative-alignment/">Deliberative alignment research</a></li>
       </ul>
     </div>
   </div>
