@@ -214,6 +214,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2309.18878">Lee, K., et al. – "Reinforcement Learning from AI Feedback" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
         <li><a href="https://sebastianraschka.com/blog/2024/llm-architecture-comparison.html">Raschka, S. – "The Big LLM Architecture Comparison" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2309.12284">Qwen GSPO link</a></li>
       </ul>
     </div>
   </div>
@@ -247,6 +248,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2406.13352">Trask et al. – "Agent Dojo" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/1412.6572">Szegedy et al. – "Intriguing Properties of Neural Networks" (2014)</a></li>
         <li><a href="https://arxiv.org/abs/2302.12173">Prompt-Injection WG – "Prompt Injection Attacks & Defenses" (2023)</a></li>
+        <li><a href="https://xkcd.com/327/">XKCD cartoon</a></li>
+        <li><a href="https://krebsonsecurity.com/2019/05/first-american-financial-corp-leaked-hundreds-of-thousands-of-mortgage-documents/">Oklahoma data leak article</a></li>
+        <li><a href="https://dl.acm.org/doi/10.1145/2824233">SQL injection survey</a></li>
       </ul>
     </div>
   </div>
@@ -436,6 +440,12 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2402.00831">Chen et al. – "Towards Monosemanticity" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2211.00593">Elhage et al. – "Mechanistic Analysis of GPT-2" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2310.02909">Burns et al. – "Discovering Latent Knowledge w/o Labels" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2406.04093">Gao et al – "Scaling and evaluating sparse auto encoders"</a></li>
+        <li><a href="https://www.anthropic.com/research/mapping-mind-language-model">Anthropic sparse auto encoders</a></li>
+        <li><a href="https://arxiv.org/abs/2407.14561">Chain of thought monitoring</a></li>
+        <li><a href="https://arxiv.org/abs/2312.04335">Chain of thought position paper</a></li>
+        <li><a href="https://arxiv.org/abs/2309.17425">Negative results on SAEs</a></li>
+        <li><a href="https://arxiv.org/abs/2402.14020">Interpretability and deception analysis</a></li>
       </ul>
     </div>
   </div>
