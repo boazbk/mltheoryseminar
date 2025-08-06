@@ -203,9 +203,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf">DeepSeek AI – "DeepSeek R1 Technical Report" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2403.01997">DeepSeek AI – "DeepSeek R1 Technical Report" (2024)</a></li>
         <li><a href="https://medium.com/@sahinahmed">Ahmed, S. – "DeepSeek R1 Explained: Pioneering the Next Era of Reasoning-Driven AI" (Medium)</a></li>
-        <li><a href="https://sebastianraschka.com/blog/2024/understanding-reasoning-llms.html">Raschka, S. – "Understanding Reasoning LLMs" (2024)</a></li>
+        <li><a href="https://magazine.sebastianraschka.com/p/understanding-reasoning-llms">Raschka, S. – "Understanding Reasoning LLMs" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2204.02311">Chowdhery, A., et al. – "PaLM: Scaling Language Modeling" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2203.02155">Ouyang, L., et al. – "InstructGPT: Aligning Language Models with Human Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/1706.03741">Christiano, P., et al. – "Deep Reinforcement Learning from Human Preferences" (2017)</a></li>
@@ -271,11 +271,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://cdn.openai.com/spec/model-spec-2024-05-08.html">OpenAI Model Spec</a></li>
-        <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts">Claude system prompts</a></li>
-        <li><a href="https://arxiv.org/abs/2305.19428">Hadfield-Menell & Leike – "Scientific Progress in AI Alignment" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2305.12417">Pan et al. – "RewardBench: Specification Robustness Benchmark" (2023)</a></li>
-        <li><a href="https://governance.ai/files/WhoAuditsAI.pdf">Raji et al. – "Who Audits AI Systems?" (2022)</a></li>
+        <li><a href="https://model-spec.openai.com/2025-04-11.html">OpenAI Model Spec</a></li>
+        <li><a href="https://docs.anthropic.com/en/release-notes/system-prompts">Claude system prompts</a></li>
+        <li><a href="https://arxiv.org/abs/2403.13787">Lambert et al. – "RewardBench" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2506.01937">Malik et al. – "RewardBench 2" (2025)</a></li>
+        <li><a href="https://governance.ai">Governance.ai</a></li>
         <li><a href="https://dl.acm.org/doi/10.1145/3287560.3287596">Mitchell et al. – "Model Cards for Model Reporting" (2019)</a></li>
         <li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback">Constitutional AI research</a></li>
         <li><a href="https://openai.com/index/deliberative-alignment/">Deliberative alignment research</a></li>
@@ -300,17 +300,17 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://cdn.openai.com/papers/gpt-4-system-card.pdf">OpenAI – "Preparing for AGI & Beyond: Responsible Scaling Policy" (2024)</a></li>
+        <li><a href="https://cdn.openai.com/papers/PreventingDangerousCapabilities.pdf">OpenAI – "Preparing for AGI & Beyond: Responsible Scaling Policy" (2024)</a></li>
         <li><a href="https://openai.com/index/updating-our-preparedness-framework/">OpenAI – "Updating Our Preparedness Framework" (2024)</a></li>
         <li><a href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/">DeepMind – "Introducing the Frontier Safety Framework" (2024)</a></li>
-        <li><a href="https://www.anthropic.com/responsible-scaling-policy">Anthropic – "Announcing Our Updated Responsible Scaling Policy" (2024)</a></li>
+        <li><a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">Anthropic – "Announcing Our Updated Responsible Scaling Policy" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2305.15324">Shevlane, T., et al. – "Evaluating Frontier Models for Extreme Risks" (2023)</a></li>
         <li><a href="https://www.gov.uk/government/publications/frontier-ai-regulation-policy-paper">UK Government – "Frontier AI Regulation Policy Paper" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2303.06292">Mavridis, N., et al. – "Dangerous Capabilities Evaluations for Open-Source Large Language Models" (2023)</a></li>
         <li><a href="https://artificialintelligenceact.eu/">European Union – "AI Act" (2024)</a></li>
         <li><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/">U.S. White House – "Executive Order 14110 on Safe, Secure & Trustworthy AI" (2023)</a></li>
         <li><a href="https://csrc.nist.gov/Projects/ai-risk-management-framework">NIST – "AI Risk Management Framework" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2303.10585">Khan, A., et al. – "Compute Governance" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2402.08797">Gastry et al. – "Computing Power and AI Governance" (2024)</a></li>
         <li><a href="https://www.iso.org/standard/81228.html">ISO/IEC – "Management System Standard for AI (42001)" (2024)</a></li>
       </ul>
     </div>
@@ -333,12 +333,12 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <div class="resources-label">Resources:</div>
       <ul>
         <li><a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">Weng, L. – "Reward Hacking" (2024)</a></li>
-        <li><a href="https://www.alignmentforum.org/s/8Dczfoi6frRbCxKSy">Carlsmith, J. – "Scheming AIs: A Dangerous Alignment Problem" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2311.04345">Zou, A., et al. – "Defining and Detecting Deception in Large Language Models" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2009.02840">Lin, A., et al. – "TruthfulQA" (2022)</a></li>
-        <li><a href="https://arxiv.org/abs/2304.05334">Turner, A., et al. – "Objective Robustness in Reinforcement Learning" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/1706.08475">Hadfield-Menell, D., et al. – "Inverse Reward Design" (2017)</a></li>
-        <li><a href="https://arxiv.org/abs/2011.04198">Krueger, D., et al. – "Hidden Incentives for Auto-Induced Distributional Shift" (2020)</a></li>
+        <li><a href="https://arxiv.org/abs/2311.08379">Carlsmith, J. – "Scheming AIs Report" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2310.01405">Zou, A., et al. – "Representation Engineering" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2109.07958">Lin, A., et al. – "TruthfulQA" (2022)</a></li>
+        <li><a href="https://arxiv.org/abs/2105.14111">Turner, A., et al. – "Objective Robustness in Reinforcement Learning" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/1711.02827">Hadfield-Menell, D., et al. – "Inverse Reward Design" (2017)</a></li>
+        <li><a href="https://arxiv.org/abs/2009.09153">Krueger, D., et al. – "Hidden Incentives for Auto-Induced Distributional Shift" (2020)</a></li>
       </ul>
     </div>
   </div>
