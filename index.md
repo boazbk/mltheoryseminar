@@ -204,7 +204,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <div class="resources-label">Resources:</div>
       <ul>
         <li><a href="https://arxiv.org/abs/2403.01997">DeepSeek AI – "DeepSeek R1 Technical Report" (2024)</a></li>
-        <li><a href="https://medium.com/@sahinahmed">Ahmed, S. – "DeepSeek R1 Explained: Pioneering the Next Era of Reasoning-Driven AI" (Medium)</a></li>
+        <li><a href="https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-">Sahin Ahmed – "Deepseek R1 Overview" (Medium)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/understanding-reasoning-llms">Raschka, S. – "Understanding Reasoning LLMs" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2204.02311">Chowdhery, A., et al. – "PaLM: Scaling Language Modeling" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2203.02155">Ouyang, L., et al. – "InstructGPT: Aligning Language Models with Human Feedback" (2022)</a></li>
@@ -213,8 +213,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2309.00720">Bai, Y., et al. – "Constitutional AI" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2309.18878">Lee, K., et al. – "Reinforcement Learning from AI Feedback" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
-        <li><a href="https://sebastianraschka.com/blog/2024/llm-architecture-comparison.html">Raschka, S. – "The Big LLM Architecture Comparison" (2024)</a></li>
+        <li><a href="https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison">Raschka, S. – "LLM Architecture Comparison" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2309.12284">Qwen GSPO link</a></li>
+        <li><a href="https://arxiv.org/abs/2507.18071">Zheng et al. – "Group Sequence Policy Optimisation (GSPO)" (2025)</a></li>
       </ul>
     </div>
   </div>
@@ -277,8 +278,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2506.01937">Malik et al. – "RewardBench 2" (2025)</a></li>
         <li><a href="https://governance.ai">Governance.ai</a></li>
         <li><a href="https://dl.acm.org/doi/10.1145/3287560.3287596">Mitchell et al. – "Model Cards for Model Reporting" (2019)</a></li>
-        <li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback">Constitutional AI research</a></li>
-        <li><a href="https://openai.com/index/deliberative-alignment/">Deliberative alignment research</a></li>
+        <li><a href="https://arxiv.org/abs/2309.00720">Bai, Y., et al. – "Constitutional AI" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
       </ul>
     </div>
   </div>
