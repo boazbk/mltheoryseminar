@@ -172,14 +172,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://forecastingresearch.org/xpt">"Forecasting Research – AI X-risk Persuasion Tournament" (2024)</a></li>
         <li><a href="https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit">Tamay Besiroglu – "Does AI Progress Have a Speed Limit?" (2023)</a></li>
         <li><a href="https://www.lesswrong.com/posts/K2D45BNxnZjdpSX2j/ai-timelines">Erdil × Cotra × Kokotajlo – "Debate on AI Timelines" (2023)</a></li>
-        <li><a href="https://ar5iv.org/abs/2306.12001">Joe Carlsmith – "Power-Seeking AI: An Existential-Risk Analysis" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2404.14675">Chan et al. – "Frontier AI Safety: Open Problems & Roadmap" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2206.13353">Joe Carlsmith – "Is Power-Seeking AI an Existential Risk?" (2022)</a></li>
         <li><a href="https://www.openphilanthropy.org/research/ai-2023-review/">Open Philanthropy – "AI 2023 Review & Forecast" (2024)</a></li>
         <li><a href="https://www.alignmentforum.org/posts/tB54cimMfWEgT7mzb/alignment-terminology-clarifications">AF – "Glossary of Alignment Terminology" (living doc 2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2309.16737">Ord et al. – "Existential Risk Perspectives for Emerging Tech" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2006.01819">Cotra – "Biological Anchors Timeline Framework" (2020)</a></li>
         <li><a href="https://epochai.org/blog/trends-in-ai">Epoch AI – "Trends in AI Compute & Algorithmic Progress" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2211.03595">Besiroglu et al. – "Compute Trends Across Three AI Eras" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2202.05924">Sevilla et al. – "Compute Trends Across Three Eras of Machine Learning" (2022)</a></li>
       </ul>
     </div>
   </div>
@@ -203,14 +200,14 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://arxiv.org/abs/2403.01997">DeepSeek AI – "DeepSeek R1 Technical Report" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2501.12948">DeepSeek AI – "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning" (2025)</a></li>
         <li><a href="https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-">Sahin Ahmed – "Deepseek R1 Overview" (Medium)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/understanding-reasoning-llms">Raschka, S. – "Understanding Reasoning LLMs" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2204.02311">Chowdhery, A., et al. – "PaLM: Scaling Language Modeling" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2203.02155">Ouyang, L., et al. – "InstructGPT: Aligning Language Models with Human Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/1706.03741">Christiano, P., et al. – "Deep Reinforcement Learning from Human Preferences" (2017)</a></li>
         <li><a href="https://arxiv.org/abs/2305.18290">Rafailov, R., et al. – "Direct Preference Optimization" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2309.00720">Bai, Y., et al. – "Constitutional AI" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2212.08073">Bai, Y., et al. – "Constitutional AI: Harmlessness from AI Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2309.18878">Lee, K., et al. – "Reinforcement Learning from AI Feedback" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison">Raschka, S. – "LLM Architecture Comparison" (2024)</a></li>
@@ -278,7 +275,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2506.01937">Malik et al. – "RewardBench 2" (2025)</a></li>
         <li><a href="https://governance.ai">Governance.ai</a></li>
         <li><a href="https://dl.acm.org/doi/10.1145/3287560.3287596">Mitchell et al. – "Model Cards for Model Reporting" (2019)</a></li>
-        <li><a href="https://arxiv.org/abs/2309.00720">Bai, Y., et al. – "Constitutional AI" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2212.08073">Bai, Y., et al. – "Constitutional AI: Harmlessness from AI Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
       </ul>
     </div>
