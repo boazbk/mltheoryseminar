@@ -212,7 +212,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison">Raschka, S. – "LLM Architecture Comparison" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2309.12284">Qwen GSPO link</a></li>
-        <li><a href="https://arxiv.org/abs/2507.18071">Zheng et al. – "Group Sequence Policy Optimisation (GSPO)" (2025)</a></li>
+        <li><a href="https://arxiv.org/abs/2507.18071">Zheng et al. – "Group Sequence Policy Optimization (GSPO)" (2025)</a></li>
       </ul>
     </div>
   </div>
@@ -238,13 +238,13 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://arxiv.org/abs/2307.15043">Wei, J., et al. – "Universal and Transferable Adversarial Jailbreaks" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2307.15043">Zou, A., et al. – "Universal and Transferable Adversarial Attacks on Aligned Language Models" (2023)</a></li>
         <li><a href="https://openai.com/index/the-instruction-hierarchy/">OpenAI – "The Instruction Hierarchy" (2023)</a></li>
         <li><a href="https://www.anthropic.com/news/constitutional-classifiers">Anthropic – "Constitutional Classifiers" (2024)</a></li>
         <li><a href="https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/">OpenAI – "Trading Inference-Time Compute for Adversarial Robustness" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2503.18813">Yao et al. – "CAMEL-System: An Open-Ended AI Society" (2025)</a></li>
-        <li><a href="https://arxiv.org/abs/2406.13352">Trask et al. – "Agent Dojo" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/1412.6572">Szegedy et al. – "Intriguing Properties of Neural Networks" (2014)</a></li>
+        <li><a href="https://arxiv.org/abs/2303.17760">Li et al. – "CAMEL: Communicative Agents for 'Mind' Exploration of Large Language Model Society" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2406.13352">Debenedetti et al. – "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/1312.6199">Szegedy et al. – "Intriguing Properties of Neural Networks" (2014)</a></li>
         <li><a href="https://arxiv.org/abs/2302.12173">Prompt-Injection WG – "Prompt Injection Attacks & Defenses" (2023)</a></li>
         <li><a href="https://xkcd.com/327/">XKCD cartoon</a></li>
         <li><a href="https://krebsonsecurity.com/2019/05/first-american-financial-corp-leaked-hundreds-of-thousands-of-mortgage-documents/">Oklahoma data leak article</a></li>
@@ -304,11 +304,10 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">Anthropic – "Announcing Our Updated Responsible Scaling Policy" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2305.15324">Shevlane, T., et al. – "Evaluating Frontier Models for Extreme Risks" (2023)</a></li>
         <li><a href="https://www.gov.uk/government/publications/frontier-ai-regulation-policy-paper">UK Government – "Frontier AI Regulation Policy Paper" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2303.06292">Mavridis, N., et al. – "Dangerous Capabilities Evaluations for Open-Source Large Language Models" (2023)</a></li>
         <li><a href="https://artificialintelligenceact.eu/">European Union – "AI Act" (2024)</a></li>
         <li><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/">U.S. White House – "Executive Order 14110 on Safe, Secure & Trustworthy AI" (2023)</a></li>
         <li><a href="https://csrc.nist.gov/Projects/ai-risk-management-framework">NIST – "AI Risk Management Framework" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2402.08797">Gastry et al. – "Computing Power and AI Governance" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2402.08797">Sastry, G., et al. – "Computing Power and the Governance of Artificial Intelligence" (2024)</a></li>
         <li><a href="https://www.iso.org/standard/81228.html">ISO/IEC – "Management System Standard for AI (42001)" (2024)</a></li>
       </ul>
     </div>
@@ -333,8 +332,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">Weng, L. – "Reward Hacking" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2311.08379">Carlsmith, J. – "Scheming AIs Report" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2310.01405">Zou, A., et al. – "Representation Engineering" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2109.07958">Lin, A., et al. – "TruthfulQA" (2022)</a></li>
-        <li><a href="https://arxiv.org/abs/2105.14111">Turner, A., et al. – "Objective Robustness in Reinforcement Learning" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2109.07958">Lin, S., et al. – "TruthfulQA: Measuring How Models Mimic Human Falsehoods" (2022)</a></li>
+        <li><a href="https://arxiv.org/abs/2105.14111">Langosco, L., et al. – "Goal Misgeneralization in Deep Reinforcement Learning" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/1711.02827">Hadfield-Menell, D., et al. – "Inverse Reward Design" (2017)</a></li>
         <li><a href="https://arxiv.org/abs/2009.09153">Krueger, D., et al. – "Hidden Incentives for Auto-Induced Distributional Shift" (2020)</a></li>
       </ul>
@@ -357,7 +356,6 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <div class="resources-label">Resources:</div>
       <ul>
         <li><a href="https://arbital.com/p/agi_takeoff_speed/">Yudkowsky, E. – "AGI Take-off Speeds" (Arbital 2016)</a></li>
-        <li><a href="https://arxiv.org/abs/2308.12950">Chen et al. – "Self-Improving LLM Agents via Code Gen" (2023)</a></li>
       </ul>
     </div>
   </div>
@@ -379,10 +377,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <div class="resources-label">Resources:</div>
       <ul>
         <li><a href="https://www.goldmansachs.com/insights/technology-driving-innovation/ai-and-jobs-report.html">Goldman Sachs – "Long-Run Impact of AI on GDP & Jobs" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2304.10240">Brynjolfsson et al. – "Generative AI at Work" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2304.11771">Brynjolfsson et al. – "Generative AI at Work" (2023)</a></li>
         <li><a href="https://economics.mit.edu/wp-content/uploads/2023/09/AI-and-Jobs-in-the-US.pdf">Acemoglu & Restrepo – "AI, Automation & Work" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2302.01818">Tamkin et al. – "Impact of Foundation Models" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2303.14440">OpenAI – "GPTs are GPTs: Economic Impact" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2303.10130">Eloundou et al. – "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models" (2023)</a></li>
         <li><a href="https://www.openphilanthropy.org/research/ai-could-accelerate-economy/">Roodman – "Modelling Economic Impact of Transformative AI" (2023)</a></li>
       </ul>
     </div>
@@ -407,7 +404,6 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <ul>
         <li><a href="https://www.cnas.org/publications/reports/artificial-intelligence-and-national-security">Allen & Chan – "AI & National Security" (CNAS 2017)</a></li>
         <li><a href="https://www.icrc.org/en/document/artificial-intelligence-autonomous-weapons-and-humanitarian-law">ICRC – "AI, Autonomous Weapons & IHL" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2108.10911">Kallenborn & Horowitz – "Drones & LAWS: Global Trends" (2021)</a></li>
         <li><a href="https://carnegieendowment.org/2019/09/17/ai-surveillance-index-pub-79847">Feldstein – "AI Surveillance Index" (2019)</a></li>
         <li><a href="https://media.defense.gov/2023/Feb/10/2003160996/-1/-1/0/DOD-AI-ADOPTION-STRATEGY-2023.PDF">DoD – "AI Adoption Strategy" (2023)</a></li>
         <li><a href="https://situational-awareness.ai/">Aschenbrenner – "Situational Awareness" website</a></li>
@@ -435,14 +431,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <ul>
         <li><a href="https://transformer-circuits.pub/2024/mechanistic-survey/index.html">Nanda et al. – "Survey of Mechanistic Interpretability" (2024)</a></li>
         <li><a href="https://distill.pub/2020/circuits/zoom-in/">Olah et al. – "Zoom In: Intro to Circuits" (2020)</a></li>
-        <li><a href="https://arxiv.org/abs/2402.00831">Chen et al. – "Towards Monosemanticity" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2211.00593">Elhage et al. – "Mechanistic Analysis of GPT-2" (2022)</a></li>
-        <li><a href="https://arxiv.org/abs/2310.02909">Burns et al. – "Discovering Latent Knowledge w/o Labels" (2023)</a></li>
+        <li><a href="https://transformer-circuits.pub/2023/monosemantic-features/index.html">Bricken et al. – "Towards Monosemanticity" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2211.00593">Wang et al. – "Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small" (2022)</a></li>
+        <li><a href="https://arxiv.org/abs/2212.03827">Burns et al. – "Discovering Latent Knowledge in Language Models Without Supervision" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2406.04093">Gao et al – "Scaling and evaluating sparse auto encoders"</a></li>
         <li><a href="https://www.anthropic.com/research/mapping-mind-language-model">Anthropic sparse auto encoders</a></li>
-        <li><a href="https://arxiv.org/abs/2407.14561">Chain of thought monitoring</a></li>
-        <li><a href="https://arxiv.org/abs/2312.04335">Chain of thought position paper</a></li>
-        <li><a href="https://arxiv.org/abs/2309.17425">Negative results on SAEs</a></li>
         <li><a href="https://arxiv.org/abs/2402.14020">Interpretability and deception analysis</a></li>
       </ul>
     </div>
