@@ -2,6 +2,10 @@ __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)
 
 __Course:__ CS 2881R - AI Safety
 
+__Time and Place:__ Thursdays 3:45pm-6:30pm, SEC LL2.229  
+
+(SEC is in 150 Western Ave, first lecture September 4)
+
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
 __Teaching Fellows:__ [Natalie Abreu](https://natalieabreu.github.io/website/) (natalieabreu@g.harvard.edu), [Roy Rinberg](https://royrinberg.com) (royrinberg@g.harvard.edu), [Hanlin Zhang](https://hanlin-zhang.com) (hanlinzhang@g.harvard.edu)
@@ -28,17 +32,21 @@ __Previous versions:__ [Spring 2023 ML Theory Seminar](spring2023.md) | [Spring 
 
 * The course will have 13 in person lectures - each lecture will involve also discussion and presentation of an experiment by a group of students.
 
-* Students are expected to attend all lectures and do the reading in advance as well discuss these in electronic forum.
-
 * The assignments, project, and other requirements for the course will be determined later.
+
+* **Attendance:** Attendance is mandatory. Students are expected to attend all lectures and do the reading in advance as well discuss these in electronic forum.
+
+* **Generative AI:** Students are allowed and encouraged to use generative AI as much as they can for studying, exploring concept, and their assignments and projects. Given the availability of AI tools, expectations for projects and assignments will have more ambitious than in past years.
+
+* **Electronic device policy** students can use laptops in class but we will ask those using them to sit in the back so they don't distract other students.
+
+* **Lecture recordings** To the extent technically possible we intend to record and publish the lectures online, though we might have some time lag in doing that. However note that recording is done automatically by a static in-room camera, and some parts of the lecture (e.g. whiteboard, or discussions) may not be captured as well. Also we will honor requests by external speakers not to record their talks.
 
 * **POTENTIAL CONFLICT OF INTEREST NOTE:** In addition to his position at Harvard, Boaz is also a member of the technical staff at OpenAI. The course will include discussions of models from multiple providers, including OpenAI, and students are also encouraged to use AIs from multiple providers while doing their work. If students in the course feel any issue with this conflict, please do not hesitate to contact Boaz, the other staff, or the Harvard SEAS administration. For what it's worth, I (Boaz) will see it as a great success of the course if its graduates work in AI safety in any capacity, including at academia, non-profit, governments, and any of OpenAI's competitors.
 
 # Schedule
 
 Classes begin September 2, 2025. Reading period December 4-9, 2025.
-
-**Note:** This schedule is periodically synchronized with the [course schedule Google Doc](https://docs.google.com/document/d/e/2PACX-1vTPSa3A9sIhgiDU-tTLpqipbyQjqpq3lNYlHpoRvq9EXa3NtDfgy-Zj-hz9zWKeE_YDyPa0TcN-B899/pub), which contains the most up-to-date version.
 
 <style>
 .lecture-schedule {
@@ -350,7 +358,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
-      To be determined
+      To be determined: some thoughts - an experiment to determine the extent which success in a narrow task such as coding or AI requires broad general skills.
     </div>
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
@@ -380,7 +388,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2304.11771">Brynjolfsson et al. – "Generative AI at Work" (2023)</a></li>
         <li><a href="https://economics.mit.edu/wp-content/uploads/2023/09/AI-and-Jobs-in-the-US.pdf">Acemoglu & Restrepo – "AI, Automation & Work" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2303.10130">Eloundou et al. – "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models" (2023)</a></li>
-        <li><a href="https://www.openphilanthropy.org/research/ai-could-accelerate-economy/">Roodman – "Modelling Economic Impact of Transformative AI" (2023)</a></li>
+        <li><a href="https://www.openphilanthropy.org/research/ai-could-accelerate-economy/">Roodman – "Modeling Economic Impact of Transformative AI" (2023)</a></li>
       </ul>
     </div>
   </div>
@@ -503,6 +511,4 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 </div>
 
-<p style="margin-top: 2rem; text-align: center; color: #666;">
-  <em>Schedule content is synchronized with the <a href="https://docs.google.com/document/d/e/2PACX-1vTPSa3A9sIhgiDU-tTLpqipbyQjqpq3lNYlHpoRvq9EXa3NtDfgy-Zj-hz9zWKeE_YDyPa0TcN-B899/pub" target="_blank">course schedule document</a></em>
 </p>
