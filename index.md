@@ -217,7 +217,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2305.18290">Rafailov, R., et al. – "Direct Preference Optimization" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2212.08073">Bai, Y., et al. – "Constitutional AI: Harmlessness from AI Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2309.18878">Lee, K., et al. – "Reinforcement Learning from AI Feedback" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2412.16339">Guan, J., et al. – "Deliberative Alignment" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2412.16339">Guan, M., et al. – "Deliberative Alignment" (2024)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison">Raschka, S. – "LLM Architecture Comparison" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2309.12284">Qwen GSPO link</a></li>
         <li><a href="https://arxiv.org/abs/2507.18071">Zheng et al. – "Group Sequence Policy Optimization (GSPO)" (2025)</a></li>
@@ -374,7 +374,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Economic Impacts of Foundation Models</div>
   <div class="lecture-content">
     <ul>
-      <li>Labour substitution & productivity effects</li>
+      <li>Labor substitution & productivity effects</li>
       <li>Inequality & policy responses</li>
     </ul>
     <div class="experiment-section">
@@ -424,6 +424,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-date">Thursday, November 6, 2025</div>
   <div class="lecture-title">Interpretability</div>
   <div class="lecture-content">
+
+  <b>Guest lecturer (remote):</b>  Neel Nanda (GDM), Bowen Baker (OpenAI), Jack Lindsey (Anthropic)
     <ul>
       <li>Activations</li>
       <li>Sparse Auto Encoders (SAE)</li>
