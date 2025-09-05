@@ -207,16 +207,18 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://arxiv.org/abs/2501.12948">DeepSeek AI – "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning" (2025)</a></li>
+       <li><a href="https://arxiv.org/abs/2203.02155">Ouyang, L., et al. – "InstructGPT: Aligning Language Models with Human Feedback" (2022)</a> <b> pre reading</b></li>
+        <li><a href="https://arxiv.org/abs/2212.08073">Bai, Y., et al. – "Constitutional AI: Harmlessness from AI Feedback" (2022)</a> <b> pre reading</b></li>
+       <li><a href="https://arxiv.org/abs/2402.03300">Shao et al "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models" (2024)</a> <b> pre reading</b></li>
+        <li><a href="https://arxiv.org/abs/2501.12948">DeepSeek AI – "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning" (2025)</a> <b>pre reading</b></li>
+        <li><a href="https://arxiv.org/abs/2412.16339">Guan, M., et al. – "Deliberative Alignment" (2024)</a> <b> pre reading</b></li>
         <li><a href="https://medium.com/@sahin.samia/deepseek-r1-explained-pioneering-">Sahin Ahmed – "Deepseek R1 Overview" (Medium)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/understanding-reasoning-llms">Raschka, S. – "Understanding Reasoning LLMs" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2204.02311">Chowdhery, A., et al. – "PaLM: Scaling Language Modeling" (2022)</a></li>
-        <li><a href="https://arxiv.org/abs/2203.02155">Ouyang, L., et al. – "InstructGPT: Aligning Language Models with Human Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/1706.03741">Christiano, P., et al. – "Deep Reinforcement Learning from Human Preferences" (2017)</a></li>
+        <li><a href="https://arxiv.org/abs/1909.08593">Ziegler et al - "Fine Tuning Lanaguage Models from Human Preferences" (2019)</a></li>
         <li><a href="https://arxiv.org/abs/2305.18290">Rafailov, R., et al. – "Direct Preference Optimization" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2212.08073">Bai, Y., et al. – "Constitutional AI: Harmlessness from AI Feedback" (2022)</a></li>
         <li><a href="https://arxiv.org/abs/2309.18878">Lee, K., et al. – "Reinforcement Learning from AI Feedback" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2412.16339">Guan, M., et al. – "Deliberative Alignment" (2024)</a></li>
         <li><a href="https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison">Raschka, S. – "LLM Architecture Comparison" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2309.12284">Qwen GSPO link</a></li>
         <li><a href="https://arxiv.org/abs/2507.18071">Zheng et al. – "Group Sequence Policy Optimization (GSPO)" (2025)</a></li>
@@ -249,7 +251,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://openai.com/index/the-instruction-hierarchy/">OpenAI – "The Instruction Hierarchy" (2023)</a></li>
         <li><a href="https://www.anthropic.com/news/constitutional-classifiers">Anthropic – "Constitutional Classifiers" (2024)</a></li>
         <li><a href="https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness/">OpenAI – "Trading Inference-Time Compute for Adversarial Robustness" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2303.17760">Li et al. – "CAMEL: Communicative Agents for 'Mind' Exploration of Large Language Model Society" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2503.18813">Debenedetti et al - "Defeating Prompt Injections by Design" (2025)</a></li>
         <li><a href="https://arxiv.org/abs/2406.13352">Debenedetti et al. – "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/1312.6199">Szegedy et al. – "Intriguing Properties of Neural Networks" (2014)</a></li>
         <li><a href="https://arxiv.org/abs/2302.12173">Prompt-Injection WG – "Prompt Injection Attacks & Defenses" (2023)</a></li>
