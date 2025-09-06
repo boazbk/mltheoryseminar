@@ -177,7 +177,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://nickbostrom.com/papers/vulnerable.pdf">Nick Bostrom – "The Vulnerable World Hypothesis" (2019)</a></li>
         <li><a href="https://michaelnotebook.com/vwh/index.html">Michael Nielsen – "Detailed VWH notes" (2020)</a></li>
         <li><a href="https://forecastingresearch.org/xpt">"Forecasting Research – AI X-risk Persuasion Tournament" (2024)</a></li>
-        <li><a href="https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit">Tamay Besiroglu – "Does AI Progress Have a Speed Limit?" (2023)</a></li>
+        <li><a href="https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit">Cotra and Narayanan – "Does AI Progress Have a Speed Limit?" (2023)</a></li>
         <li><a href="https://www.lesswrong.com/posts/K2D45BNxnZjdpSX2j/ai-timelines">Erdil × Cotra × Kokotajlo – "Debate on AI Timelines" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2206.13353">Joe Carlsmith – "Is Power-Seeking AI an Existential Risk?" (2022)</a></li>
         <li><a href="https://www.openphilanthropy.org/research/ai-2023-review/">Open Philanthropy – "AI 2023 Review & Forecast" (2024)</a></li>
