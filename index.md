@@ -18,6 +18,8 @@ __Important: Read the Course Introduction!__
 
 * **[Course Introduction Blog Post](https://windowsontheory.org/2025/07/20/ai-safety-course-intro-blog/)** - This contains **Homework Zero** and important course information. Students who filled in the form will receive more instructions by email.
 
+* **Homework Zero:** [Homework Zero (github repository)](https://github.com/Harvard-CS-2881/harvard-cs-2881-hw0)
+
 __Questions?__ If you have any questions about the course, please email [harvardcs2881@gmail.com](mailto:harvardcs2881@gmail.com)
 
 __Related reading by Boaz:__
