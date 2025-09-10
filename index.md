@@ -162,7 +162,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Introduction</div>
   <div class="lecture-content">
     <ul>
-      <li><a href="https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8973f8d6-35e1-45c1-8b5f-b33d0142ac53">Lecture video</a></li>
+      <li><a href="https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8973f8d6-35e1-45c1-8b5f-b33d0142ac53">Lecture video</a> (<a href="https://youtu.be/-NCiWaRS6So">YouTube</a>)</li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/EZ22E4Kq3JlJs-qzDdw6BwwBfcL53FYUoy9mDIWMlg-gQA?e=xfXjdM">Lecture slides</a></li>
       <li><a href="https://docs.google.com/presentation/d/10XdI3_j_ulp38MJmmXvLE1wYdbAlCFk0jOt1cvc7C1Y/edit?usp=sharing">Slides for experiment by Valerio Pepe</a></li>
     </ul>
