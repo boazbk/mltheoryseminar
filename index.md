@@ -281,7 +281,10 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <div class="resources-label">Resources:</div>
       <ul>
         <li><a href="https://model-spec.openai.com/2025-04-11.html">OpenAI Model Spec</a></li>
+        <li><a hread="https://openai.com/index/collective-alignment-aug-2025-updates/">OpenAI: Collective Alignment (Aug 2025)</a></li>
         <li><a href="https://docs.anthropic.com/en/release-notes/system-prompts">Claude system prompts</a></li>
+        <li><a href="https://arxiv.org/abs/2509.02464v1">Ahmed et al - SpecEval: Evaluating Model Adherence to Behavior Specifications</a></li>
+        <li><a href="https://arxiv.org/abs/2509.01186">He et al - Statutory Construction and Interpretation for Artificial Intelligence</a></li>
         <li><a href="https://arxiv.org/abs/2403.13787">Lambert et al. – "RewardBench" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2506.01937">Malik et al. – "RewardBench 2" (2025)</a></li>
         <li><a href="https://governance.ai">Governance.ai</a></li>
