@@ -366,7 +366,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://arbital.com/p/agi_takeoff_speed/">Yudkowsky, E. – "AGI Take-off Speeds" (Arbital 2016)</a></li>
+        <li>TBD</li>
       </ul>
     </div>
   </div>
