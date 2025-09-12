@@ -196,6 +196,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Modern LLM Training</div>
   <div class="lecture-content">
     <ul>
+      <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/Eau65O5QsfJOtuDI2FAXCCMBpC--98FHOpUwefGGuqDp3w?e=A5IKRL">Lecture slides</a></li>
+      <li><a href="https://youtu.be/GXggPt_gqiI">Lecture video</a></li>
       <li>Modern LLM training overview (DeepSeek R1)</li>
       <li>Pretraining</li>
       <li>Mid training</li>
@@ -231,14 +233,17 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="lecture-item">
   <div class="lecture-date">Thursday, September 18, 2025</div>
-  <div class="lecture-title">Adversarial Robustness, Jailbreaks & Prompt Injection</div>
+  <div class="lecture-title">Adversarial Robustness, Jailbreaks, Prompt Injection, Security</div>
   <div class="lecture-content">
     <ul>
+      <li><b>Guest lecturers:</b><a href="https://nicholas.carlini.com/">Nicholas Carlini</a> (Anthropic), Keri Warr (Anthropic)</li>
       <li>Adversarial robustness</li>
       <li>Jailbreaks</li>
       <li>Prompt injection</li>
       <li>Lessons from vision/software security</li>
       <li>Buffer overflow and SQL injection concepts</li>
+      <li>Defense in depth</li>
+      <li>Securing weights</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
