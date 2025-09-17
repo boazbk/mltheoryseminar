@@ -2,13 +2,15 @@ __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)
 
 __Course:__ CS 2881R - AI Safety
 
-__Time and Place:__ Thursdays 3:45pm-6:30pm, SEC LL2.229  
+[__Lecture playlist__](https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp)
 
-(SEC is in 150 Western Ave, first lecture September 4)
+__Time and Place:__ Thursdays 3:45pm-6:30pm Eastern Time, SEC LL2.229   (SEC is in 150 Western Ave, Allston, MA)
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
 __Teaching Fellows:__ [Natalie Abreu](https://natalieabreu.github.io/website/) (natalieabreu@g.harvard.edu), [Roy Rinberg](https://royrinberg.com) (royrinberg@g.harvard.edu), [Hanlin Zhang](https://hanlin-zhang.com) (hanlinzhang@g.harvard.edu)
+
+
 
 __Course Description:__ This will be a graduate level course on challenges in alignment and safety of artificial intelligence. We will consider both technical aspects as well as questions on societal and other impacts of the field.
 
@@ -254,6 +256,10 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
+        <li><a href="https://arxiv.org/abs/2306.15447">Carlini et al "Are aligned neural networks adversarially aligned?" (2023)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2311.17035">Nasr et al "Scalable Extraction of Training Data from (Production) Language Models" (2023)</a> <b>pre-reading</b></li>
+        <li>Chapter 1 and Chapter 2 of <a href="https://www.cl.cam.ac.uk/archive/rja14/book.html">Security Engineering</a> by Ross Anderson <b>pre-reading</b></li>
+        <li><a href="https://www.rand.org/pubs/research_reports/RRA2849-1.html">RAND report on securing AI model weights</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2307.15043">Zou, A., et al. – "Universal and Transferable Adversarial Attacks on Aligned Language Models" (2023)</a></li>
         <li><a href="https://openai.com/index/the-instruction-hierarchy/">OpenAI – "The Instruction Hierarchy" (2023)</a></li>
         <li><a href="https://www.anthropic.com/news/constitutional-classifiers">Anthropic – "Constitutional Classifiers" (2024)</a></li>
@@ -306,6 +312,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Potentially Catastrophic Capabilities & Responsible Scaling</div>
   <div class="lecture-content">
     <ul>
+      <li><b>Guest Lecturer:</b><a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (OpenAI)</li>
       <li>Responsible scaling policies</li>
       <li>Scalable evaluations</li>
       <li>Safety through capability vs. weakness</li>
