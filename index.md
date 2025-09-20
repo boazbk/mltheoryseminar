@@ -375,11 +375,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Capabilites vs. Safety</div>
   <div class="lecture-content">
     <ul>
-      <li>Is AI R&D an "AI-complete" task?</li>
+      <li>TBD</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
-      To be determined: some thoughts - an experiment to determine the extent which success in a narrow task such as coding or AI requires broad general skills.
+      TBD
     </div>
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
