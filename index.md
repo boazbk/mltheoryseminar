@@ -314,6 +314,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (Product Policy, OpenAI)</li>
+      <li>Content policies</li>
       <li>Responsible scaling policies</li>
       <li>Scalable evaluations</li>
       <li>Safety through capability vs. weakness</li>
@@ -325,6 +326,14 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
+        <li><a href="https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/">Masnick, M. – "Hey Elon: Let Me Help You Speedrun Content Moderation Learning Curve" (Techdirt 2022)</a></li>
+        <li><a href="https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona">Newton, C. – "The Secret Lives of Facebook Moderators in America" (The Verge 2019)</a></li>
+        <li><a href="https://openai.com/policies/usage-policies/">OpenAI Usage Policies</a></li>
+        <li><a href="https://openai.com/policies/creating-images-and-videos-in-line-with-our-policies/">OpenAI – "Creating images and videos in line with our policies"</a></li>
+        <li><a href="https://policies.google.com/terms/generative-ai/use-policy">Google Generative AI Prohibited Use Policy</a></li>
+        <li><a href="https://docs.midjourney.com/hc/en-us/articles/32013696484109-Community-Guidelines">Midjourney Image Generation Policy / Community Guidelines</a></li>
+        <li><a href="https://www.wired.com/story/google-gemini-woke-ai-image-generation/">"Google's 'Woke' Image Generator Shows the Limitations of AI" (Wired 2024)</a></li>
+        <li><a href="https://radiolab.org/podcast/facebooks-supreme-court">Radiolab – "Facebook's Supreme Court" (WNYC Studios 2021)</a></li>
         <li><a href="https://cdn.openai.com/papers/PreventingDangerousCapabilities.pdf">OpenAI – "Preparing for AGI & Beyond: Responsible Scaling Policy" (2024)</a></li>
         <li><a href="https://openai.com/index/updating-our-preparedness-framework/">OpenAI – "Updating Our Preparedness Framework" (2024)</a></li>
         <li><a href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/">DeepMind – "Introducing the Frontier Safety Framework" (2024)</a></li>
