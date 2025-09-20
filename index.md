@@ -341,8 +341,29 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
+
 <div class="lecture-item">
-  <div class="lecture-date">Thursday, October 9, 2025</div>
+  <div class="lecture-date">Thursday, October 16, 2025</div>
+  <div class="lecture-title">Capabilites vs. Safety</div>
+  <div class="lecture-content">
+    <ul>
+      <li>Is AI R&D an "AI-complete" task?</li>
+    </ul>
+    <div class="experiment-section">
+      <div class="experiment-label">Experiment:</div>
+      To be determined: some thoughts - an experiment to determine the extent which success in a narrow task such as coding or AI requires broad general skills.
+    </div>
+    <div class="resources-section">
+      <div class="resources-label">Resources:</div>
+      <ul>
+        <li>TBD</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="lecture-item">
+  <div class="lecture-date">Thursday, October 23, 2025</div>
   <div class="lecture-title">Scheming, Reward Hacking & Deception</div>
   <div class="lecture-content">
     <ul>
@@ -369,27 +390,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 </div>
 
 <div class="lecture-item">
-  <div class="lecture-date">Thursday, October 16, 2025</div>
-  <div class="lecture-title">Recursive Self-Improvement</div>
-  <div class="lecture-content">
-    <ul>
-      <li>Is AI R&D an "AI-complete" task?</li>
-    </ul>
-    <div class="experiment-section">
-      <div class="experiment-label">Experiment:</div>
-      To be determined: some thoughts - an experiment to determine the extent which success in a narrow task such as coding or AI requires broad general skills.
-    </div>
-    <div class="resources-section">
-      <div class="resources-label">Resources:</div>
-      <ul>
-        <li>TBD</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div class="lecture-item">
-  <div class="lecture-date">Thursday, October 23, 2025</div>
+  <div class="lecture-date">Thursday, October 30, 2025</div>
   <div class="lecture-title">Economic Impacts of Foundation Models</div>
   <div class="lecture-content">
     <ul>
@@ -408,32 +409,6 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://economics.mit.edu/wp-content/uploads/2023/09/AI-and-Jobs-in-the-US.pdf">Acemoglu & Restrepo – "AI, Automation & Work" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2303.10130">Eloundou et al. – "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models" (2023)</a></li>
         <li><a href="https://www.openphilanthropy.org/research/ai-could-accelerate-economy/">Roodman – "Modeling Economic Impact of Transformative AI" (2023)</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div class="lecture-item">
-  <div class="lecture-date">Thursday, October 30, 2025</div>
-  <div class="lecture-title">Military & Surveillance Applications of AI</div>
-  <div class="lecture-content">
-    <ul>
-      <li>Lethal autonomous weapon systems (LAWS)</li>
-      <li>Strategic stability & escalation risks</li>
-      <li>Mass-scale surveillance infrastructure</li>
-    </ul>
-    <div class="experiment-section">
-      <div class="experiment-label">Experiment:</div>
-      To be determined
-    </div>
-    <div class="resources-section">
-      <div class="resources-label">Resources:</div>
-      <ul>
-        <li><a href="https://www.cnas.org/publications/reports/artificial-intelligence-and-national-security">Allen & Chan – "AI & National Security" (CNAS 2017)</a></li>
-        <li><a href="https://www.icrc.org/en/document/artificial-intelligence-autonomous-weapons-and-humanitarian-law">ICRC – "AI, Autonomous Weapons & IHL" (2024)</a></li>
-        <li><a href="https://carnegieendowment.org/2019/09/17/ai-surveillance-index-pub-79847">Feldstein – "AI Surveillance Index" (2019)</a></li>
-        <li><a href="https://media.defense.gov/2023/Feb/10/2003160996/-1/-1/0/DOD-AI-ADOPTION-STRATEGY-2023.PDF">DoD – "AI Adoption Strategy" (2023)</a></li>
-        <li><a href="https://situational-awareness.ai/">Aschenbrenner – "Situational Awareness" website</a></li>
       </ul>
     </div>
   </div>
@@ -494,10 +469,12 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="lecture-item">
   <div class="lecture-date">Thursday, November 20, 2025</div>
-  <div class="lecture-title">TBD</div>
+  <div class="lecture-title">Military & Surveillance Applications of AI</div>
   <div class="lecture-content">
     <ul>
-      <li>Topics to be determined</li>
+      <li>Lethal autonomous weapon systems (LAWS)</li>
+      <li>Strategic stability & escalation risks</li>
+      <li>Mass-scale surveillance infrastructure</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
@@ -506,7 +483,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li>Resources to be determined</li>
+        <li><a href="https://www.cnas.org/publications/reports/artificial-intelligence-and-national-security">Allen & Chan – "AI & National Security" (CNAS 2017)</a></li>
+        <li><a href="https://www.icrc.org/en/document/artificial-intelligence-autonomous-weapons-and-humanitarian-law">ICRC – "AI, Autonomous Weapons & IHL" (2024)</a></li>
+        <li><a href="https://carnegieendowment.org/2019/09/17/ai-surveillance-index-pub-79847">Feldstein – "AI Surveillance Index" (2019)</a></li>
+        <li><a href="https://media.defense.gov/2023/Feb/10/2003160996/-1/-1/0/DOD-AI-ADOPTION-STRATEGY-2023.PDF">DoD – "AI Adoption Strategy" (2023)</a></li>
+        <li><a href="https://situational-awareness.ai/">Aschenbrenner – "Situational Awareness" website</a></li>
       </ul>
     </div>
   </div>
