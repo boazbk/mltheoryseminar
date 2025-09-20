@@ -310,7 +310,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="lecture-item">
   <div class="lecture-date">Thursday, October 2, 2025</div>
-  <div class="lecture-title">Potentially Catastrophic Capabilities & Responsible Scaling</div>
+  <div class="lecture-title">Content Policies, Potentially Catastrophic Capabilities & Responsible Scaling</div>
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (Product Policy, OpenAI)</li>
