@@ -313,7 +313,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Potentially Catastrophic Capabilities & Responsible Scaling</div>
   <div class="lecture-content">
     <ul>
-      <li><b>Guest Lecturer:</b><a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (OpenAI)</li>
+      <li><b>Guest Lecturer:</b> <a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (Product Policy, OpenAI)</li>
       <li>Responsible scaling policies</li>
       <li>Scalable evaluations</li>
       <li>Safety through capability vs. weakness</li>
@@ -341,6 +341,25 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
+<div class="lecture-item">
+  <div class="lecture-date">Thursday, October 9, 2025</div>
+  <div class="lecture-title">Recursive Self-Improvement</div>
+  <div class="lecture-content">
+    <ul>
+      <li>Is AI R&D an "AI-complete" task?</li>
+    </ul>
+    <div class="experiment-section">
+      <div class="experiment-label">Experiment:</div>
+      To be determined: some thoughts - an experiment to determine the extent which success in a narrow task such as coding or AI requires broad general skills.
+    </div>
+    <div class="resources-section">
+      <div class="resources-label">Resources:</div>
+      <ul>
+        <li>TBD</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 <div class="lecture-item">
   <div class="lecture-date">Thursday, October 16, 2025</div>
@@ -367,6 +386,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Scheming, Reward Hacking & Deception</div>
   <div class="lecture-content">
     <ul>
+      <li><b>Guest Lecturers:</b> Buck Shlegeris (Redwood Research), Marius Hobbhahn (Apollo Research)</li>
       <li>Exploring "bad behavior" tied to training objectives</li>
       <li>Investigating potential deception in monitoring models</li>
     </ul>
@@ -394,6 +414,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Economic Impacts of Foundation Models</div>
   <div class="lecture-content">
     <ul>
+      <li><b>Guest Lecturer:</b> Ronnie Chatterji (Chief Economist, OpenAI)</li>
       <li>Labor substitution & productivity effects</li>
       <li>Inequality & policy responses</li>
     </ul>
@@ -419,7 +440,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Interpretability</div>
   <div class="lecture-content">
 
-  <b>Guest lecturer (remote):</b>  Neel Nanda (GDM), Bowen Baker (OpenAI), Jack Lindsey (Anthropic)
+  <b>Guest lecturers (remote):</b> Neel Nanda (Google DeepMind), Bowen Baker (OpenAI), Jack Lindsey (Anthropic), Leo Gao (OpenAI)
     <ul>
       <li>Activations</li>
       <li>Sparse Auto Encoders (SAE)</li>
