@@ -295,6 +295,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://thezvi.substack.com/p/on-openais-model-spec-20">Zvi Mowshowitz on OpenAI Model Spec</a> <b>pre-reading</b></li>
          <li><a href="https://arxiv.org/abs/2509.02464v1">Ahmed et al - SpecEval: Evaluating Model Adherence to Behavior Specifications</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2509.01186">He et al - Statutory Construction and Interpretation for Artificial Intelligence</a> <b>pre-reading</b></li>
+        <li><a href="https://www.nber.org/system/files/working_papers/w34255/w34255.pdf">Chatterji et al. – "How People Use ChatGPT" (NBER 2024)</a> <b>pre-reading</b></li>
         <li><a hread="https://openai.com/index/collective-alignment-aug-2025-updates/">OpenAI: Collective Alignment (Aug 2025)</a></li>
         <li><a href="https://docs.anthropic.com/en/release-notes/system-prompts">Claude system prompts</a></li>
         <li><a href="https://arxiv.org/abs/2403.13787">Lambert et al. – "RewardBench" (2024)</a></li>
