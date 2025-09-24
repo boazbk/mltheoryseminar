@@ -238,6 +238,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Adversarial Robustness, Jailbreaks, Prompt Injection, Security</div>
   <div class="lecture-content">
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=pfKO4MlvM-Y&t=1s">Lecture video</a></li>
       <li><b>Guest lecturers:</b><a href="https://nicholas.carlini.com/">Nicholas Carlini</a> (Anthropic), Keri Warr (Anthropic)</li>
       <li>Adversarial robustness</li>
       <li>Jailbreaks</li>
