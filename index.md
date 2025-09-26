@@ -328,8 +328,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/">Masnick, M. – "Hey Elon: Let Me Help You Speedrun Content Moderation Learning Curve" (Techdirt 2022)</a></li>
-        <li><a href="https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona">Newton, C. – "The Secret Lives of Facebook Moderators in America" (The Verge 2019)</a></li>
+        <li><a href="https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/">Masnick, M. – "Hey Elon: Let Me Help You Speedrun Content Moderation Learning Curve" (Techdirt 2022)</a> <b>pre-reading</b></li>
+        <li><a href="https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona">Newton, C. – "The Secret Lives of Facebook Moderators in America" (The Verge 2019)</a> <b>pre-reading</b></li>
         <li><a href="https://openai.com/policies/usage-policies/">OpenAI Usage Policies</a></li>
         <li><a href="https://openai.com/policies/creating-images-and-videos-in-line-with-our-policies/">OpenAI – "Creating images and videos in line with our policies"</a></li>
         <li><a href="https://policies.google.com/terms/generative-ai/use-policy">Google Generative AI Prohibited Use Policy</a></li>
