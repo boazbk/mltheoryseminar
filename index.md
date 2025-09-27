@@ -312,14 +312,13 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="lecture-item">
   <div class="lecture-date">Thursday, October 2, 2025</div>
-  <div class="lecture-title">Content Policies, Potentially Catastrophic Capabilities & Responsible Scaling</div>
+  <div class="lecture-title">Content Policies</div>
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (Product Policy, OpenAI)</li>
-      <li>Content policies</li>
-      <li>Responsible scaling policies</li>
-      <li>Scalable evaluations</li>
-      <li>Safety through capability vs. weakness</li>
+      <li>Content policies and moderation</li>
+      <li>Platform governance</li>
+      <li>Policy enforcement challenges</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
@@ -330,23 +329,12 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <ul>
         <li><a href="https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/">Masnick, M. – "Hey Elon: Let Me Help You Speedrun Content Moderation Learning Curve" (Techdirt 2022)</a> <b>pre-reading</b></li>
         <li><a href="https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona">Newton, C. – "The Secret Lives of Facebook Moderators in America" (The Verge 2019)</a> <b>pre-reading</b></li>
-        <li><a href="https://openai.com/policies/usage-policies/">OpenAI Usage Policies</a></li>
-        <li><a href="https://openai.com/policies/creating-images-and-videos-in-line-with-our-policies/">OpenAI – "Creating images and videos in line with our policies"</a></li>
-        <li><a href="https://policies.google.com/terms/generative-ai/use-policy">Google Generative AI Prohibited Use Policy</a></li>
-        <li><a href="https://docs.midjourney.com/hc/en-us/articles/32013696484109-Community-Guidelines">Midjourney Image Generation Policy / Community Guidelines</a></li>
-        <li><a href="https://www.wired.com/story/google-gemini-woke-ai-image-generation/">"Google's 'Woke' Image Generator Shows the Limitations of AI" (Wired 2024)</a></li>
+        <li><a href="https://www.wired.com/story/google-gemini-woke-ai-image-generation/">"Google's 'Woke' Image Generator Shows the Limitations of AI" (Wired 2024)</a> <b>pre-reading</b></li>
+        <li><a href="https://openai.com/policies/usage-policies/">OpenAI Usage Policies</a> <i>(optional pre-reading)</i></li>
+        <li><a href="https://openai.com/policies/creating-images-and-videos-in-line-with-our-policies/">OpenAI – "Creating images and videos in line with our policies"</a> <i>(optional pre-reading)</i></li>
+        <li><a href="https://policies.google.com/terms/generative-ai/use-policy">Google Generative AI Prohibited Use Policy</a> <i>(optional pre-reading)</i></li>
+        <li><a href="https://docs.midjourney.com/hc/en-us/articles/32013696484109-Community-Guidelines">Midjourney Image Generation Policy / Community Guidelines</a> <i>(optional pre-reading)</i></li>
         <li><a href="https://radiolab.org/podcast/facebooks-supreme-court">Radiolab – "Facebook's Supreme Court" (WNYC Studios 2021)</a></li>
-        <li><a href="https://cdn.openai.com/papers/PreventingDangerousCapabilities.pdf">OpenAI – "Preparing for AGI & Beyond: Responsible Scaling Policy" (2024)</a></li>
-        <li><a href="https://openai.com/index/updating-our-preparedness-framework/">OpenAI – "Updating Our Preparedness Framework" (2024)</a></li>
-        <li><a href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/">DeepMind – "Introducing the Frontier Safety Framework" (2024)</a></li>
-        <li><a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">Anthropic – "Announcing Our Updated Responsible Scaling Policy" (2024)</a></li>
-        <li><a href="https://arxiv.org/abs/2305.15324">Shevlane, T., et al. – "Evaluating Frontier Models for Extreme Risks" (2023)</a></li>
-        <li><a href="https://www.gov.uk/government/publications/frontier-ai-regulation-policy-paper">UK Government – "Frontier AI Regulation Policy Paper" (2024)</a></li>
-        <li><a href="https://code-of-practice.ai/?section=safety-security">European Union – "AI Act" - code of practice (Final version July 2025)</a></li>
-        <li><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/">U.S. White House – "Executive Order 14110 on Safe, Secure & Trustworthy AI" (2023)</a></li>
-        <li><a href="https://csrc.nist.gov/Projects/ai-risk-management-framework">NIST – "AI Risk Management Framework" (2023)</a></li>
-        <li><a href="https://arxiv.org/abs/2402.08797">Sastry, G., et al. – "Computing Power and the Governance of Artificial Intelligence" (2024)</a></li>
-        <li><a href="https://www.iso.org/standard/81228.html">ISO/IEC – "Management System Standard for AI (42001)" (2024)</a></li>
       </ul>
     </div>
   </div>
@@ -386,7 +374,17 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li>TBD</li>
+        <li><a href="https://cdn.openai.com/papers/PreventingDangerousCapabilities.pdf">OpenAI – "Preparing for AGI & Beyond: Responsible Scaling Policy" (2024)</a></li>
+        <li><a href="https://openai.com/index/updating-our-preparedness-framework/">OpenAI – "Updating Our Preparedness Framework" (2024)</a></li>
+        <li><a href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/">DeepMind – "Introducing the Frontier Safety Framework" (2024)</a></li>
+        <li><a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">Anthropic – "Announcing Our Updated Responsible Scaling Policy" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2305.15324">Shevlane, T., et al. – "Evaluating Frontier Models for Extreme Risks" (2023)</a></li>
+        <li><a href="https://www.gov.uk/government/publications/frontier-ai-regulation-policy-paper">UK Government – "Frontier AI Regulation Policy Paper" (2024)</a></li>
+        <li><a href="https://code-of-practice.ai/?section=safety-security">European Union – "AI Act" - code of practice (Final version July 2025)</a></li>
+        <li><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/">U.S. White House – "Executive Order 14110 on Safe, Secure & Trustworthy AI" (2023)</a></li>
+        <li><a href="https://csrc.nist.gov/Projects/ai-risk-management-framework">NIST – "AI Risk Management Framework" (2023)</a></li>
+        <li><a href="https://arxiv.org/abs/2402.08797">Sastry, G., et al. – "Computing Power and the Governance of Artificial Intelligence" (2024)</a></li>
+        <li><a href="https://www.iso.org/standard/81228.html">ISO/IEC – "Management System Standard for AI (42001)" (2024)</a></li>
       </ul>
     </div>
   </div>
