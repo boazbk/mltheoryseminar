@@ -284,6 +284,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <ul>
       <li><a href="https://youtu.be/LQ0RRQKKluc">Lecture video</a></li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/EXdpmz_cKGpGpQhFegF_kCcBEcH1ocP-9cx8EkLX3d8SXw?e=MLtrtn">Lecture slides</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1y6Du6cZwKxODPas3mQPKltAA65CvgmWD">Model specs produced in class</a></li>
       <li>Lessons from law</li>
       <li>Value alignment vs. detailed adherence</li>
     </ul>
