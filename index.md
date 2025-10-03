@@ -360,7 +360,14 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li>TBD</li>
+        <li><a href="https://www.alignmentforum.org/posts/Nsmabb9fhpLuLdtLE/takeoff-speeds-presentation-at-anthropic">Tom Davidson – "Takeoff Speeds" (Presentation at Anthropic)</a> <b>pre-reading</b></li>
+        <li><a href="https://www.forethought.org/research/three-types-of-intelligence-explosion">Davidson, T., Hadshar, R., & MacAskill, W. – "Three Types of Intelligence Explosion" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://epoch.ai/blog/announcing-gate">Epoch AI – "GATE: Modeling the Trajectory of AI and Automation" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://epoch.ai/files/AI_2030.pdf">Epoch AI – "AI in 2030" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://www.julian.ac/blog/2020/05/03/the-case-against-the-singularity/">Schrittwieser, J. – "The Case Against the Singularity" (2020)</a></li>
+        <li><a href="https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/">Schrittwieser, J. – "Failing to Understand the Exponential, Again" (2025)</a></li>
+        <li><a href="https://arxiv.org/abs/1712.01815">Silver, D., et al. – "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (AlphaZero)" (2017)</a></li>
+        <li><a href="https://takeoffspeeds.com/">Davidson, T. – "AI Takeoff Simulation Playground" (Interactive tool)</a></li>
       </ul>
     </div>
   </div>
