@@ -15,7 +15,12 @@
       "WebFetch(domain:docs.anthropic.com)",
       "WebFetch(domain:arxiv.org)",
       "WebFetch(domain:ai-2027.com)",
-      "WebFetch(domain:www.anthropic.com)"
+      "WebFetch(domain:www.anthropic.com)",
+      "WebFetch(domain:www.alignmentforum.org)",
+      "WebFetch(domain:www.forethought.org)",
+      "WebFetch(domain:epoch.ai)",
+      "WebFetch(domain:www.julian.ac)",
+      "WebFetch(domain:takeoffspeeds.com)"
     ],
     "deny": []
   }

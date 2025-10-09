@@ -189,6 +189,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://www.alignmentforum.org/posts/tB54cimMfWEgT7mzb/alignment-terminology-clarifications">AF – "Glossary of Alignment Terminology" (living doc 2024)</a></li>
         <li><a href="https://epochai.org/blog/trends-in-ai">Epoch AI – "Trends in AI Compute & Algorithmic Progress" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2202.05924">Sevilla et al. – "Compute Trends Across Three Eras of Machine Learning" (2022)</a></li>
+        <li><a href="https://arxiv.org/abs/2506.10378">Jin et al. – "Discovering Hierarchical Latent Capabilities of Language Models via Causal Representation Learning" (2025)</a></li>
       </ul>
     </div>
   </div>
@@ -364,6 +365,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://www.forethought.org/research/three-types-of-intelligence-explosion">Davidson, T., Hadshar, R., & MacAskill, W. – "Three Types of Intelligence Explosion" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://epoch.ai/blog/announcing-gate">Epoch AI – "GATE: Modeling the Trajectory of AI and Automation" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://epoch.ai/files/AI_2030.pdf">Epoch AI – "AI in 2030" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://web.stanford.edu/~chadj/AJJ-AIandGrowth.pdf">Aghion, P., Jones, B. F., & Jones, C. I. – "Artificial Intelligence and Economic Growth"</a></li>
+        <li><a href="https://www.forethought.org/research/how-quick-and-big-would-a-software-intelligence-explosion-be">Davidson, T., & Houlden, T. – "How quick and big would a software intelligence explosion be?"</a></li>
+        <li><a href="https://www.forethought.org/research/will-ai-r-and-d-automation-cause-a-software-intelligence-explosion#article">Eth & Davidson – "Will AI R&D Automation Cause a Software Intelligence Explosion?"</a></li>
+        <li><a href="https://arxiv.org/abs/2405.10494">Erdil, E., Besiroglu, T., & Ho, A. – "Estimating Idea Production: A Methodological Survey" (2024)</a></li>
+        <li><a href="https://arxiv.org/abs/2309.11690">Erdil, E., & Besiroglu, T. – "Explosive growth from AI automation: A review of the arguments" (2023)</a></li>
         <li><a href="https://www.julian.ac/blog/2020/05/03/the-case-against-the-singularity/">Schrittwieser, J. – "The Case Against the Singularity" (2020)</a></li>
         <li><a href="https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/">Schrittwieser, J. – "Failing to Understand the Exponential, Again" (2025)</a></li>
         <li><a href="https://arxiv.org/abs/1712.01815">Silver, D., et al. – "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (AlphaZero)" (2017)</a></li>
