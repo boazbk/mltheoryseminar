@@ -167,7 +167,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <li><a href="https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8973f8d6-35e1-45c1-8b5f-b33d0142ac53">Lecture video</a> (<a href="https://youtu.be/-NCiWaRS6So">YouTube</a>)</li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/EZ22E4Kq3JlJs-qzDdw6BwwBfcL53FYUoy9mDIWMlg-gQA?e=xfXjdM">Lecture slides</a></li>
       <li><a href="https://docs.google.com/presentation/d/10XdI3_j_ulp38MJmmXvLE1wYdbAlCFk0jOt1cvc7C1Y/edit?usp=sharing">Slides for experiment by Valerio Pepe</a></li>
-      <li><a href="https://www.lesswrong.com/posts/stDjjbfNXbgsyJkrL/cs-2881r-ai-safety-week-1-introduction">Blog post summary</a></li>
+      <li><a href="https://www.lesswrong.com/posts/stDjjbfNXbgsyJkrL/cs-2881r-ai-safety-week-1-introduction">Blog post summary</a> (Jay Chooi, Natalia Siwek, Atticus Wang)</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
@@ -202,7 +202,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <ul>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/Eau65O5QsfJOtuDI2FAXCCMBpC--98FHOpUwefGGuqDp3w?e=A5IKRL">Lecture slides</a></li>
       <li><a href="https://youtu.be/GXggPt_gqiI">Lecture video</a></li>
-      <li><a href="https://www.lesswrong.com/posts/FC3m5zhx6sFBrMpTm/cs-2881r-ai-safety-week-2-modern-llm-training">Blog post summary</a></li>
+      <li><a href="https://www.lesswrong.com/posts/FC3m5zhx6sFBrMpTm/cs-2881r-ai-safety-week-2-modern-llm-training">Blog post summary</a> (Justin Y. Chen)</li>
+      <li><a href="https://www.lesswrong.com/posts/LTcidRnJJLpaAQsWY/cs2881r-optimizing-prompts-with-reinforcement-learning">Experiment: Optimizing Prompts with Reinforcement Learning</a> (Anastasia Ahani, Atticus Wang) | <a href="https://github.com/aahani-dot/CS2881_RLExperiment">GitHub</a></li>
       <li>Modern LLM training overview (DeepSeek R1)</li>
       <li>Pretraining</li>
       <li>Mid training</li>
@@ -242,7 +243,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><a href="https://www.youtube.com/watch?v=pfKO4MlvM-Y&t=1s">Lecture video</a></li>
-      <li><a href="https://www.lesswrong.com/posts/xZA9cXkiRhnATpifZ/cs-2881r-week-3-adversarial-robustness-jailbreaks-prompt">Blog post summary</a></li>
+      <li><a href="https://www.lesswrong.com/posts/xZA9cXkiRhnATpifZ/cs-2881r-week-3-adversarial-robustness-jailbreaks-prompt">Blog post summary</a> (Ege Cakar)</li>
       <li><b>Guest lecturers:</b><a href="https://nicholas.carlini.com/">Nicholas Carlini</a> (Anthropic), Keri Warr (Anthropic)</li>
       <li>Adversarial robustness</li>
       <li>Jailbreaks</li>
