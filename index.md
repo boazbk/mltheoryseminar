@@ -83,6 +83,25 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   font-weight: 600;
   margin-bottom: 0.75rem;
   color: #333;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lecture-link {
+  text-decoration: none;
+  color: #999;
+  font-size: 0.9rem;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.lecture-item:hover .lecture-link {
+  opacity: 1;
+}
+
+.lecture-link:hover {
+  color: #0066cc;
 }
 
 .lecture-content {
@@ -159,9 +178,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="lecture-schedule">
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-sep-4">
   <div class="lecture-date">Thursday, September 4, 2025</div>
-  <div class="lecture-title">Introduction</div>
+  <div class="lecture-title">Introduction <a href="#lecture-sep-4" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><a href="https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8973f8d6-35e1-45c1-8b5f-b33d0142ac53">Lecture video</a> (<a href="https://youtu.be/-NCiWaRS6So">YouTube</a>)</li>
@@ -195,9 +214,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-sep-11">
   <div class="lecture-date">Thursday, September 11, 2025</div>
-  <div class="lecture-title">Modern LLM Training</div>
+  <div class="lecture-title">Modern LLM Training <a href="#lecture-sep-11" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/Eau65O5QsfJOtuDI2FAXCCMBpC--98FHOpUwefGGuqDp3w?e=A5IKRL">Lecture slides</a></li>
@@ -237,9 +256,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-sep-18">
   <div class="lecture-date">Thursday, September 18, 2025</div>
-  <div class="lecture-title">Adversarial Robustness, Jailbreaks, Prompt Injection, Security</div>
+  <div class="lecture-title">Adversarial Robustness, Jailbreaks, Prompt Injection, Security <a href="#lecture-sep-18" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><a href="https://www.youtube.com/watch?v=pfKO4MlvM-Y&t=1s">Lecture video</a></li>
@@ -282,9 +301,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-sep-25">
   <div class="lecture-date">Thursday, September 25, 2025</div>
-  <div class="lecture-title">Model Specifications & Compliance</div>
+  <div class="lecture-title">Model Specifications & Compliance <a href="#lecture-sep-25" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><a href="https://youtu.be/LQ0RRQKKluc">Lecture video</a></li>
@@ -318,9 +337,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-oct-2">
   <div class="lecture-date">Thursday, October 2, 2025</div>
-  <div class="lecture-title">Content Policies</div>
+  <div class="lecture-title">Content Policies <a href="#lecture-oct-2" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (Product Policy, OpenAI)</li>
@@ -348,9 +367,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-oct-9">
   <div class="lecture-date">Thursday, October 9, 2025</div>
-  <div class="lecture-title">Recursive Self-Improvement</div>
+  <div class="lecture-title">Recursive Self-Improvement <a href="#lecture-oct-9" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><a href="https://youtu.be/wzep3Rnv6iw">Lecture video</a></li>
@@ -382,9 +401,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-oct-16">
   <div class="lecture-date">Thursday, October 16, 2025</div>
-  <div class="lecture-title">Capabilites vs. Safety</div>
+  <div class="lecture-title">Capabilites vs. Safety <a href="#lecture-oct-16" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://metr.org/team/joel-becker/">Joel Becker</a> (METR)</li>
@@ -421,9 +440,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-oct-23">
   <div class="lecture-date">Thursday, October 23, 2025</div>
-  <div class="lecture-title">Scheming, Reward Hacking & Deception</div>
+  <div class="lecture-title">Scheming, Reward Hacking & Deception <a href="#lecture-oct-23" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturers:</b> Buck Shlegeris (Redwood Research), Marius Hobbhahn (Apollo Research)</li>
@@ -449,9 +468,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-oct-30">
   <div class="lecture-date">Thursday, October 30, 2025</div>
-  <div class="lecture-title">Economic Impacts of Foundation Models</div>
+  <div class="lecture-title">Economic Impacts of Foundation Models <a href="#lecture-oct-30" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> Ronnie Chatterji (Chief Economist, OpenAI)</li>
@@ -475,9 +494,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-nov-6">
   <div class="lecture-date">Thursday, November 6, 2025</div>
-  <div class="lecture-title">Interpretability</div>
+  <div class="lecture-title">Interpretability <a href="#lecture-nov-6" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
 
   <b>Guest lecturers (remote):</b> Neel Nanda (Google DeepMind), Bowen Baker (OpenAI), Jack Lindsey (Anthropic), Leo Gao (OpenAI)
@@ -507,9 +526,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-nov-13">
   <div class="lecture-date">Thursday, November 13, 2025</div>
-  <div class="lecture-title">Emotional Reliance and Persuasion</div>
+  <div class="lecture-title">Emotional Reliance and Persuasion <a href="#lecture-nov-13" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li>Domestic & international regulatory approaches</li>
@@ -528,9 +547,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-nov-20">
   <div class="lecture-date">Thursday, November 20, 2025</div>
-  <div class="lecture-title">Military & Surveillance Applications of AI</div>
+  <div class="lecture-title">Military & Surveillance Applications of AI <a href="#lecture-nov-20" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li>Lethal autonomous weapon systems (LAWS)</li>
@@ -556,9 +575,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="no-lecture">No lecture on Thursday, November 27 – Thanksgiving Break</div>
 
-<div class="lecture-item">
+<div class="lecture-item" id="lecture-dec-4">
   <div class="lecture-date">Thursday, December 4, 2025</div>
-  <div class="lecture-title">AI 2035 - Possible Futures of AI</div>
+  <div class="lecture-title">AI 2035 - Possible Futures of AI <a href="#lecture-dec-4" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li>Student project presentations and discussion of future directions in AI safety research</li>
