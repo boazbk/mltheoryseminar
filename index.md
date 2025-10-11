@@ -407,7 +407,14 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://metr.org/team/joel-becker/">Joel Becker</a> (METR)</li>
-      <li>TBD</li>
+      <li>Growth in capabilities: METR task doubling, METR developer productivity, OpenAI gdpval</li>
+      <li>What it means for:</li>
+      <ul>
+        <li>Large scale job displacement</li>
+        <li>Automating AI R&D</li>
+      </ul>
+      <li>OpenAI preparedness framework</li>
+      <li>Other responsible scaling policies</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
