@@ -353,6 +353,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Recursive Self-Improvement</div>
   <div class="lecture-content">
     <ul>
+      <li><a href="https://youtu.be/wzep3Rnv6iw">Lecture video</a></li>
       <li>Is AI R&D an "AI-complete" task?</li>
     </ul>
     <div class="experiment-section">
