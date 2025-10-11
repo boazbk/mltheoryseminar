@@ -397,7 +397,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://arxiv.org/abs/2507.09089">Barak, B. – "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2507.09089">Becker, J., Rush, N., Barnes, E., & Rein, D. – "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://evaluations.metr.org/gpt-5-report/">METR – "GPT-5 Report"</a> <b>pre-reading</b></li>
         <li><a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf">Anthropic – "Responsible Scaling Policy" (2024)</a> <b>pre-reading</b></li>
         <li><a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf">OpenAI – "Preparedness Framework v2" (2024)</a> <b>pre-reading</b></li>
