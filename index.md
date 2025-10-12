@@ -429,6 +429,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf">OpenAI – "Preparedness Framework v2" (2024)</a> <b>pre-reading</b></li>
         <li><a href="https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf">Brynjolfsson, E., Chandar, A., & Chen, N. – "Canaries in the Coal Mine" (2025)</a></li>
         <li><a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">METR – "Measuring AI Ability to Complete Long Tasks" (2025)</a></li>
+        <li><a href="https://metr.org/blog/2025-03-26-common-elements-of-frontier-ai-safety-policies/">METR – "Common Elements of Frontier AI Safety Policies" (2025)</a></li>
         <li><a href="https://arxiv.org/abs/2503.17354">METR – "HCAST: Human-Calibrated Agent Scaffolding Tasks" (2025)</a></li>
         <li><a href="https://arxiv.org/abs/2403.12107">Davidson, T. – "Scenarios for the Transition to AGI" (2024)</a></li>
         <li><a href="https://cdn.openai.com/papers/PreventingDangerousCapabilities.pdf">OpenAI – "Preparing for AGI & Beyond: Responsible Scaling Policy" (2024)</a></li>
