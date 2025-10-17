@@ -541,25 +541,6 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <ul>
       <li>Domestic & international regulatory approaches</li>
       <li>Standards-setting & audits</li>
-    </ul>
-    <div class="experiment-section">
-      <div class="experiment-label">Experiment:</div>
-      To be determined
-    </div>
-    <div class="resources-section">
-      <div class="resources-label">Resources:</div>
-      <ul>
-        <li>Resources to be determined</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div class="lecture-item" id="lecture-nov-20">
-  <div class="lecture-date">Thursday, November 20, 2025</div>
-  <div class="lecture-title">Military & Surveillance Applications of AI <a href="#lecture-nov-20" class="lecture-link">🔗</a></div>
-  <div class="lecture-content">
-    <ul>
       <li>Lethal autonomous weapon systems (LAWS)</li>
       <li>Strategic stability & escalation risks</li>
       <li>Mass-scale surveillance infrastructure</li>
@@ -581,14 +562,12 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   </div>
 </div>
 
-<div class="no-lecture">No lecture on Thursday, November 27 – Thanksgiving Break</div>
-
-<div class="lecture-item" id="lecture-dec-4">
-  <div class="lecture-date">Thursday, December 4, 2025</div>
-  <div class="lecture-title">AI 2035 - Possible Futures of AI <a href="#lecture-dec-4" class="lecture-link">🔗</a></div>
+<div class="lecture-item" id="lecture-nov-20">
+  <div class="lecture-date">Thursday, November 20, 2025</div>
+  <div class="lecture-title">AI 2035 <a href="#lecture-nov-20" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
-      <li>Student project presentations and discussion of future directions in AI safety research</li>
+      <li>Discussion of future directions in AI safety research</li>
     </ul>
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
@@ -598,6 +577,8 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     </div>
   </div>
 </div>
+
+<div class="no-lecture">No lecture on Thursday, November 27 – Thanksgiving Break</div>
 
 </div>
 
