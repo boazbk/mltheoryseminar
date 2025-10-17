@@ -343,6 +343,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturer:</b> <a href="https://jackson.yale.edu/person/ziad-reslan/">Ziad Reslan</a> (Product Policy, OpenAI)</li>
+      <li><a href="https://youtu.be/HMcA4Gi6HFE">Video of student experiment</a></li>
       <li>Content policies and moderation</li>
       <li>Platform governance</li>
       <li>Policy enforcement challenges</li>
