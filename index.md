@@ -466,6 +466,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
+        <li><a href="https://arxiv.org/abs/2412.14093">Greenblatt, R., et al. – "Alignment faking in large language models" (2024)</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2501.17315">Korbak, T., Clymer, J., Hilton, B., Shlegeris, B., & Irving, G. – "A sketch of an AI control safety case" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2509.15541">Schoen, B., et al. – "Stress Testing Deliberative Alignment for Anti-Scheming Training" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2504.05259">Korbak, T., Balesni, M., Shlegeris, B., & Irving, G. – "How to evaluate control measures for LLM agents? A trajectory from today to superintelligence" (2025)</a> <b>pre-reading</b></li>
