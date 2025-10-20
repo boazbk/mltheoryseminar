@@ -20,7 +20,12 @@
       "WebFetch(domain:www.forethought.org)",
       "WebFetch(domain:epoch.ai)",
       "WebFetch(domain:www.julian.ac)",
-      "WebFetch(domain:takeoffspeeds.com)"
+      "WebFetch(domain:takeoffspeeds.com)",
+      "WebFetch(domain:www.lesswrong.com)",
+      "Bash(curl -s \"https://www.lesswrong.com/w/cs-2881r\")",
+      "WebFetch(domain:evaluations.metr.org)",
+      "WebFetch(domain:www-cdn.anthropic.com)",
+      "WebFetch(domain:assets.anthropic.com)"
     ],
     "deny": []
   }

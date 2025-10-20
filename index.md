@@ -52,108 +52,7 @@ __Previous versions:__ [Spring 2023 ML Theory Seminar](spring2023.md) | [Spring 
 
 Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
-<div class="sidebar">
-  <h3>Lectures</h3>
-  <ul>
-    <li><a href="#lecture-sep-4">Sep 4 - Introduction</a></li>
-    <li><a href="#lecture-sep-11">Sep 11 - Modern LLM Training</a></li>
-    <li><a href="#lecture-sep-18">Sep 18 - Adversarial Robustness</a></li>
-    <li><a href="#lecture-sep-25">Sep 25 - Model Specifications</a></li>
-    <li><a href="#lecture-oct-2">Oct 2 - Content Policies</a></li>
-    <li><a href="#lecture-oct-9">Oct 9 - Recursive Self-Improvement</a></li>
-    <li><a href="#lecture-oct-16">Oct 16 - Capabilities vs. Safety</a></li>
-    <li><a href="#lecture-oct-23">Oct 23 - Scheming & Deception</a></li>
-    <li><a href="#lecture-oct-30">Oct 30 - Economic Impacts</a></li>
-    <li><a href="#lecture-nov-6">Nov 6 - Interpretability</a></li>
-    <li><a href="#lecture-nov-13">Nov 13 - Emotional Reliance</a></li>
-    <li><a href="#lecture-nov-20">Nov 20 - AI 2035</a></li>
-  </ul>
-</div>
-
-<div class="main-content">
-
 <style>
-body {
-  display: flex;
-  margin: 0;
-}
-
-h1:first-of-type {
-  margin-top: 0;
-  padding-top: 0.5rem;
-}
-
-.sidebar {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 250px;
-  height: 100vh;
-  background-color: #f8f9fa;
-  border-right: 1px solid #ddd;
-  overflow-y: auto;
-  padding: 1rem;
-  box-sizing: border-box;
-}
-
-.sidebar h3 {
-  margin-top: 0;
-  font-size: 1.1rem;
-  color: #333;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #0066cc;
-}
-
-.sidebar ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.sidebar li {
-  margin: 0.5rem 0;
-}
-
-.sidebar a {
-  text-decoration: none;
-  color: #555;
-  display: block;
-  padding: 0.5rem;
-  border-radius: 4px;
-  transition: background-color 0.2s, color 0.2s;
-  font-size: 0.9rem;
-}
-
-.sidebar a:hover {
-  background-color: #e7f3ff;
-  color: #0066cc;
-}
-
-.sidebar a.active {
-  background-color: #0066cc;
-  color: white;
-}
-
-.main-content {
-  margin-left: 270px;
-  padding: 0.5rem 2rem 1rem 2rem;
-  max-width: 1200px;
-}
-
-.main-content > p:first-of-type {
-  margin-top: 0.5rem;
-}
-
-@media (max-width: 768px) {
-  .sidebar {
-    display: none;
-  }
-
-  .main-content {
-    margin-left: 0;
-  }
-}
-
 .lecture-schedule {
   margin: 2rem 0;
 }
@@ -689,8 +588,6 @@ h1:first-of-type {
 </div>
 
 <div class="no-lecture">No lecture on Thursday, November 27 – Thanksgiving Break</div>
-
-</div>
 
 </div>
 
