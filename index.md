@@ -468,6 +468,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
       <ul>
         <li><a href="https://arxiv.org/abs/2501.17315">Korbak, T., Clymer, J., Hilton, B., Shlegeris, B., & Irving, G. – "A sketch of an AI control safety case" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2509.15541">Schoen, B., et al. – "Stress Testing Deliberative Alignment for Anti-Scheming Training" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2504.05259">Korbak, T., Balesni, M., Shlegeris, B., & Irving, G. – "How to evaluate control measures for LLM agents? A trajectory from today to superintelligence" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">Weng, L. – "Reward Hacking" (2024)</a></li>
         <li><a href="https://arxiv.org/abs/2311.08379">Carlsmith, J. – "Scheming AIs Report" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2310.01405">Zou, A., et al. – "Representation Engineering" (2023)</a></li>
