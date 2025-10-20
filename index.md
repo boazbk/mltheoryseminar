@@ -78,6 +78,11 @@ body {
   margin: 0;
 }
 
+h1:first-of-type {
+  margin-top: 0;
+  padding-top: 0.5rem;
+}
+
 .sidebar {
   position: fixed;
   left: 0;
@@ -131,8 +136,12 @@ body {
 
 .main-content {
   margin-left: 270px;
-  padding: 1rem 2rem;
+  padding: 0.5rem 2rem 1rem 2rem;
   max-width: 1200px;
+}
+
+.main-content > p:first-of-type {
+  margin-top: 0.5rem;
 }
 
 @media (max-width: 768px) {
