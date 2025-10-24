@@ -503,6 +503,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
+        <li><a href="https://www.kellogg.northwestern.edu/faculty/jones-ben/htm/Artificial_Intelligence_in_Research_and_Development.pdf">Jones, B. F. – "Artificial Intelligence in Research and Development" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf">Chatterji, A., et al. – "How People Use ChatGPT" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf">Brynjolfsson, E., Chandar, B., & Chen, R. – "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://www.goldmansachs.com/insights/technology-driving-innovation/ai-and-jobs-report.html">Goldman Sachs – "Long-Run Impact of AI on GDP & Jobs" (2023)</a></li>
         <li><a href="https://arxiv.org/abs/2304.11771">Brynjolfsson et al. – "Generative AI at Work" (2023)</a></li>
         <li><a href="https://economics.mit.edu/wp-content/uploads/2023/09/AI-and-Jobs-in-the-US.pdf">Acemoglu & Restrepo – "AI, Automation & Work" (2024)</a></li>
