@@ -457,12 +457,13 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturers:</b> Buck Shlegeris (Redwood Research), Marius Hobbhahn (Apollo Research)</li>
-      <li><b>Experiment:</b> When Honest Work Becomes Impossible - Coding Agents Under Pressure (Joey Bejjani, Itamar Rocha Filho, Haichuan Wang, Zidi Xiong) | <a href="https://docs.google.com/presentation/d/1qjNlSgwnQBDoY2JsvEO_-7h9Hm4zm0s8RjmFgH-_uOI/edit?usp=sharing">Slides</a> | <a href="https://github.com/ItamarRocha/scheming-exp8">GitHub</a></li>
       <li>Exploring "bad behavior" tied to training objectives</li>
       <li>Investigating potential deception in monitoring models</li>
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
+      <b>When Honest Work Becomes Impossible - Coding Agents Under Pressure</b> (Joey Bejjani, Itamar Rocha Filho, Haichuan Wang, Zidi Xiong) | <a href="https://docs.google.com/presentation/d/1qjNlSgwnQBDoY2JsvEO_-7h9Hm4zm0s8RjmFgH-_uOI/edit?usp=sharing">Slides</a> | <a href="https://github.com/ItamarRocha/scheming-exp8">GitHub</a>
+      <br><br>
       Demonstrate how impossible tasks and threats to autonomy and capabilities lead to evaluation hacking by coding agents. Highlight the challenges of measuring misaligned behaviors with situational awareness as a growing concern.
     </div>
     <div class="resources-section">
