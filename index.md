@@ -314,7 +314,9 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
-      Model Spec adherence evals - test generalization of model behavior across different domains
+      <b>Can We Prompt Our Way to Safety? Comparing System Prompt Styles and Post-Training Effects on Safety Benchmarks</b> (Hugh Van Deventer) | <a href="https://docs.google.com/presentation/d/1FdzsVHCcDn8Az26XGJm_P4X4mley_LWcmdIClvC4OuY/edit?usp=sharing">Slides</a> | <a href="https://github.com/hughvd/prompting-vs-safety-training">GitHub</a> | <a href="https://www.lesswrong.com/posts/hgMDvLyomQjpKiG2v/cs-2881r-can-we-prompt-our-way-to-safety-comparing-system?utm_campaign=post_share&utm_source=link">Blog post</a>
+      <br><br>
+      Comparing the effect of system prompts vs safety training on over-refusal and toxic-refusal benchmarks. Results show that system prompt style effects are highly model-dependent, with some configurations achieving comparable toxic refusal rates to safety-trained models while maintaining significantly lower over-refusal.
     </div>
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
