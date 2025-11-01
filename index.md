@@ -538,6 +538,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
+        <li><a href="https://arxiv.org/abs/2503.11926">Baker, B., et al. – "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2507.21509">Chen, R., Arditi, A., Sleight, H., Evans, O., & Lindsey, J. – "Persona Vectors: Monitoring and Controlling Character Traits in Language Models" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2501.17148">Wu, Z., et al. – "AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2501.16496">Sharkey, L., et al. – "Open Problems in Mechanistic Interpretability" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf">Anthropic – "Claude Sonnet 4.5 System Card" (Section 7.6)</a> <b>pre-reading</b></li>
         <li><a href="https://transformer-circuits.pub/2024/mechanistic-survey/index.html">Nanda et al. – "Survey of Mechanistic Interpretability" (2024)</a></li>
         <li><a href="https://distill.pub/2020/circuits/zoom-in/">Olah et al. – "Zoom In: Intro to Circuits" (2020)</a></li>
         <li><a href="https://transformer-circuits.pub/2023/monosemantic-features/index.html">Bricken et al. – "Towards Monosemanticity" (2023)</a></li>
