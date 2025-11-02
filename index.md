@@ -475,6 +475,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/Ec5_PVcJPBJPg-fJa0scnPYB8oDlDLuCM5I92N1Dit6SPQ?e=d6Z21h">Boaz slides</a></li>
         <li><a href="https://docs.google.com/presentation/d/1BpMoImDfF9x3C7mGvmIFJOOVYvkgZFn2W09cW1oieSo/edit?usp=sharing">Marius slides</a></li>
         <li><a href="https://docs.google.com/presentation/d/1n5Dl6P-bPIfaenMU-9Dk4sTqXvl8VwdoHMSbmKmwonc/edit?slide=id.g39c8ed638bd_0_2642#slide=id.g39c8ed638bd_0_2642">Buck slides</a></li>
+        <li><a href="https://youtu.be/JXvHJheHE10">Video of student experiment</a></li>
         <li><a href="https://arxiv.org/abs/2412.14093">Greenblatt, R., et al. – "Alignment faking in large language models" (2024)</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2501.17315">Korbak, T., Clymer, J., Hilton, B., Shlegeris, B., & Irving, G. – "A sketch of an AI control safety case" (2025)</a> <b>pre-reading</b></li>
         <li><a href="https://arxiv.org/abs/2509.15541">Schoen, B., et al. – "Stress Testing Deliberative Alignment for Anti-Scheming Training" (2025)</a> <b>pre-reading</b></li>
