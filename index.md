@@ -564,7 +564,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
 
 <div class="lecture-item" id="lecture-nov-13">
   <div class="lecture-date">Thursday, November 13, 2025</div>
-  <div class="lecture-title">Emotional Reliance and Persuasion <a href="#lecture-nov-13" class="lecture-link">🔗</a></div>
+  <div class="lecture-title">Emotional Reliance and Mental Health <a href="#lecture-nov-13" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
       <li>Domestic & international regulatory approaches</li>
