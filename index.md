@@ -580,11 +580,11 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <div class="resources-section">
       <div class="resources-label">Resources:</div>
       <ul>
-        <li><a href="https://www.cnas.org/publications/reports/artificial-intelligence-and-national-security">Allen & Chan – "AI & National Security" (CNAS 2017)</a></li>
-        <li><a href="https://www.icrc.org/en/document/artificial-intelligence-autonomous-weapons-and-humanitarian-law">ICRC – "AI, Autonomous Weapons & IHL" (2024)</a></li>
-        <li><a href="https://carnegieendowment.org/2019/09/17/ai-surveillance-index-pub-79847">Feldstein – "AI Surveillance Index" (2019)</a></li>
-        <li><a href="https://media.defense.gov/2023/Feb/10/2003160996/-1/-1/0/DOD-AI-ADOPTION-STRATEGY-2023.PDF">DoD – "AI Adoption Strategy" (2023)</a></li>
-        <li><a href="https://situational-awareness.ai/">Aschenbrenner – "Situational Awareness" website</a></li>
+        <li><a href="https://www.jmir.org/2025/1/e60435">Habicht, J., Dina, L., McFadyen, J., Stylianou, M., Harper, R., Hauser, T., & Rollwage, M. – "Generative AI–Enabled Therapy Support Tool for Improved Clinical Outcomes and Patient Engagement in Group Therapy: Real-World Observational Study" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2504.18412">Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D., & Haber, N. – "Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers" (2025)</a> <b>pre-reading</b></li>
+        <li><a href="https://arxiv.org/abs/2401.14362">Song, I., Pendse, S., Kumar, N., & De Choudhury, M. – "The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support" (2024)</a> <b>pre-reading</b></li>
+        <li><a href="https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai">Krueger, K. – "The Rise of Parasitic AI" (LessWrong)</a> <b>pre-reading</b></li>
+        <li><a href="https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/">OpenAI – "Strengthening ChatGPT Responses in Sensitive Conversations"</a></li>
       </ul>
     </div>
   </div>
