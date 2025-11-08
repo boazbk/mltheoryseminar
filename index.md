@@ -585,6 +585,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
         <li><a href="https://arxiv.org/abs/2401.14362">Song, I., Pendse, S. R., Kumar, N., & De Choudhury, M. – "The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support" (2024)</a> <b>pre-reading</b></li>
         <li><a href="https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai">Lopez, A. – "The Rise of Parasitic AI" (LessWrong)</a> <b>pre-reading</b></li>
         <li><a href="https://ai.nejm.org/doi/full/10.1056/AIoa2400802">Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., Jewett, A. D., Salzhauer, A. J., Griffin, T. Z., & Jacobson, N. C. – "Randomized Trial of a Generative AI Chatbot for Mental Health Treatment" (NEJM AI 2025)</a></li>
+        <li><a href="https://www.bbc.com/news/articles/cp3x71pv1qno">Titheradge, N. & Malchevska, O. – "I wanted ChatGPT to help me. So why did it advise me how to kill myself?" (BBC News 2025)</a></li>
         <li><a href="https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/">OpenAI – "Strengthening ChatGPT Responses in Sensitive Conversations"</a></li>
       </ul>
     </div>
