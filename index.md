@@ -500,6 +500,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturers:</b> Ronnie Chatterji (Chief Economist, OpenAI), Bharat Chandar (Stanford Digital Economy Lab)</li>
+      <li><a href="https://youtu.be/4vQSMijp_M8">Lecture video</a></li>
       <li>Labor substitution & productivity effects</li>
       <li>Inequality & policy responses</li>
     </ul>
