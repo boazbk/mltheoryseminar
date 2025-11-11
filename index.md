@@ -599,6 +599,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">AI 2035 <a href="#lecture-nov-20" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
+      <li><b>Guest Lecturers:</b> Tejal Patwardhan (OpenAI), Kevin Liu (OpenAI)</li>
       <li>Discussion of future directions in AI safety research</li>
     </ul>
     <div class="resources-section">
