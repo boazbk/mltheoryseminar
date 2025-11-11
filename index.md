@@ -499,7 +499,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Economic Impacts of Foundation Models <a href="#lecture-oct-30" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
-      <li><b>Guest Lecturer:</b> Ronnie Chatterji (Chief Economist, OpenAI)</li>
+      <li><b>Guest Lecturers:</b> Ronnie Chatterji (Chief Economist, OpenAI), Bharat Chandar (Stanford Digital Economy Lab)</li>
       <li>Labor substitution & productivity effects</li>
       <li>Inequality & policy responses</li>
     </ul>
