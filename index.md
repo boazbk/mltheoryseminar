@@ -533,6 +533,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <b>Guest lecturers (remote):</b> Neel Nanda (Google DeepMind), Bowen Baker (OpenAI), Jack Lindsey (Anthropic), Leo Gao (OpenAI)
     <ul>
       <li><a href="https://youtu.be/79otWC2FQlE">Lecture video</a></li>
+      <li><a href="http://neelnanda.io/harvard-slides">Neel Nanda slides</a></li>
       <li>Activations</li>
       <li>Sparse Auto Encoders (SAE)</li>
       <li>Black box models</li>
