@@ -570,6 +570,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-title">Emotional Reliance and Mental Health <a href="#lecture-nov-13" class="lecture-link">🔗</a></div>
   <div class="lecture-content">
     <ul>
+      <li><a href="https://youtu.be/GNvEjP1DfIs">Lecture video</a></li>
       <li>Domestic & international regulatory approaches</li>
       <li>Standards-setting & audits</li>
       <li>Lethal autonomous weapon systems (LAWS)</li>
