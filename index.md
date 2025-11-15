@@ -464,7 +464,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     </ul>
     <div class="experiment-section">
       <div class="experiment-label">Experiment:</div>
-      <b>When Honest Work Becomes Impossible - Coding Agents Under Pressure</b> (Joey Bejjani, Itamar Rocha Filho, Haichuan Wang, Zidi Xiong) | <a href="https://docs.google.com/presentation/d/1qjNlSgwnQBDoY2JsvEO_-7h9Hm4zm0s8RjmFgH-_uOI/edit?usp=sharing">Slides</a> | <a href="https://github.com/ItamarRocha/scheming-exp8">GitHub</a>
+      <b>When Honest Work Becomes Impossible - Coding Agents Under Pressure</b> (Joey Bejjani, Itamar Rocha Filho, Haichuan Wang, Zidi Xiong) | <a href="https://docs.google.com/presentation/d/1qjNlSgwnQBDoY2JsvEO_-7h9Hm4zm0s8RjmFgH-_uOI/edit?usp=sharing">Slides</a> | <a href="https://github.com/ItamarRocha/scheming-exp8">GitHub</a> | <a href="https://www.lesswrong.com/posts/AJANBeJb2p39su6F9/cs2881r-week-8-when-agents-prefer-hacking-to-failu">Blog Post</a>
       <br><br>
       Demonstrate how impossible tasks and threats to autonomy and capabilities lead to evaluation hacking by coding agents. Highlight the challenges of measuring misaligned behaviors with situational awareness as a growing concern.
     </div>
