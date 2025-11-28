@@ -263,6 +263,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <ul>
       <li><a href="https://www.youtube.com/watch?v=pfKO4MlvM-Y&t=1s">Lecture video</a></li>
       <li><a href="https://www.lesswrong.com/posts/xZA9cXkiRhnATpifZ/cs-2881r-week-3-adversarial-robustness-jailbreaks-prompt">Blog post summary</a> (Ege Cakar)</li>
+      <li><a href="https://www.lesswrong.com/posts/bZhzgi3ssLtBhsCAp/week-3-adversarial-robustness-1">Experiment: RL for Prompt Injection Attacks</a> (Ely Hahami, Lavik Jain, Emira Ibrahimović) | <a href="https://github.com/elyhahami18/adversarial-robustness-cs2881">GitHub</a></li>
       <li><b>Guest lecturers:</b><a href="https://nicholas.carlini.com/">Nicholas Carlini</a> (Anthropic), Keri Warr (Anthropic)</li>
       <li>Adversarial robustness</li>
       <li>Jailbreaks</li>
