@@ -30,6 +30,8 @@ __Related reading by Boaz:__
 
 * [Six Thoughts on AI Safety](https://windowsontheory.org/2025/01/24/six-thoughts-on-ai-safety/)
 
+* [Thoughts by a Non-Economist on AI and Economics](https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics/)
+
 __Previous versions:__ [Spring 2023 ML Theory Seminar](spring2023.md) | [Spring 2021 ML Theory Seminar](https://boazbk.github.io/mltheoryseminar/cs229br)
 
 # Mini Syllabus
