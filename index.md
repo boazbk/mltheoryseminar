@@ -379,6 +379,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
     <ul>
       <li><a href="https://youtu.be/wzep3Rnv6iw">Lecture video</a></li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/ESGsKxa1G79Gv4T9O4g9ZJkBIZd4CWudXEzLmBvdpLbkmg?e=fci9ky">Lecture slides</a></li>
+      <li><a href="https://www.lesswrong.com/posts/DonyTLfGkyRyvJqwG/cs-2881r-week-6-recursive-self-improvement">Blog Post Summary (Joshua, Mohammad, Jaray)</a></li>
       <li>Is AI R&D an "AI-complete" task?</li>
     </ul>
     <div class="experiment-section">
