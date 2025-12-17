@@ -1,2 +1,10 @@
+**/orals
+.claude
 .DS_Store
 **/.DS_Store
+Gemfile
+Gemfile.lock
+_site
+student_projects/checkin_responses.csv
+
+

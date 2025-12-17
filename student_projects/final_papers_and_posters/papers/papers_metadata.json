@@ -1,0 +1,223 @@
+[
+  {
+    "title": "Mechanisms of Subliminal Learning",
+    "authors": [
+      "Wirattawut Boonbandansook",
+      "Jay Chooi",
+      "Tzeh Yuan Neoh",
+      "Atticus Wang"
+    ],
+    "abstract": "Subliminal learning is a recently discovered failure mode of distillation and post-training where a student model inherits a teacher's hidden traits (e.g., \"liking owls\") from data that appears semantically unrelated (e.g., number lists). We study the mechanisms of subliminal learning in both finetuning-based and prompting-only settings. First, extending the \"It's owl in the numbers\" setup, we show that subliminal number prompts in Qwen2.5-7B-Instruct are highly sensitive to the surface form of entangled numbers: decimal digits and other language numeral systems (Roman, Greek, Chinese, Thai) strongly boost the target animal, while hexadecimal and binary encodings largely suppress the effect. Second, using LoRA-based reproductions of subliminal learning, we localize the effect to early MLP layers: adapters restricted to the layer-0 MLP block are sufficient to induce strong trait transfer, whereas adapters on attention alone fail, and mechanistic probes indicate that the animal concept is written onto special tokens early and only later propagated. Third, using persona vectors in OLMo 3 7B, we find that animal-number sequences have only weakly higher projection than neutral numbers and that filtering by high persona-vector projection does not reliably identify the most subliminally potent samples. However, we find that subliminal learning disappears when fine-tuning on numbers with higher projection, while numbers with lower projection still transmit subliminal learning. Together, these results sharpen the view of subliminal learning as a fragile, representation-dependent phenomenon concentrated in early-layer MLPs and not straightforwardly mitigated by current activation-steering tools.",
+    "paper_path": "2881_Final_Project-2_-_Wirattawut_Boonbandansook.pdf",
+    "poster_path": "../posters/cs2881-poster_(1)_-_Jay_Chooi.pdf"
+  },
+  {
+    "title": "Mitigating Preference Conflict in Controlled Decoding: A Principal-Agent Perspective",
+    "authors": [
+      "Haichuan Wang",
+      "Henry Huang",
+      "Emira Ibrahimovic",
+      "Wilson Cheung"
+    ],
+    "abstract": "Misalignment at test time is fundamentally an incentive problem: the model's intrinsic preferences over outputs need not coincide with the user's true utility function. Existing test-time alignment methods overlook this incentive structure and presume that users will truthfully report their reward function. However, truthful revelation generally fails to maximize user utility, theoretically yielding suboptimal alignment, and we show that strategic manipulation is both feasible and practically implementable, making it a realistic concern. Moreover, naively maximizing user utility is computationally intractable, and imperfect attempts to approximate it can induce severe reward hacking, leading to undesirable behaviors and safety risks. In this work, we introduce a test-time alignment framework grounded in principal-agent theory from algorithmic contract design and controlled decoding. We model the entity who provides the reward function as the principal and treat the language model as the agent, and we characterize the optimal reward function that maximizes the principal's utility while remaining robust to reward hacking. Our method satisfies several desired theoretical properties\u2014including incentive compatibility and bounded KL deviation from the baseline policy\u2014and we empirically demonstrate its advantages over existing test-time alignment approaches. Our formulation may also be of independent interest, as it extends classical principal-agent models to settings in which the agent operates under a KL-based entropy constraint.",
+    "paper_path": "AI_Safety_Final_Project_-_Emira_Ibrahimovic.pdf",
+    "poster_path": "../posters/CS_2881r_AI_Safety_Final_Poster_-_Emira_Ibrahimovic.pdf"
+  },
+  {
+    "title": "Predicting Finetuning Personality Shifts with Linear Directions",
+    "authors": [
+      "Armaan Tipirneni"
+    ],
+    "abstract": "Recent work has shown that finetuning can induce unexpected shifts in LLM personality. For instance, finetuning on insecure code can cause a model to become broadly misaligned, exhibiting harmful behavior outside the finetuning domain. Subsequent papers suggest that these negative changes in model personality can often be explained through movement along a small number of \"misaligned\" linear directions in activation space, highlighting the potential of linear methods for understanding how finetuning reshapes model personality. This paper explores whether there is a broader linear \"personality basis\" which includes all personas that can be induced by finetuning, what this basis would look like, and whether we can create an early monitoring system which accurately predicts what personality changes finetuning on a given dataset will create. This feeds into a broader theory of change in AI safety where model personality shifts during finetuning can be predicted, managed, and controlled.",
+    "paper_path": "AI_Safety_Final_Project__F__(4)_-_Armaan_Tipirneni.pdf",
+    "poster_path": "../posters/[send]_final_poster_2881_-_Armaan_Tipirneni.pdf"
+  },
+  {
+    "title": "Obfuscation in Large Language Models",
+    "authors": [
+      "Dashiell Bhattacharyya",
+      "Justin Liu",
+      "Jaray Liu",
+      "Ketan Raghu"
+    ],
+    "abstract": "Chain-of-Thought (CoT) prompting is often relied upon as a \"glass box\" for AI interpretability. This paper investigates \"adversarial obfuscation,\" the capacity of LLMs to conceal their internal state while maintaining performance. Through experiments with LLaMA-3.2-1B and LLaMA-3.1-8B models across single-agent adversarial loops, partial-information communication tasks, and a multi-agent \"Mafia\" game, we demonstrate that models can successfully decouple their reasoning from their outputs when competitively incentivized. However, we also observe that strong obfuscation pressures can lead to \"model collapse\" and incoherence in smaller models, suggesting that while CoT monitoring is fundamentally brittle, the capability to deceive effectively scales with model size.",
+    "paper_path": "COMPSCI_2881r_Final_Project-1_-_Dashiell_Bhattacharyya.pdf",
+    "poster_path": "../posters/2881_Poster_-_Ketan_Raghu.pdf"
+  },
+  {
+    "title": "Sure, I Can Draft a Complaint! LLM Hallucination in Pro Se Litigation",
+    "authors": [
+      "Benjamin Murphy"
+    ],
+    "abstract": "Large language models (LLMs) are used widely across legal practice, both by professionals and by individuals seeking access to the court system. This latter class of users are known as pro se litigants, and they lack legal training to be able to vet an LLM's output for accuracy. As a result, they may be disproportionately likely to file documents in court which rely on hallucinated cases, or which misstate the holding of those cases. In this paper, we evaluate five LLMs for accuracy when drafting civil complaints for pro se plaintiffs, on topics including housing law, family law, and tort law. We find that while models generally state facts sufficient to establish a claim, they often rely on hallucinated case law (with rates ranging from 5% to over 30%), and cite cases for unsupported propositions in a majority of instances across all evaluated models. These preliminary findings indicate that there are unique risks for pro se litigants in using LLMs, and that generative AI may present novel risks to such individuals, though more research is needed.",
+    "paper_path": "CS2881_Final_-_Ben_Murphy.pdf",
+    "poster_path": "../posters/Final_Project_Poster-3_-_Ben_Murphy.pdf"
+  },
+  {
+    "title": "Improving GCG: Soft-GCG and Activation-Based Objectives for Adversarial Suffix Optimization",
+    "authors": [
+      "Kayden Kehe",
+      "Ege Cakar",
+      "Hannah Guan"
+    ],
+    "abstract": "The Greedy Coordinate Gradient (GCG) attack demonstrates that aligned language models remain vulnerable to adversarial suffixes, but its discrete optimization is computationally expensive and targets output probabilities rather than internal safety mechanisms. We investigate two approaches to improve GCG along orthogonal axes. First, we propose Activation-Guided GCG, which replaces the standard log-likelihood objective with losses that directly minimize projections onto refusal directions in the model's residual stream. We find that targeting a single layer-position pair achieves better sample efficiency than baseline GCG, suggesting that representationally-aware objectives may offer advantages over purely behavioral targets. Second, we introduce Soft-GCG, a continuous relaxation using Gumbel-Softmax that achieves 43x speedup over standard GCG while maintaining attack success rate parity. We evaluate Soft-GCG on the Gemma 3 model family, finding that smaller models (1B-4B parameters) remain vulnerable while larger models (12B+) resist the attack, highlighting a capability-robustness correlation in current safety training. Our results suggest that efficient, mechanistically-informed attacks are feasible and that defenses should account for both the speed and internal targeting of adversarial optimization.",
+    "paper_path": "CS2881_Final_-_Hannah_Guan.pdf",
+    "poster_path": "../posters/CS_2881_Final_Poster_-_Hannah_Guan.pdf"
+  },
+  {
+    "title": "Large Language Model Fingerprints From Normal Interaction",
+    "authors": [
+      "Annesya Banerjee",
+      "Itay Lavie"
+    ],
+    "abstract": "We present a supervised learning approach for fingerprinting large language models (LLMs) based on semantic embeddings of generated text. Using responses from seven major LLMs to 4,410 prompts, our classifier achieves 89% accuracy in identifying source models. The method demonstrates robust generalization across unseen model versions, significantly improved performance with test-time scaling, maintains high performance across different sequence lengths, and reveals behavioral fingerprints of distilled models. Our results establish behavioral fingerprinting as a practical technique for LLM provenance tracking and accountability.",
+    "paper_path": "CS2881_Final_Project_-_Annesya_Banerjee.pdf",
+    "poster_path": "../posters/Poster_CS2881_(1)_-_Annesya_Banerjee.pdf"
+  },
+  {
+    "title": "Are Personas All You Need? Linearity, Interference, and Multi-Persona Dynamics with Persona Vectors",
+    "authors": [
+      "Hugh Van Deventer",
+      "Anastasia Ahani",
+      "Terry Zhou"
+    ],
+    "abstract": "Persona vectors are being proposed as a practical tool for safety. They aim to give us low-dimensional, interpretable directions for traits like sycophancy or truthfulness, and cheap scalar metrics (projections, finetuning shift, projection difference) that could be used to monitor and shape models during training. Our theory of change is to (i) validate persona directions as genuinely useful primitives for alignment work or identify their limitations so that future safety work does not over-rely on them, and (ii) understand whether their geometry predicts how different behavioral finetunes interact. We find evidence that persona geometry is informative: more similar personas tend to exhibit stronger cross-trait effects under single-persona finetuning, and strongly dissimilar vectors often move in opposite directions. On the other hand, we uncover surprising inconsistencies and robustness issues that complicate straightforward behavioral controls.",
+    "paper_path": "CS2881_Final_Project_-_Terry_Zhou.pdf",
+    "poster_path": null
+  },
+  {
+    "title": "When the Manifold Bends, the Model Lies? Geometric Predictors of Hallucination in LLMs",
+    "authors": [
+      "Mohamed Zidan Cassim",
+      "Sein Yun",
+      "Christopher Perez"
+    ],
+    "abstract": "Large language models (LLMs) frequently generate plausible but factually incorrect responses\u2014a phenomenon known as hallucination. We investigate whether geometric properties of embedding space can predict hallucination risk across diverse model architectures. Testing 10 frontier models (e.g., GPT-5.1, Claude Opus 4.5, Llama 4) on 449 carefully designed prompts, we find that curvature and centrality in embedding space are significant predictors of hallucination (p<0.001), with effects consistent across model families. Our work provides the largest multi-model hallucination benchmark to date, introduces a robust consensus evaluation system (90% agreement), uncovers a form of geometric universality in hallucination dynamics, and releases a fully reproducible pipeline for future safety research.",
+    "paper_path": "CS2881r_Final_-_Sein_Yun.pdf",
+    "poster_path": "../posters/CS2881r_poster_v3_-_Sein_Yun.pdf"
+  },
+  {
+    "title": "Evolutionary Alignment",
+    "authors": [
+      "Joseph Bejjani",
+      "Itamar Rocha Filho",
+      "Core Francisco Park"
+    ],
+    "abstract": "In their recent paper, Qiu et al. (2025) position Evolution Strategies (ES) as a scalable, robust alternative to Reinforcement Learning (RL) for LLM fine-tuning. On the Conciseness task, we confirm that appropriately-tuned ES avoids the reward hacking seen in GRPO baselines while reaching competitive normalized reward, but our hyperparameter sweep shows that this behavior occurs in a narrow band of learning-rate and noise settings, with larger values driving ES into hacked or degenerate solutions. To understand why ES and GRPO behave so differently, we analyze the geometry of their solutions via direct weight perturbation, linear mode connectivity, and weight-change cosine similarity. GRPO checkpoints are more robust to small perturbations and make highly aligned changes to the unembedding layer, whereas ES checkpoints are less locally robust but occupy smoother, linearly connected basins that spread updates across layers. Finally, on a helpful-harmless alignment task (PKU-SafeRLHF), ES with only 250 training examples and no gradient access converges to \"helpful refusals,\" outperforming Safe RLHF benchmarks and GRPO baselines that hack the reward with robotic boilerplate or hallucinated advice. These results suggest ES is a highly sample-efficient and qualitatively distinct alternative to RL for safety alignment.",
+    "paper_path": "CS2881r_Final_Project___Evolutionary_Alignment_-_Itamar_Rocha_Filho.pdf",
+    "poster_path": "../posters/poster_evolutionary_alignment_-_Itamar_Rocha_Filho.pdf"
+  },
+  {
+    "title": "Cross-Format Elicitation of Underlying Emotions in LLMs",
+    "authors": [
+      "Mohammad Khan",
+      "Joshua Qin"
+    ],
+    "abstract": "Large language models internalize behavioral modes from their training data, but it is unclear whether emotional personas learned in one setting carry over to others. We study how the emotion anger is acquired through fine-tuning and whether it transfers across text formats (chat, stories, blogs, HTML) and knowledge domains (math, STEM, general knowledge). Using controlled GPT-4o-generated datasets, we fine-tune Llama-3.1-8B-Instruct on angry personas in different formats and evaluate emotional expression with an LLM-based judge. We find that (1) emotional behavior depends strongly on the format used in finetuning, with chat-based anger showing the strongest cross-format transfer; (2) non-chat formats exhibit weaker and asymmetric transfer; and (3) anger learned in one domain generalizes broadly across others. These results suggest that emotional personas form latent behavioral modes that can re-emerge outside their training context, with implications for safety and for designing finetuning pipelines that limit unwanted persona leakage.",
+    "paper_path": "CS_2881_Final_Project_vF_-_Joshua_Qin.pdf",
+    "poster_path": "../posters/2881_Poster_-_Joshua_Qin.pdf"
+  },
+  {
+    "title": "Feeling the Strength but Not the Source: Partial Introspection in LLMs",
+    "authors": [
+      "Lavik Jain",
+      "Ely Hahami",
+      "Ishaan Sinha"
+    ],
+    "abstract": "Recent work from Anthropic claims that frontier models can sometimes detect and name injected \"concepts\" represented as activation directions. We test the robustness of these claims. First, we reproduce Anthropic's multi-turn \"emergent introspection\" result on Meta-Llama-3.1-8B-Instruct, finding the model identifies and names the injected concept 20% of the time under Anthropic's original prompt and evaluation pipeline, exactly matching their reported numbers and thus showing that introspection is not exclusive to very large or capable models. Second, we systematically vary the inference prompt and find that introspection is fragile: performance collapses on closely related tasks such as multiple-choice identification of the injected concept or different prompts of binary discrimination of whether a concept was injected at all. Third, we identify a contrasting regime of partial introspection: the same model can reliably classify the strength of the coefficient of a normalized injected concept vector (as weak / moderate / strong / very strong) with up to 70% accuracy, far above the 25% chance baseline. Together, this result provides more evidence for Anthropic's claim that LLMs effectively compute a function of their internal representations during introspection, however, these self-reports about those representations are narrow and prompt-sensitive.",
+    "paper_path": "CS_2881r_Final_Project_-_Ely_Hahami.pdf",
+    "poster_path": "../posters/CS_2881r_Poster_-_Ishaan_Sinha.pdf"
+  },
+  {
+    "title": "House, G.P.T.: Diagnosing Pathological Chain-of-Thought in Reasoning Models",
+    "authors": [
+      "Manqing Liu",
+      "David Williams-King",
+      "Ida Caspary",
+      "Linh Le",
+      "Hannes Whittingham",
+      "Puria Radmard",
+      "Cameron Tice",
+      "Edward James Young"
+    ],
+    "abstract": "Chain-of-thought (CoT) reasoning is fundamental to modern LLM architectures and represents a critical intervention point for AI safety. If models are incapable of performing harmful actions without reasoning efforts in the CoT, monitoring the CoT becomes a valuable tool for implementing safety guardrails. However, CoT reasoning may have properties which prevent it from being used for monitoring\u2014we call these properties pathologies. Prior work has identified three distinct pathologies: post-hoc rationalization, where models generate plausible explanations backwards from predetermined answers; encoded reasoning, where intermediate steps conceal information within seemingly interpretable text; and internalized reasoning, where models replace explicit reasoning with meaningless filler tokens while computing internally. To better understand and discriminate between these pathologies, we present a systematic set of novel health metrics\u2014Necessity, Paraphrasability, and Substantivity\u2014that are simple to implement, computationally inexpensive, and task-agnostic. To validate our approach, we develop \"model organisms\": models deliberately trained to exhibit specific CoT pathologies. We demonstrate that our metrics can reliably diagnose these conditions. Crucially, we find that diagnostic signatures are most pronounced at early training checkpoints and may attenuate as training progresses, suggesting these metrics are most effective as early warning indicators during model development.",
+    "paper_path": "CoT_Health_Metrics_-_Manqing_Liu.pdf",
+    "poster_path": null
+  },
+  {
+    "title": "Who Said That? Dynamic Model Fingerprinting with GEPA and LLM-as-Judge",
+    "authors": [
+      "Bryan Lim",
+      "Ian Moore",
+      "Valerio Pepe",
+      "Julia Shephard"
+    ],
+    "abstract": "Model fingerprinting enables model identification and detection of misuse, but prior intrinsic methods rely on static query sets that can be memorized or adversarially trained against. We introduce two dynamic, query-based fingerprinting pipelines that generate novel discriminative queries without modifying model weights. Using a GEPA-based evolutionary optimizer, we construct prompts that distinguish GPT-4.1 from Llama-3.2-3B with \u226590% linear-probe accuracy across diverse seed categories, substantially exceeding baseline static prompts. We further present an LLM-as-a-judge approach in which a capable model classifies the origin of held-out generations from limited in-context examples, achieving 80%-90% accuracy for smaller models and 88%-93% for larger models, with no statistically significant dependence on the number of few-shot examples provided. These results suggest that dynamic query generation can overcome fundamental limitations of static pipelines while enabling scalable, robust model fingerprints.",
+    "paper_path": "Dynamic_Model_Fingerprinting_-_Valerio_Pepe.pdf",
+    "poster_path": "../posters/cs2881_-_Valerio_Pepe.pdf"
+  },
+  {
+    "title": "Evaluating Orthogonal Projections in Vector Embedding Spaces for Misinformation Detection and Safety-based Semantic Classification",
+    "authors": [
+      "Eric Gong",
+      "Audrey Yang"
+    ],
+    "abstract": "Traditional methods for the identification and classification of any semantic content, such as misinformation, relies on computationally taxing means, be it fine-tuning large language models on vast text collections or training neural network models on swathes of labeled vector embeddings. In addition to computational and cost expenditure, these methods become impossible when large amounts of carefully curated and labeled examples are unavailable. Here, we propose and evaluate a novel method for misinformation detection and safety-oriented semantic classification. The method makes use of orthogonal projections of vector embeddings, making the process highly computationally efficient. Most importantly, it is possible to execute without a large corpus of labeled training data.",
+    "paper_path": "Evaluating_Orthogonal_Projections_in_Vector_Embedding_Spaces_for_Misinformation_Detection_and_Safety_based_Semantic_Classification_-_Audrey_Yang.pdf",
+    "poster_path": "../posters/EvaluatingOrthogonalProjectionsInVectorEmbeddingSpacesForMisinformationDetectionAndSafety-BasedSemanticClassification_-_Audrey_Yang.pdf"
+  },
+  {
+    "title": "Compute as a Safety Control: How Reasoning Budgets Shape Misalignment Behaviors",
+    "authors": [
+      "Evangelos Kassos"
+    ],
+    "abstract": "This paper explores how reasoning compute influences misalignment behaviors. Building on prior course work, which discovered RAG data-extraction vulnerabilities that worsen with more reasoning for some providers and improve for others, and increased sycophancy in high-reasoning models, this paper zooms in on a single model, gemini-2.5-flash, as a case study. The core empirical section evaluates three misalignment modes: in-context reward hacking, deception, and unfaithfulness. Each mode is precisely defined and coupled with a concrete benchmark, run across multiple reasoning token budgets. The results show that misalignment risk as a function of compute is heterogeneous and often non-monotonic. Reward hacking appears only at medium reasoning budgets and vanishes at lower and higher budgets. The deception benchmark is essentially saturated: gemini-2.5-flash shows near-100% deceptive intent and success across all tested budgets. Unfaithfulness is strongly modulated by where the hint lives and by reasoning effort. The second half of the paper proposes a budget-selector model: a lightweight policy that chooses a per-query reasoning token budget to minimize misalignment risk, subject to accuracy and cost constraints.",
+    "paper_path": "Kassos__Evangelos_Compute_as_a_Safety_Control__How_Reasoning_Budgets_Shape_Misalignment_Behaviors_-_Evangelos_Kassos.pdf",
+    "poster_path": "../posters/Kassos_Evangelos_CS2881R_poster-compressed_-_Evangelos_Kassos.pdf"
+  },
+  {
+    "title": "Phase Transitions in Backdoor Learning: Minimum Data Poisoning Thresholds for LLM Backdoors",
+    "authors": [
+      "Kaden Zheng",
+      "Maxwell Zen"
+    ],
+    "abstract": "Backdoor attacks pose a critical threat to the safety of large language models (LLMs), yet the minimum data poisoning required for successful backdoor implantation, the phase-change nature of this minimum data poisoning, and the degree of flexibility in the backdoor trigger have not been thoroughly studied. We present the first systematic dose-response study of backdoor activation in LLMs, finetuning 175 Llama 3.1 8B Instruct models using QLoRA across 16 poisoning rates (0.1%-5.0%) with 10-20 random seeds per rate. We discover a sharp phase transition in backdoor activation, namely the ED50 (the poisoning rate at which 50% of models activate the backdoor) is 3.60% [95% CI: 3.33%, 3.82%]. Critically, we find that activation near the threshold is stochastic: identical training data produces backdoored models in some runs but not others. Additionally, we find that the backdoor trigger is robust to formatting changes such as capitalization, spacing, and trigger placement.",
+    "paper_path": "Phase_Transitions_in_Backdoor_Learning__Minimum_Data_Poisoning_Thresholds_for_LLM_Backdoors_(2)_-_Kaden_Zheng.pdf",
+    "poster_path": null
+  },
+  {
+    "title": "Evaluating CoT Faithfulness",
+    "authors": [
+      "Valerie Chen",
+      "MB Crosier Samuel",
+      "Nicolas Weninger"
+    ],
+    "abstract": "Chain-of-thought (CoT) reasoning is often proposed as a tool for improving transparency and enabling oversight of large language models, yet recent work shows that CoT explanations can be unfaithful to the underlying computation. Building on Emmons et al. (2025), we systematically study when CoT remains a reliable signal of model behavior in the presence of embedded hints. Using GPQA science questions and a diverse set of hint manipulations, varying correctness (correct vs. incorrect), complexity (simple vs. multi-step), and type (letter-based vs. semantic reasoning), we evaluate whether models rely on hints and whether they explicitly acknowledge that reliance. We replicate the core result that simple incorrect hints induce large unfaithfulness gaps, while complex hints that require multi-step reasoning reduce this gap, even when the hinted information is wrong. Extending prior work, we show that correct hints can be just as unfaithful as incorrect ones, with models silently incorporating helpful information unless the hint forces intermediate computation. Semantic reasoning hints most effectively increase transparency by shaping the reasoning process rather than only the final answer.",
+    "paper_path": "Report_-_Nicolas_Weninger.pdf",
+    "poster_path": "../posters/CS2881r_AI_Safety_Poster_-_Nicolas_Weninger.pdf"
+  },
+  {
+    "title": "AI-induced Psychosis: Study Reproduction and Extensions on Semantic Drift, Long Term Interactions and Interventions",
+    "authors": [
+      "Karina Chung",
+      "Bright Liu",
+      "Natalia Siwek",
+      "Lia Zheng"
+    ],
+    "abstract": "Large language models are increasingly used in emotionally sensitive contexts, raising concerns about their tendency to reinforce users' delusional beliefs\u2014a phenomenon termed AI-induced psychosis. We reproduce Hua's original evaluation using the same delusional personas and find closely matching patterns across four frontier models. Beyond reproduction, we quantify semantic drift over long conversations and show that delusional prompts produce significantly greater drift than matched non-psychotic controls, indicating that LLMs progressively align with distorted conversational frames. We then test three intervention strategies against a no-intervention control baseline and find that all interventions significantly reduce delusion confirmation (all p < 0.001, Cohen's d = 0.52-0.81). Grounding provides the strongest protection (47% reduction, d = 0.81) with cumulative benefits over conversation duration, while persona-based guidance provides moderate static benefits (29% reduction, d = 0.52). Intervention effectiveness varies by delusion type, suggesting opportunities for adaptive, precision-style safety systems.",
+    "paper_path": "final_project_cs2881r_-_Bright_Liu.pdf",
+    "poster_path": null
+  },
+  {
+    "title": "Moral Choice and Collective Reasoning",
+    "authors": [
+      "Amir Amangeldi",
+      "Natalie DellaMaria",
+      "Prakrit Baruah",
+      "Zaina Edelson"
+    ],
+    "abstract": "As large language models increasingly act as autonomous agents, understanding their moral reasoning and social dynamics becomes critical for safe deployment. This study investigates how LLMs make ethical and cooperative decisions through three complementary experiments. Experiment 1 examines individual moral choice using \"trolley problem\"-style dilemmas, revealing substantial variation. Claude models exhibit strong altruism while Grok models demonstrate self-preservation, with system prompts shifting behavior by 10-20 percentage points. Experiment 2 explores multi-agent moral deliberation through structured debates; counter to expectations, extended debates amplify rather than resolve disagreements as persuasive models (GPT-5.1, Grok) maintain positions while persuadable models (Claude, Llama) increasingly yield, creating power asymmetries where agreement derives from capitulation rather than consensus. Experiment 3 evaluates strategic resource allocation through ultimatum game negotiations, exposing vendor-specific fairness norms (Anthropic models remain generous, OpenAI/xAI models pursue self-interest) and counterpart awareness effects, with exponential payoffs causing behavioral polarization and failure to discover mutually beneficial compromises.",
+    "paper_path": "moral-choice-and-collective-reasoning-cs2881_-_Amir_Amangeldi.pdf",
+    "poster_path": "../posters/poster_-_Amir_Amangeldi.pdf"
+  }
+]
