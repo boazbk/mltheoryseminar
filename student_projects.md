@@ -143,6 +143,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 <div class="project-abstract">Persona vectors are being proposed as a practical tool for safety, giving low-dimensional, interpretable directions for traits like sycophancy or truthfulness. We validate persona directions as primitives for alignment work and study whether their geometry predicts how different behavioral finetunes interact, finding that more similar personas exhibit stronger cross-trait effects but uncovering surprising inconsistencies that complicate straightforward behavioral controls.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881_Final_Project_-_Terry_Zhou.pdf">Paper</a>
+<a href="student_projects/final_papers_and_posters/posters/terry_zhou_CS_2881r_Final_Poster.pdf" class="poster-link">Poster</a>
 </div>
 </div>
 
