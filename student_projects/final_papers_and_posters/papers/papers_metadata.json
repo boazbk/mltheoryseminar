@@ -11,19 +11,7 @@
     "paper_path": "2881_Final_Project-2_-_Wirattawut_Boonbandansook.pdf",
     "poster_path": "../posters/cs2881-poster_(1)_-_Jay_Chooi.pdf"
   },
-  {
-    "title": "Mitigating Preference Conflict in Controlled Decoding: A Principal-Agent Perspective",
-    "authors": [
-      "Haichuan Wang",
-      "Henry Huang",
-      "Emira Ibrahimovic",
-      "Wilson Cheung"
-    ],
-    "abstract": "Misalignment at test time is fundamentally an incentive problem: the model's intrinsic preferences over outputs need not coincide with the user's true utility function. Existing test-time alignment methods overlook this incentive structure and presume that users will truthfully report their reward function. However, truthful revelation generally fails to maximize user utility, theoretically yielding suboptimal alignment, and we show that strategic manipulation is both feasible and practically implementable, making it a realistic concern. Moreover, naively maximizing user utility is computationally intractable, and imperfect attempts to approximate it can induce severe reward hacking, leading to undesirable behaviors and safety risks. In this work, we introduce a test-time alignment framework grounded in principal-agent theory from algorithmic contract design and controlled decoding. We model the entity who provides the reward function as the principal and treat the language model as the agent, and we characterize the optimal reward function that maximizes the principal's utility while remaining robust to reward hacking. Our method satisfies several desired theoretical properties\u2014including incentive compatibility and bounded KL deviation from the baseline policy\u2014and we empirically demonstrate its advantages over existing test-time alignment approaches. Our formulation may also be of independent interest, as it extends classical principal-agent models to settings in which the agent operates under a KL-based entropy constraint.",
-    "paper_path": "AI_Safety_Final_Project_-_Emira_Ibrahimovic.pdf",
-    "poster_path": "../posters/CS_2881r_AI_Safety_Final_Poster_-_Emira_Ibrahimovic.pdf"
-  },
-  {
+    {
     "title": "Predicting Finetuning Personality Shifts with Linear Directions",
     "authors": [
       "Armaan Tipirneni"

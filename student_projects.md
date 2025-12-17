@@ -78,16 +78,6 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 </div>
 
 <div class="project-card">
-<div class="project-title">Mitigating Preference Conflict in Controlled Decoding: A Principal-Agent Perspective</div>
-<div class="project-authors">Haichuan Wang, Henry Huang, Emira Ibrahimovic, Wilson Cheung</div>
-<div class="project-abstract">Misalignment at test time is fundamentally an incentive problem: the model's intrinsic preferences over outputs need not coincide with the user's true utility function. We introduce a test-time alignment framework grounded in principal-agent theory from algorithmic contract design and controlled decoding. We characterize the optimal reward function that maximizes the principal's utility while remaining robust to reward hacking, satisfying incentive compatibility and bounded KL deviation from the baseline policy.</div>
-<div class="project-links">
-<a href="student_projects/final_papers_and_posters/papers/AI_Safety_Final_Project_-_Emira_Ibrahimovic.pdf">Paper</a>
-<a href="student_projects/final_papers_and_posters/posters/CS_2881r_AI_Safety_Final_Poster_-_Emira_Ibrahimovic.pdf" class="poster-link">Poster</a>
-</div>
-</div>
-
-<div class="project-card">
 <div class="project-title">Predicting Finetuning Personality Shifts with Linear Directions</div>
 <div class="project-authors">Armaan Tipirneni</div>
 <div class="project-abstract">Recent work has shown that finetuning can induce unexpected shifts in LLM personality, with negative changes often explained through movement along "misaligned" linear directions in activation space. This paper explores whether there is a broader linear "personality basis" which includes all personas that can be induced by finetuning, and whether we can create an early monitoring system to predict personality changes before finetuning occurs.</div>
