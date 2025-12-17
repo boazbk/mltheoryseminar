@@ -8,7 +8,7 @@ __Time and Place:__ Thursdays 3:45pm-6:30pm Eastern Time, SEC LL2.229   (SEC is 
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
-__Teaching Fellows:__ [Natalie Abreu](https://natalieabreu.github.io/website/) (natalieabreu@g.harvard.edu), [Roy Rinberg](https://royrinberg.com) (royrinberg@g.harvard.edu), [Hanlin Zhang](https://hanlin-zhang.com) (hanlinzhang@g.harvard.edu), Sunny Qin (Harvard)
+__Teaching Fellows:__ [Roy Rinberg](https://royrinberg.com) (royrinberg@g.harvard.edu), [Natalie Abreu](https://natalieabreu.github.io/website/) (natalieabreu@g.harvard.edu), [Hanlin Zhang](https://hanlin-zhang.com) (hanlinzhang@g.harvard.edu), [Sunny Qin](https://sunnytqin.github.io/) (Harvard)
 
 
 
