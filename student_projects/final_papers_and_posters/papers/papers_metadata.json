@@ -206,7 +206,7 @@
     ],
     "abstract": "Large language models are increasingly used in emotionally sensitive contexts, raising concerns about their tendency to reinforce users' delusional beliefs\u2014a phenomenon termed AI-induced psychosis. We reproduce Hua's original evaluation using the same delusional personas and find closely matching patterns across four frontier models. Beyond reproduction, we quantify semantic drift over long conversations and show that delusional prompts produce significantly greater drift than matched non-psychotic controls, indicating that LLMs progressively align with distorted conversational frames. We then test three intervention strategies against a no-intervention control baseline and find that all interventions significantly reduce delusion confirmation (all p < 0.001, Cohen's d = 0.52-0.81). Grounding provides the strongest protection (47% reduction, d = 0.81) with cumulative benefits over conversation duration, while persona-based guidance provides moderate static benefits (29% reduction, d = 0.52). Intervention effectiveness varies by delusion type, suggesting opportunities for adaptive, precision-style safety systems.",
     "paper_path": "final_project_cs2881r_-_Bright_Liu.pdf",
-    "poster_path": null
+    "poster_path": "../posters/CS2881R_Poster-karina-chung.pdf"
   },
   {
     "title": "Moral Choice and Collective Reasoning",

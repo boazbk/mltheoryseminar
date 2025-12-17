@@ -251,6 +251,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 <div class="project-abstract">LLMs are increasingly used in emotionally sensitive contexts, raising concerns about reinforcing users' delusional beliefs—termed AI-induced psychosis. We reproduce Hua's evaluation across four frontier models and quantify semantic drift over long conversations. Testing three intervention strategies, we find all significantly reduce delusion confirmation, with grounding providing the strongest protection (47% reduction, d=0.81).</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/final_project_cs2881r_-_Bright_Liu.pdf">Paper</a>
+<a href="student_projects/final_papers_and_posters/posters/CS2881R_Poster-karina-chung.pdf" class="poster-link">Poster</a>
 </div>
 </div>
 
