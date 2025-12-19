@@ -63,15 +63,15 @@
     "poster_path": "../posters/Poster_CS2881_(1)_-_Annesya_Banerjee.pdf"
   },
   {
-    "title": "Are Personas All You Need? Linearity, Interference, and Multi-Persona Dynamics with Persona Vectors",
+    "title": "Are Personas All You Need? Stress-Testing Persona Vectors as Alignment Tools",
     "authors": [
       "Hugh Van Deventer",
       "Anastasia Ahani",
       "Terry Zhou"
     ],
     "abstract": "Persona vectors are being proposed as a practical tool for safety. They aim to give us low-dimensional, interpretable directions for traits like sycophancy or truthfulness, and cheap scalar metrics (projections, finetuning shift, projection difference) that could be used to monitor and shape models during training. Our theory of change is to (i) validate persona directions as genuinely useful primitives for alignment work or identify their limitations so that future safety work does not over-rely on them, and (ii) understand whether their geometry predicts how different behavioral finetunes interact. We find evidence that persona geometry is informative: more similar personas tend to exhibit stronger cross-trait effects under single-persona finetuning, and strongly dissimilar vectors often move in opposite directions. On the other hand, we uncover surprising inconsistencies and robustness issues that complicate straightforward behavioral controls.",
-    "paper_path": "CS2881_Final_Project_-_Terry_Zhou.pdf",
-    "poster_path": "../posters/terry_zhou_CS_2881r_Final_Poster.pdf"
+    "paper_path": "hugh_van_deventer_CS2881_Final_Project.pdf",
+    "poster_path": "../posters/hugh_van_deventer_CS_2881r_Final_Poster.pdf"
   },
   {
     "title": "When the Manifold Bends, the Model Lies? Geometric Predictors of Hallucination in LLMs",
