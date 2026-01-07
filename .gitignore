@@ -1,3 +1,9 @@
+**/orals
 .DS_Store
 **/.DS_Store
-.claude/
+Gemfile
+Gemfile.lock
+_site
+student_projects/checkin_responses.csv
+student_projects/final_papers_and_posters/papers/first_pages/
+
