@@ -25,7 +25,10 @@
       "Bash(curl -s \"https://www.lesswrong.com/w/cs-2881r\")",
       "WebFetch(domain:evaluations.metr.org)",
       "WebFetch(domain:www-cdn.anthropic.com)",
-      "WebFetch(domain:assets.anthropic.com)"
+      "WebFetch(domain:assets.anthropic.com)",
+      "WebFetch(domain:www.kellogg.northwestern.edu)",
+      "WebFetch(domain:digitaleconomy.stanford.edu)",
+      "WebSearch"
     ],
     "deny": []
   }
