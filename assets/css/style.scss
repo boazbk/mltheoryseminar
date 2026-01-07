@@ -43,6 +43,17 @@ footer {
   background-color: #fff;
 }
 
+/* Make links clearly recognizable */
+a,
+a:visited {
+  color: #0066cc;
+}
+
+a:hover,
+a:focus {
+  color: #0052a3;
+}
+
 /* Remove the duplicate title from content */
 section > h1:first-child {
   display: none;

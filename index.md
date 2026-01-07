@@ -2,7 +2,7 @@ __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)
 
 __Course:__ CS 2881R - AI Safety
 
-[__YouTube Lecture Playlist__](https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp) | [__Course Lecture Notes and Experiments__](https://www.lesswrong.com/w/cs-2881r)
+[__YouTube Lecture Playlist__](https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp) | [__Course Lecture Notes and Experiments__](https://www.lesswrong.com/w/cs-2881r) | [__Student Projects__](student_projects.md)
 
 __Time and Place:__ Thursdays 3:45pm-6:30pm Eastern Time, SEC LL2.229   (SEC is in 150 Western Ave, Allston, MA)
 
