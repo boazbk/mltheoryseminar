@@ -32,6 +32,8 @@ __Related reading by Boaz:__
 
 * [Thoughts by a Non-Economist on AI and Economics](https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics/)
 
+[__Course evaluations__](assets/q_report.pdf)
+
 __Previous versions:__ [Spring 2023 ML Theory Seminar](spring2023.md) | [Spring 2021 ML Theory Seminar](https://boazbk.github.io/mltheoryseminar/cs229br)
 
 # Mini Syllabus
@@ -607,6 +609,7 @@ Classes begin September 2, 2025. Reading period December 4-9, 2025.
   <div class="lecture-content">
     <ul>
       <li><b>Guest Lecturers:</b> Tejal Patwardhan (OpenAI), Kevin Liu (OpenAI)</li>
+      <li><a href="https://youtu.be/BNSHJLLpsGM">Lecture video</a></li>
       <li>Discussion of future directions in AI safety research</li>
     </ul>
     <div class="resources-section">

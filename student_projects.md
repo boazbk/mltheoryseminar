@@ -7,6 +7,8 @@ title: Student Projects - CS 2881R AI Safety
 
 This page showcases the final research projects from CS 2881R: AI Safety. Students conducted original research on topics spanning interpretability, alignment, adversarial robustness, and AI governance.
 
+<p><a href="https://youtu.be/Xr9FNl0S66Q">Video of oral presentations</a></p>
+
 <style>
 .project-card {
   background-color: #f8f9fa;
@@ -69,7 +71,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Mechanisms of Subliminal Learning</div>
-<div class="project-authors">Wirattawut Boonbandansook, Jay Chooi, Tzeh Yuan Neoh, Atticus Wang</div>
+<div class="project-authors">Wirattawut Boonbandansook, <a href="https://chojeq.com/">Jay Chooi</a>, <a href="https://tzehyuan.github.io/">Tzeh Yuan Neoh</a>, <a href="https://awzf.me/">Atticus Wang</a></div>
 <div class="project-abstract">Subliminal learning is a recently discovered failure mode of distillation and post-training where a student model inherits a teacher's hidden traits (e.g., "liking owls") from data that appears semantically unrelated (e.g., number lists). We study the mechanisms of subliminal learning in both finetuning-based and prompting-only settings, showing that subliminal number prompts are highly sensitive to the surface form of entangled numbers. Using LoRA-based reproductions, we localize the effect to early MLP layers and find that subliminal learning is a fragile, representation-dependent phenomenon not straightforwardly mitigated by current activation-steering tools.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/2881_Final_Project-2_-_Wirattawut_Boonbandansook.pdf">Paper</a>
@@ -99,7 +101,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Sure, I Can Draft a Complaint! LLM Hallucination in Pro Se Litigation</div>
-<div class="project-authors">Benjamin Murphy</div>
+<div class="project-authors"><a href="https://benjaminmurphy.me/">Benjamin Murphy</a></div>
 <div class="project-abstract">Large language models are used widely across legal practice, including by pro se litigants who lack legal training to vet LLM output for accuracy. We evaluate five LLMs for accuracy when drafting civil complaints, finding that while models generally state facts sufficient to establish a claim, they often rely on hallucinated case law (5% to over 30%) and cite cases for unsupported propositions in a majority of instances, indicating unique risks for pro se litigants.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881_Final_-_Ben_Murphy.pdf">Paper</a>
@@ -109,7 +111,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Improving GCG: Soft-GCG and Activation-Based Objectives for Adversarial Suffix Optimization</div>
-<div class="project-authors">Kayden Kehe, Ege Cakar, Hannah Guan</div>
+<div class="project-authors"><a href="https://weber.seas.harvard.edu/directory/kayden-kehe/">Kayden Kehe</a>, <a href="https://egecakar.com/">Ege Cakar</a>, <a href="https://hannahguan.com/">Hannah Guan</a></div>
 <div class="project-abstract">The Greedy Coordinate Gradient (GCG) attack demonstrates that aligned language models remain vulnerable to adversarial suffixes. We propose Activation-Guided GCG, which targets refusal directions in the model's residual stream, and Soft-GCG, a continuous relaxation achieving 43x speedup while maintaining attack success rate. Evaluating on the Gemma 3 model family, we find smaller models (1B-4B) remain vulnerable while larger models (12B+) resist the attack.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881_Final_-_Hannah_Guan.pdf">Paper</a>
@@ -119,7 +121,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Large Language Model Fingerprints From Normal Interaction</div>
-<div class="project-authors">Annesya Banerjee, Itay Lavie</div>
+<div class="project-authors"><a href="https://www.linkedin.com/in/annesya-banerjee-313365167">Annesya Banerjee</a>, <a href="https://seas.harvard.edu/person/itay-lavie">Itay Lavie</a></div>
 <div class="project-abstract">We present a supervised learning approach for fingerprinting large language models based on semantic embeddings of generated text. Using responses from seven major LLMs to 4,410 prompts, our classifier achieves 89% accuracy in identifying source models, demonstrating robust generalization across unseen model versions and establishing behavioral fingerprinting as a practical technique for LLM provenance tracking and accountability.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881_Final_Project_-_Annesya_Banerjee.pdf">Paper</a>
@@ -129,7 +131,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Are Personas All You Need? Stress-Testing Persona Vectors as Alignment Tools</div>
-<div class="project-authors">Hugh Van Deventer, Anastasia Ahani, Terry Zhou</div>
+<div class="project-authors"><a href="https://hughvd.github.io/">Hugh Van Deventer</a>, <a href="https://seas.harvard.edu/person/anastasia-ahani">Anastasia Ahani</a>, <a href="https://seas.harvard.edu/person/terry-zhou">Terry Zhou</a></div>
 <div class="project-abstract">Persona vectors are being proposed as a practical tool for safety, giving low-dimensional, interpretable directions for traits like sycophancy or truthfulness. We validate persona directions as primitives for alignment work and study whether their geometry predicts how different behavioral finetunes interact, finding that more similar personas exhibit stronger cross-trait effects but uncovering surprising inconsistencies that complicate straightforward behavioral controls.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/hugh_van_deventer_CS2881_Final_Project.pdf">Paper</a>
@@ -139,7 +141,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">When the Manifold Bends, the Model Lies? Geometric Predictors of Hallucination in LLMs</div>
-<div class="project-authors">Mohamed Zidan Cassim, Sein Yun, Christopher Perez</div>
+<div class="project-authors"><a href="https://soco.college.harvard.edu/257541/south-african-society/">Mohamed Zidan Cassim</a>, <a href="https://socialgood.hcs.harvard.edu/about">Sein Yun</a>, Christopher Perez</div>
 <div class="project-abstract">We investigate whether geometric properties of embedding space can predict hallucination risk across diverse model architectures. Testing 10 frontier models on 449 prompts, we find that curvature and centrality in embedding space are significant predictors of hallucination (p&lt;0.001), with effects consistent across model families, uncovering a form of geometric universality in hallucination dynamics.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881r_Final_-_Sein_Yun.pdf">Paper</a>
@@ -149,7 +151,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Evolutionary Alignment</div>
-<div class="project-authors">Joseph Bejjani, Itamar Rocha Filho, Core Francisco Park</div>
+<div class="project-authors">Joseph Bejjani, <a href="https://itamarrocha.github.io/">Itamar Rocha Filho</a>, <a href="https://www.corefranciscopark.com/">Core Francisco Park</a></div>
 <div class="project-abstract">We study Evolution Strategies (ES) as an alternative to Reinforcement Learning for LLM fine-tuning. On the Conciseness task, appropriately-tuned ES avoids reward hacking seen in GRPO baselines, but this occurs in a narrow hyperparameter band. On PKU-SafeRLHF, ES with only 250 training examples converges to "helpful refusals," outperforming Safe RLHF benchmarks, suggesting ES is a highly sample-efficient alternative for safety alignment.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881r_Final_Project___Evolutionary_Alignment_-_Itamar_Rocha_Filho.pdf">Paper</a>
@@ -159,7 +161,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Cross-Format Elicitation of Underlying Emotions in LLMs</div>
-<div class="project-authors">Mohammad Khan, Joshua Qin</div>
+<div class="project-authors">Mohammad Khan, <a href="https://soco.college.harvard.edu/84502/leadership-team/">Joshua Qin</a></div>
 <div class="project-abstract">We study how emotional personas are acquired through fine-tuning and whether they transfer across text formats (chat, stories, blogs, HTML) and knowledge domains. We find that emotional behavior depends strongly on the format used in finetuning, with chat-based anger showing the strongest cross-format transfer, suggesting emotional personas form latent behavioral modes that can re-emerge outside their training context.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS_2881_Final_Project_vF_-_Joshua_Qin.pdf">Paper</a>
@@ -169,7 +171,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Feeling the Strength but Not the Source: Partial Introspection in LLMs</div>
-<div class="project-authors">Lavik Jain, Ely Hahami, Ishaan Sinha</div>
+<div class="project-authors">Lavik Jain, <a href="https://github.com/elyhahami18">Ely Hahami</a>, <a href="https://imsinha0.github.io/">Ishaan Sinha</a></div>
 <div class="project-abstract">We test claims that frontier models can detect and name injected "concepts" represented as activation directions. We reproduce Anthropic's "emergent introspection" result on Llama-3.1-8B-Instruct (20% accuracy), but find introspection is fragile across prompts. However, models can reliably classify the strength of injected concept vectors with up to 70% accuracy, providing evidence for partial introspection that is narrow and prompt-sensitive.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS_2881r_Final_Project_-_Ely_Hahami.pdf">Paper</a>
@@ -179,7 +181,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">House, G.P.T.: Diagnosing Pathological Chain-of-Thought in Reasoning Models</div>
-<div class="project-authors">Manqing Liu, David Williams-King, Ida Caspary, Linh Le, Hannes Whittingham, Puria Radmard, Cameron Tice, Edward James Young</div>
+<div class="project-authors"><a href="https://manqingliu.github.io/">Manqing Liu</a>, David Williams-King, Ida Caspary, Linh Le, Hannes Whittingham, Puria Radmard, Cameron Tice, Edward James Young</div>
 <div class="project-abstract">CoT reasoning may have pathologies preventing its use for monitoring: post-hoc rationalization, encoded reasoning, and internalized reasoning. We present novel health metrics—Necessity, Paraphrasability, and Substantivity—and validate them using "model organisms" trained to exhibit specific pathologies. Diagnostic signatures are most pronounced at early training checkpoints, suggesting these metrics are most effective as early warning indicators.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CoT_Health_Metrics_-_Manqing_Liu.pdf">Paper</a>
@@ -188,7 +190,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Who Said That? Dynamic Model Fingerprinting with GEPA and LLM-as-Judge</div>
-<div class="project-authors">Bryan Lim, Ian Moore, Valerio Pepe, Julia Shephard</div>
+<div class="project-authors">Bryan Lim, Ian Moore, <a href="https://vpepe.github.io/">Valerio Pepe</a>, Julia Shephard</div>
 <div class="project-abstract">Prior intrinsic fingerprinting methods rely on static query sets that can be memorized or adversarially trained against. We introduce dynamic, query-based fingerprinting pipelines using a GEPA-based evolutionary optimizer, achieving ≥90% accuracy distinguishing GPT-4.1 from Llama-3.2-3B, and an LLM-as-a-judge approach achieving 80%-93% accuracy. Dynamic query generation can overcome fundamental limitations of static pipelines.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/Dynamic_Model_Fingerprinting_-_Valerio_Pepe.pdf">Paper</a>
@@ -198,7 +200,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Evaluating Orthogonal Projections in Vector Embedding Spaces for Misinformation Detection</div>
-<div class="project-authors">Eric Gong, Audrey Yang</div>
+<div class="project-authors">Eric Gong, <a href="https://datascience.harvard.edu/2025/07/17/meet-the-2025-spuds-fellows/">Audrey Yang</a></div>
 <div class="project-abstract">Traditional misinformation detection relies on computationally taxing fine-tuning or large labeled datasets. We propose and evaluate a novel method using orthogonal projections of vector embeddings for safety-oriented semantic classification that is highly computationally efficient and can execute without a large corpus of labeled training data.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/Evaluating_Orthogonal_Projections_in_Vector_Embedding_Spaces_for_Misinformation_Detection_and_Safety_based_Semantic_Classification_-_Audrey_Yang.pdf">Paper</a>
@@ -208,7 +210,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Compute as a Safety Control: How Reasoning Budgets Shape Misalignment Behaviors</div>
-<div class="project-authors">Evangelos Kassos</div>
+<div class="project-authors"><a href="https://evangeloskassos.com/">Evangelos Kassos</a></div>
 <div class="project-abstract">We explore how reasoning compute influences misalignment behaviors, evaluating three modes—reward hacking, deception, and unfaithfulness—across multiple reasoning token budgets on gemini-2.5-flash. Misalignment risk as a function of compute is heterogeneous and often non-monotonic. We propose a budget-selector model that chooses per-query reasoning budgets to minimize misalignment risk, treating compute itself as a safety control surface.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/Kassos__Evangelos_Compute_as_a_Safety_Control__How_Reasoning_Budgets_Shape_Misalignment_Behaviors_-_Evangelos_Kassos.pdf">Paper</a>
@@ -218,7 +220,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Phase Transitions in Backdoor Learning: Minimum Data Poisoning Thresholds for LLM Backdoors</div>
-<div class="project-authors">Kaden Zheng, Maxwell Zen</div>
+<div class="project-authors"><a href="https://aizenberglab.seas.harvard.edu/people/kaden-zheng">Kaden Zheng</a>, <a href="https://seas.harvard.edu/news/2025/10/tournament-treasure">Maxwell Zen</a></div>
 <div class="project-abstract">We present the first systematic dose-response study of backdoor activation in LLMs, finetuning 175 Llama 3.1 8B Instruct models across 16 poisoning rates. We discover a sharp phase transition: ED50 (50% activation) is 3.60% [95% CI: 3.33%, 3.82%]. Activation near the threshold is stochastic—identical training data produces backdoored models in some runs but not others.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/Phase_Transitions_in_Backdoor_Learning__Minimum_Data_Poisoning_Thresholds_for_LLM_Backdoors_(2)_-_Kaden_Zheng.pdf">Paper</a>
@@ -227,7 +229,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Evaluating CoT Faithfulness</div>
-<div class="project-authors">Valerie Chen, MB Crosier Samuel, Nicolas Weninger</div>
+<div class="project-authors">Valerie Chen, MB Crosier Samuel, <a href="https://seas.harvard.edu/person/nicolas-weninger">Nicolas Weninger</a></div>
 <div class="project-abstract">We systematically study when CoT remains a reliable signal of model behavior in the presence of embedded hints. Simple incorrect hints induce large unfaithfulness gaps, while complex hints requiring multi-step reasoning reduce this gap. Correct hints can be just as unfaithful as incorrect ones. Semantic reasoning hints most effectively increase transparency by shaping the reasoning process rather than only the final answer.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/Report_-_Nicolas_Weninger.pdf">Paper</a>
@@ -237,7 +239,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">AI-induced Psychosis: Study Reproduction and Extensions on Semantic Drift</div>
-<div class="project-authors">Karina Chung, Bright Liu, Natalia Siwek, Lia Zheng</div>
+<div class="project-authors"><a href="https://seas.harvard.edu/news/2025/07/driving-data-fire-management">Karina Chung</a>, <a href="https://csadvising.seas.harvard.edu/pca/">Bright Liu</a>, <a href="https://csadvising.seas.harvard.edu/pca/">Natalia Siwek</a>, <a href="https://embeddedethics.seas.harvard.edu/team-cda/">Lia Zheng</a></div>
 <div class="project-abstract">LLMs are increasingly used in emotionally sensitive contexts, raising concerns about reinforcing users' delusional beliefs—termed AI-induced psychosis. We reproduce Hua's evaluation across four frontier models and quantify semantic drift over long conversations. Testing three intervention strategies, we find all significantly reduce delusion confirmation, with grounding providing the strongest protection (47% reduction, d=0.81).</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/final_project_cs2881r_-_Bright_Liu.pdf">Paper</a>
@@ -247,7 +249,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Moral Choice and Collective Reasoning</div>
-<div class="project-authors">Amir Amangeldi, Natalie DellaMaria, Prakrit Baruah, Zaina Edelson</div>
+<div class="project-authors"><a href="https://amangeldi.info/">Amir Amangeldi</a>, Natalie DellaMaria, Prakrit Baruah, <a href="https://www.zainaedelson.com/">Zaina Edelson</a></div>
 <div class="project-abstract">We investigate how LLMs make ethical and cooperative decisions through three experiments: trolley-problem dilemmas (Claude exhibits altruism, Grok self-preservation), multi-agent moral deliberation (debates amplify rather than resolve disagreements), and ultimatum game negotiations (vendor-specific fairness norms emerge). Current LLMs carry implicit value systems with persistent power asymmetries and brittleness under complex incentives.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/moral-choice-and-collective-reasoning-cs2881_-_Amir_Amangeldi.pdf">Paper</a>
