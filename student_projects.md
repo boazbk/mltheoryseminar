@@ -151,7 +151,7 @@ This page showcases the final research projects from CS 2881R: AI Safety. Studen
 
 <div class="project-card">
 <div class="project-title">Evolutionary Alignment</div>
-<div class="project-authors">Joseph Bejjani, <a href="https://itamarrocha.github.io/">Itamar Rocha Filho</a>, <a href="https://www.corefranciscopark.com/">Core Francisco Park</a></div>
+<div class="project-authors"><a href="https://josephbejjani.com/">Joseph Bejjani</a>, <a href="https://itamarrocha.github.io/">Itamar Rocha Filho</a>, <a href="https://www.corefranciscopark.com/">Core Francisco Park</a></div>
 <div class="project-abstract">We study Evolution Strategies (ES) as an alternative to Reinforcement Learning for LLM fine-tuning. On the Conciseness task, appropriately-tuned ES avoids reward hacking seen in GRPO baselines, but this occurs in a narrow hyperparameter band. On PKU-SafeRLHF, ES with only 250 training examples converges to "helpful refusals," outperforming Safe RLHF benchmarks, suggesting ES is a highly sample-efficient alternative for safety alignment.</div>
 <div class="project-links">
 <a href="student_projects/final_papers_and_posters/papers/CS2881r_Final_Project___Evolutionary_Alignment_-_Itamar_Rocha_Filho.pdf">Paper</a>

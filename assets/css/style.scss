@@ -44,14 +44,15 @@ footer {
 }
 
 /* Make links clearly recognizable */
+/* Force link color across theme defaults */
 a,
 a:visited {
-  color: #0066cc;
+  color: #0066cc !important;
 }
 
 a:hover,
 a:focus {
-  color: #0052a3;
+  color: #0052a3 !important;
 }
 
 /* Remove the duplicate title from content */
