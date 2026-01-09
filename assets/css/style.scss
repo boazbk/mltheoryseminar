@@ -55,6 +55,11 @@ a:focus {
   color: #0052a3 !important;
 }
 
+/* Ensure bold/inline elements inside links don't override link color */
+a * {
+  color: inherit !important;
+}
+
 /* Remove the duplicate title from content */
 section > h1:first-child {
   display: none;
