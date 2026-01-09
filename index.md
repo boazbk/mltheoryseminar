@@ -2,7 +2,7 @@ __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)
 
 __Course:__ CS 2881R - AI Safety
 
-[__YouTube Lecture Playlist__](https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp) | [__Course Lecture Notes and Experiments__](https://www.lesswrong.com/w/cs-2881r) | [__Student Projects__](student_projects.md)
+<a href="https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp" style="color:#0066cc;">YouTube Lecture Playlist</a> | <a href="https://www.lesswrong.com/w/cs-2881r" style="color:#0066cc;">Course Lecture Notes and Experiments</a> | <a href="student_projects.md" style="color:#0066cc;">Student Projects</a>
 
 __Time and Place:__ Thursdays 3:45pm-6:30pm Eastern Time, SEC LL2.229   (SEC is in 150 Western Ave, Allston, MA)
 
@@ -32,7 +32,7 @@ __Related reading by Boaz:__
 
 * [Thoughts by a Non-Economist on AI and Economics](https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics/)
 
-[__Course evaluations__](assets/q_report.pdf)
+<a href="assets/q_report.pdf" style="color:#0066cc;">Course evaluations</a>
 
 __Previous versions:__ [Spring 2023 ML Theory Seminar](spring2023.md) | [Spring 2021 ML Theory Seminar](https://boazbk.github.io/mltheoryseminar/cs229br)
 
