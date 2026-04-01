@@ -1,3 +1,7 @@
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 16px 20px; margin-bottom: 24px; font-size: 1.1em;">
+<strong>📢 Fall 2026:</strong> Students interested in the Fall 2026 edition of this course should fill in <a href="https://forms.gle/qHiNMeaFp83hnQ1HA" style="color:#0066cc; font-weight:bold;">this Google Form</a>. Homework Zero will be posted sometime in July 2026. You will only get a decision on admissions after it is submitted and graded.
+</div>
+
 __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)
 
 __Course:__ CS 2881R - AI Safety
