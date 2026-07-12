@@ -1,6 +1,7 @@
 <div class="course-alert course-alert--important">
   <div class="course-alert__title">Fall 2026 — registration and Homework Zero</div>
   <p><strong>Everyone who wants to be considered for the course must fill out the <a href="https://forms.gle/qHiNMeaFp83hnQ1HA">Fall 2026 course registration form</a>.</strong></p>
+  <p><strong>In-person attendance will be mandatory for students enrolled in the course.</strong></p>
   <p><a class="button-link" href="hw0-2026/">Read Homework Zero</a> <strong>HW0 is due August 5, 2026, at 11:59 p.m. Eastern Time.</strong></p>
   <p>Submitting Homework Zero is a <strong>necessary but not sufficient</strong> condition for admission to the course. Completing the assignment does not guarantee admission.</p>
   <p><strong>Fall 2026 Teaching Fellows:</strong> <a href="mailto:nataliasiwek@college.harvard.edu">Natalia Siwek</a>, <a href="mailto:terryzhou@fas.harvard.edu">Terry Zhou</a>, and <a href="mailto:shoematem@seas.harvard.edu">Michael Shoemate</a>.</p>
