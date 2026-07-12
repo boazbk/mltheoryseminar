@@ -1,5 +1,9 @@
-<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 16px 20px; margin-bottom: 24px; font-size: 1.1em;">
-<strong>📢 Fall 2026:</strong> Students interested in the Fall 2026 edition of this course should fill in <a href="https://forms.gle/qHiNMeaFp83hnQ1HA" style="color:#0066cc; font-weight:bold;">this Google Form</a>. Homework Zero will be posted sometime in July 2026. You will only get a decision on admissions after it is submitted and graded.
+<div class="course-alert course-alert--important">
+  <div class="course-alert__title">Fall 2026 — registration and Homework Zero</div>
+  <p><strong>Everyone who wants to be considered for the course must fill out the <a href="https://forms.gle/qHiNMeaFp83hnQ1HA">Fall 2026 course registration form</a>.</strong></p>
+  <p><a class="button-link" href="hw0-2026/">Read Homework Zero</a> <strong>HW0 is due August 5, 2026, at 11:59 p.m. Eastern Time.</strong></p>
+  <p>Submitting Homework Zero is a <strong>necessary but not sufficient</strong> condition for admission to the course. Completing the assignment does not guarantee admission.</p>
+  <p><strong>Fall 2026 Teaching Fellows:</strong> <a href="mailto:nataliasiwek@college.harvard.edu">Natalia Siwek</a>, <a href="mailto:terryzhou@fas.harvard.edu">Terry Zhou</a>, and <a href="mailto:shoematem@seas.harvard.edu">Michael Shoemate</a>.</p>
 </div>
 
 __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)

@@ -60,9 +60,77 @@ a * {
   color: inherit !important;
 }
 
-/* Remove the duplicate title from content */
-section > h1:first-child {
-  display: none;
+.course-alert {
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 0 0 24px;
+  font-size: 1.05em;
+}
+
+.course-alert p:last-child {
+  margin-bottom: 0;
+}
+
+.course-alert--important {
+  background-color: #fff3cd;
+  border: 2px solid #ffc107;
+}
+
+.course-alert--registration {
+  background-color: #e7f3ff;
+  border: 2px solid #0066cc;
+}
+
+.course-alert__title {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 0.6rem;
+}
+
+.button-link,
+.button-link:visited {
+  display: inline-block;
+  background: #0066cc;
+  color: #fff !important;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 0.55rem 0.85rem;
+  margin: 0 0.65rem 0.35rem 0;
+  border-radius: 5px;
+}
+
+.button-link:hover,
+.button-link:focus {
+  background: #0052a3;
+  color: #fff !important;
+}
+
+.assignment-meta p {
+  margin: 0.35rem 0;
+}
+
+.sidebar-2026 {
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.sidebar-2026 strong,
+.sidebar-2026 a,
+.sidebar-2026 small {
+  display: block;
+}
+
+.sidebar-2026 a {
+  font-weight: 600;
+  margin-top: 0.3rem;
+}
+
+.sidebar-2026 small {
+  margin-top: 0.4rem;
+  color: #555;
 }
 
 /* Mobile responsive */
@@ -91,7 +159,4 @@ section > h1:first-child {
     padding: 1rem;
   }
 
-  section > h1:first-child {
-    display: block;
-  }
 }
