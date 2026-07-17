@@ -5,6 +5,7 @@
   <p><a class="button-link" href="hw0-2026/">Read Homework Zero</a> <strong>HW0 is due August 5, 2026, at 11:59 p.m. Eastern Time.</strong></p>
   <p>Submitting Homework Zero is a <strong>necessary but not sufficient</strong> condition for admission to the course. Completing the assignment does not guarantee admission.</p>
   <p><strong>Fall 2026 Teaching Fellows:</strong> <a href="mailto:nataliasiwek@college.harvard.edu">Natalia Siwek</a>, <a href="mailto:terryzhou@fas.harvard.edu">Terry Zhou</a>, and <a href="mailto:shoematem@seas.harvard.edu">Michael Shoemate</a>.</p>
+  <p><strong>Course email:</strong> <a href="mailto:cs2881@boazbarak.org">cs2881@boazbarak.org</a></p>
 </div>
 
 __Fall 2025__,  __Thursdays 3:45pm-6:30pm__ (First lecture September 4)
@@ -31,7 +32,7 @@ __Important: Read the Course Introduction!__
 
 * **Homework Zero:** [Homework Zero (github repository)](https://github.com/Harvard-CS-2881/harvard-cs-2881-hw0)
 
-__Questions?__ If you have any questions about the course, please email [harvardcs2881@gmail.com](mailto:harvardcs2881@gmail.com)
+__Questions?__ If you have any questions about the course, please email [cs2881@boazbarak.org](mailto:cs2881@boazbarak.org)
 
 __Related reading by Boaz:__
 
