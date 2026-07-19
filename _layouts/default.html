@@ -23,34 +23,64 @@
 
         <p style="margin-bottom: 0.5rem;">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p style="margin-bottom: 1rem; font-size: 0.9rem;">
-          <a href="https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp">YouTube Playlist</a> |
-          <a href="https://www.lesswrong.com/w/cs-2881r">Lecture Notes</a> |
-          <a href="{{ "/student_projects" | relative_url }}">Student Projects</a>
-        </p>
+        {% if page.term == "fall-2025" %}
+          <p class="sidebar-links">
+            <a href="{{ "/" | relative_url }}">Fall 2026</a> |
+            <a href="https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&si=91Ypxv1fHUHSJbHp">2025 videos</a> |
+            <a href="https://www.lesswrong.com/w/cs-2881r">2025 notes</a> |
+            <a href="{{ "/student_projects" | relative_url }}">Projects</a>
+          </p>
 
-        <div class="sidebar-2026">
-          <strong>Fall 2026</strong>
-          <a href="https://forms.gle/qHiNMeaFp83hnQ1HA">Registration form</a>
-          <a href="{{ "/hw0-2026/" | relative_url }}">Homework Zero</a>
-          <small>Due Aug. 5 at 11:59 p.m. ET</small>
-        </div>
+          <div class="sidebar-2026">
+            <strong>Current course: Fall 2026</strong>
+            <a href="{{ "/" | relative_url }}">Go to the 2026 homepage</a>
+          </div>
 
-        <h3 style="margin-bottom: 0.5rem; font-size: 1.1rem; color: #333; padding-bottom: 0.5rem; border-bottom: 2px solid #0066cc;">Fall 2025 Lectures</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-sep-4" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Sep 4 - Introduction</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-sep-11" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Sep 11 - Modern LLM Training</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-sep-18" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Sep 18 - Adversarial Robustness</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-sep-25" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Sep 25 - Model Specifications</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-oct-2" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Oct 2 - Content Policies</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-oct-9" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Oct 9 - Recursive Self-Improvement</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-oct-16" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Oct 16 - Capabilities vs. Safety</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-oct-23" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Oct 23 - Scheming & Deception</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-oct-30" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Oct 30 - Economic Impacts</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-nov-6" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Nov 6 - Interpretability</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-nov-13" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Nov 13 - Emotional Reliance</a></li>
-          <li style="margin: 0.5rem 0;"><a href="{{ "/#lecture-nov-20" | relative_url }}" style="display: block; padding: 0.5rem; border-radius: 4px;">Nov 20 - AI 2035</a></li>
-        </ul>
+          <h3 class="sidebar-heading">Fall 2025 Lectures</h3>
+          <ul class="sidebar-lecture-list">
+            <li><a href="{{ "/fall2025/#lecture-sep-4" | relative_url }}">Sep 4 — Introduction</a></li>
+            <li><a href="{{ "/fall2025/#lecture-sep-11" | relative_url }}">Sep 11 — Modern LLM Training</a></li>
+            <li><a href="{{ "/fall2025/#lecture-sep-18" | relative_url }}">Sep 18 — Adversarial Robustness</a></li>
+            <li><a href="{{ "/fall2025/#lecture-sep-25" | relative_url }}">Sep 25 — Model Specifications</a></li>
+            <li><a href="{{ "/fall2025/#lecture-oct-2" | relative_url }}">Oct 2 — Content Policies</a></li>
+            <li><a href="{{ "/fall2025/#lecture-oct-9" | relative_url }}">Oct 9 — Recursive Self-Improvement</a></li>
+            <li><a href="{{ "/fall2025/#lecture-oct-16" | relative_url }}">Oct 16 — Capabilities vs. Safety</a></li>
+            <li><a href="{{ "/fall2025/#lecture-oct-23" | relative_url }}">Oct 23 — Scheming &amp; Deception</a></li>
+            <li><a href="{{ "/fall2025/#lecture-oct-30" | relative_url }}">Oct 30 — Economic Impacts</a></li>
+            <li><a href="{{ "/fall2025/#lecture-nov-6" | relative_url }}">Nov 6 — Interpretability</a></li>
+            <li><a href="{{ "/fall2025/#lecture-nov-13" | relative_url }}">Nov 13 — Emotional Reliance</a></li>
+            <li><a href="{{ "/fall2025/#lecture-nov-20" | relative_url }}">Nov 20 — AI 2035</a></li>
+          </ul>
+        {% else %}
+          <p class="sidebar-links">
+            <a href="{{ "/" | relative_url }}">Fall 2026</a> |
+            <a href="{{ "/fall2025/" | relative_url }}">Fall 2025 archive</a>
+          </p>
+
+          <div class="sidebar-2026">
+            <strong>Fall 2026</strong>
+            <a href="https://forms.gle/qHiNMeaFp83hnQ1HA">Registration form</a>
+            <a href="{{ "/hw0-2026/" | relative_url }}">Homework Zero</a>
+            <small>Due Aug. 5 at 11:59 p.m. ET</small>
+          </div>
+
+          <h3 class="sidebar-heading">Fall 2026 Lectures</h3>
+          <ul class="sidebar-lecture-list">
+            <li><a href="{{ "/#lecture-sep-3" | relative_url }}">Sep 3 — Introduction</a></li>
+            <li><a href="{{ "/#lecture-sep-10" | relative_url }}">Sep 10 — TBD</a></li>
+            <li><a href="{{ "/#lecture-sep-17" | relative_url }}">Sep 17 — TBD</a></li>
+            <li><a href="{{ "/#lecture-sep-24" | relative_url }}">Sep 24 — TBD</a></li>
+            <li><a href="{{ "/#lecture-oct-1" | relative_url }}">Oct 1 — TBD</a></li>
+            <li><a href="{{ "/#lecture-oct-8" | relative_url }}">Oct 8 — TBD</a></li>
+            <li><a href="{{ "/#lecture-oct-15" | relative_url }}">Oct 15 — TBD</a></li>
+            <li><a href="{{ "/#lecture-oct-22" | relative_url }}">Oct 22 — TBD</a></li>
+            <li><a href="{{ "/#lecture-oct-29" | relative_url }}">Oct 29 — TBD</a></li>
+            <li><a href="{{ "/#lecture-nov-5" | relative_url }}">Nov 5 — TBD</a></li>
+            <li><a href="{{ "/#lecture-nov-12" | relative_url }}">Nov 12 — TBD</a></li>
+            <li><a href="{{ "/#lecture-nov-19" | relative_url }}">Nov 19 — TBD</a></li>
+            <li><a href="{{ "/#lecture-dec-3" | relative_url }}">Dec 3 — TBD</a></li>
+          </ul>
+        {% endif %}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>

@@ -133,6 +133,106 @@ a * {
   color: #555;
 }
 
+.sidebar-links {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.sidebar-heading {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #0066cc;
+  color: #333;
+  font-size: 1.1rem;
+}
+
+.sidebar-lecture-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-lecture-list li {
+  margin: 0.25rem 0;
+}
+
+.sidebar-lecture-list a {
+  display: block;
+  padding: 0.35rem 0.5rem;
+  border-radius: 4px;
+}
+
+.sidebar-lecture-list a:hover,
+.sidebar-lecture-list a:focus {
+  background-color: #eef5ff;
+}
+
+.archive-callout {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #0066cc;
+  border-radius: 4px;
+  background-color: #eef5ff;
+}
+
+.lecture-schedule--2026 {
+  margin: 2rem 0;
+}
+
+.lecture-schedule--2026 .lecture-item {
+  margin-bottom: 1rem;
+  padding: 1.1rem 1.25rem;
+  border-left: 4px solid #0066cc;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.lecture-schedule--2026 .lecture-item:hover {
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.lecture-schedule--2026 .lecture-date {
+  margin-bottom: 0.35rem;
+  color: #0066cc;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.lecture-schedule--2026 .lecture-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #333;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.lecture-schedule--2026 .lecture-link {
+  color: #999 !important;
+  font-size: 0.85rem;
+  opacity: 0;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.lecture-schedule--2026 .lecture-item:hover .lecture-link,
+.lecture-schedule--2026 .lecture-link:focus {
+  opacity: 1;
+}
+
+.no-lecture {
+  margin: 1.25rem 0;
+  padding: 0.85rem 1rem;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  color: #666;
+  font-style: italic;
+  text-align: center;
+}
+
 /* Mobile responsive */
 @media print, screen and (max-width: 768px) {
   .wrapper {
