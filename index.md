@@ -4,6 +4,8 @@
   <p><strong>In-person attendance will be mandatory for students enrolled in the course.</strong></p>
   <p><a class="button-link" href="hw0-2026/">Read Homework Zero</a> <strong>HW0 is due August 5, 2026, at 11:59 p.m. Eastern Time.</strong></p>
   <p>Submitting Homework Zero is a <strong>necessary but not sufficient</strong> condition for admission to the course. Completing the assignment does not guarantee admission.</p>
+  <p>To get a sense of the issues we will cover in the course, please read <a href="https://windowsontheory.org/2026/07/13/its-2030-and-we-fucked-up-how-did-it-happen/">It’s 2030 and we fucked up. How did it happen?</a> and <a href="https://windowsontheory.org/2026/07/16/all-watched-over/">All Watched Over</a>.</p>
+  <p>You can also look at last year’s <a href="https://www.lesswrong.com/w/cs-2881r">lectures and notes</a> and <a href="https://youtube.com/playlist?list=PL_b4B2IWlal3j01Rbj5ebT663E7x4bl_W&amp;si=91Ypxv1fHUHSJbHp">videos</a> to get a sense of the course, though because the field is changing rapidly, this year’s content will be different.</p>
   <p><strong>Fall 2026 Teaching Fellows:</strong> <a href="mailto:nataliasiwek@college.harvard.edu">Natalia Siwek</a>, <a href="mailto:terryzhou@fas.harvard.edu">Terry Zhou</a>, and <a href="mailto:shoematem@seas.harvard.edu">Michael Shoemate</a>.</p>
   <p><strong>Course email:</strong> <a href="mailto:cs2881@boazbarak.org">cs2881@boazbarak.org</a></p>
 </div>
