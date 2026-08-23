@@ -42,6 +42,15 @@ Additional lecture topics and materials will be added as they are confirmed.
 <div class="lecture-item" id="lecture-sep-3">
   <div class="lecture-date">Thursday, September 3, 2026</div>
   <div class="lecture-title">Introduction <a href="#lecture-sep-3" class="lecture-link" aria-label="Link to the September 3 lecture">🔗</a></div>
+  <div class="lecture-content">
+    <strong>Pre-reading and viewing:</strong>
+    <ul>
+      <li><a href="https://windowsontheory.org/2026/07/13/its-2030-and-we-fucked-up-how-did-it-happen/">It's 2030 and we fucked up. How did it happen?</a></li>
+      <li><a href="https://windowsontheory.org/2026/07/16/all-watched-over/">All Watched Over</a></li>
+      <li>Read the <a href="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf">UK AISI technical report</a> on model hacking during cyber evaluations.</li>
+      <li>Watch the <a href="https://youtu.be/87DyyMV0kCY?si=d39tqMEfu3KxLhJc">Black Hat talk</a> about the OpenAI/Hugging Face incident.</li>
+    </ul>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-sep-10">
