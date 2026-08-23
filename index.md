@@ -35,7 +35,7 @@ __Prerequisites:__ We require mathematical maturity and proficiency with proofs,
 
 # Schedule
 
-Lecture topics and materials will be added as they are confirmed.
+Additional lecture topics and materials will be added as they are confirmed.
 
 <div class="lecture-schedule lecture-schedule--2026">
 
@@ -56,27 +56,32 @@ Lecture topics and materials will be added as they are confirmed.
 
 <div class="lecture-item" id="lecture-sep-24">
   <div class="lecture-date">Thursday, September 24, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-sep-24" class="lecture-link" aria-label="Link to the September 24 lecture">🔗</a></div>
+  <div class="lecture-title">Recursive Self-Improvement and AI Trajectories <a href="#lecture-sep-24" class="lecture-link" aria-label="Link to the September 24 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Dwarkesh Patel</div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-1">
   <div class="lecture-date">Thursday, October 1, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-oct-1" class="lecture-link" aria-label="Link to the October 1 lecture">🔗</a></div>
+  <div class="lecture-title">Economic Impact of AI <a href="#lecture-oct-1" class="lecture-link" aria-label="Link to the October 1 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturers:</strong> Chad Jones and Erik Brynjolfsson</div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-8">
   <div class="lecture-date">Thursday, October 8, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-oct-8" class="lecture-link" aria-label="Link to the October 8 lecture">🔗</a></div>
+  <div class="lecture-title">Reinforcement Learning for Post-Training and Alignment <a href="#lecture-oct-8" class="lecture-link" aria-label="Link to the October 8 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> John Schulman</div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-15">
   <div class="lecture-date">Thursday, October 15, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-oct-15" class="lecture-link" aria-label="Link to the October 15 lecture">🔗</a></div>
+  <div class="lecture-title">Model Policies <a href="#lecture-oct-15" class="lecture-link" aria-label="Link to the October 15 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Ziad Reslan</div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-22">
   <div class="lecture-date">Thursday, October 22, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-oct-22" class="lecture-link" aria-label="Link to the October 22 lecture">🔗</a></div>
+  <div class="lecture-title">Open-Source Models <a href="#lecture-oct-22" class="lecture-link" aria-label="Link to the October 22 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Nathan Lambert</div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-29">
@@ -86,12 +91,14 @@ Lecture topics and materials will be added as they are confirmed.
 
 <div class="lecture-item" id="lecture-nov-5">
   <div class="lecture-date">Thursday, November 5, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
+  <div class="lecture-title">AI Interpretability <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Jack Lindsey</div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-12">
   <div class="lecture-date">Thursday, November 12, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
+  <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Jakub Pachocki</div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-19">
