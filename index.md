@@ -66,7 +66,7 @@ Additional lecture topics and materials will be added as they are confirmed.
 <div class="lecture-item" id="lecture-sep-24">
   <div class="lecture-date">Thursday, September 24, 2026</div>
   <div class="lecture-title">Recursive Self-Improvement and AI Trajectories <a href="#lecture-sep-24" class="lecture-link" aria-label="Link to the September 24 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> Dwarkesh Patel</div>
+  <div class="lecture-content"><strong>Guest lecturers:</strong> Dwarkesh Patel and Daniel Kokotajlo</div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-1">
