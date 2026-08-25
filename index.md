@@ -24,6 +24,8 @@ __Teaching Fellows:__ [Natalia Siwek](mailto:nataliasiwek@college.harvard.edu), 
 
 __Course email:__ [cs2881@boazbarak.org](mailto:cs2881@boazbarak.org)
 
+__Links for registered students only:__ [Canvas](https://canvas.harvard.edu/courses/169306) | [Perusall](https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments)
+
 __Course Description:__ This is a graduate-level course on challenges in the alignment and safety of artificial intelligence. We will consider technical questions as well as societal and other impacts of the field.
 
 __Prerequisites:__ We require mathematical maturity and proficiency with proofs, probability, and information theory, along with the foundations of machine learning at the level of an undergraduate course such as Harvard CS 181 or MIT 6.036. On the applied side, students should be comfortable programming in Python and training a basic neural network.
@@ -32,6 +34,22 @@ __Prerequisites:__ We require mathematical maturity and proficiency with proofs,
   <strong>Looking for the previous course?</strong>
   The complete lecture materials, videos, notes, and experiments are preserved on the <a href="{{ '/fall2025/' | relative_url }}">Fall 2025 course page</a>.
 </div>
+
+# Mini Syllabus
+
+* The course will have 13 in-person lectures. Each lecture will also involve discussion and the presentation of an experiment by a group of students.
+
+* **Attendance:** In-person attendance is mandatory. Students are expected to attend all lectures, do the reading in advance, and discuss the readings in an electronic forum.
+
+* **AI use:** Students are allowed and encouraged to use generative and agentic AI as much as they can for studying, exploring concepts, and completing their assignments and projects. We will explore ways to either give students access to compute credits or reimburse compute expenses.
+
+* **Electronic device policy:** Students can use laptops in class, but we will ask those using them to sit in the back so they do not distract other students.
+
+* **Assignments:** The course will involve the following assignments: presenting an experiment in class, writing scribe notes, completing a final project, and potentially completing one or more homework assignments or mini-projects. Grading will be decided later.
+
+* **Lecture recordings:** To the extent technically possible, we intend to record and publish the lectures online, though there might be some delay in doing so. Note that recording is done automatically by a static in-room camera, and some parts of the lecture (e.g., whiteboard work or discussions) may not be captured as well. In addition, we will honor requests by external speakers not to record their talks.
+
+* **POTENTIAL CONFLICT OF INTEREST NOTE:** In addition to his position at Harvard, Boaz is also a member of the technical staff at OpenAI. The course will include discussions of models from multiple providers, including OpenAI, and students are also encouraged to use AIs from multiple providers while doing their work. If students in the course have any concerns about this conflict, please do not hesitate to contact Boaz, the other staff, or the Harvard SEAS administration. For what it is worth, I (Boaz) will see it as a great success of the course if its graduates work in AI safety in any capacity, including in academia, nonprofits, governments, or any of OpenAI's competitors.
 
 # Schedule
 
