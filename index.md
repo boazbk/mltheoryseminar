@@ -130,7 +130,8 @@ Additional lecture topics and materials will be added as they are confirmed.
 
 <div class="lecture-item" id="lecture-nov-19">
   <div class="lecture-date">Thursday, November 19, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-nov-19" class="lecture-link" aria-label="Link to the November 19 lecture">🔗</a></div>
+  <div class="lecture-title">AI Biosecurity and Threat Modeling <a href="#lecture-nov-19" class="lecture-link" aria-label="Link to the November 19 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Luca Righetti</div>
 </div>
 
 <div class="no-lecture">No lecture on Thursday, November 26 — Thanksgiving Break</div>
