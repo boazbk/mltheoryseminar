@@ -61,13 +61,20 @@ Additional lecture topics and materials will be added as they are confirmed.
   <div class="lecture-date">Thursday, September 3, 2026</div>
   <div class="lecture-title">Introduction <a href="#lecture-sep-3" class="lecture-link" aria-label="Link to the September 3 lecture">🔗</a></div>
   <div class="lecture-content">
-    <strong>Pre-reading and viewing:</strong>
+    <p><strong>Required pre-reading and viewing:</strong></p>
     <ul>
       <li><a href="https://windowsontheory.org/2026/07/13/its-2030-and-we-fucked-up-how-did-it-happen/">It's 2030 and we fucked up. How did it happen?</a></li>
       <li><a href="https://windowsontheory.org/2026/07/16/all-watched-over/">All Watched Over</a></li>
       <li>Read the <a href="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf">UK AISI technical report</a> on model hacking during cyber evaluations.</li>
       <li>Watch the <a href="https://youtu.be/87DyyMV0kCY?si=d39tqMEfu3KxLhJc">Black Hat talk</a> about the OpenAI/Hugging Face incident.</li>
+      <li>Read METR's <a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/">technical investigation of the OpenAI/Hugging Face incident</a>.</li>
     </ul>
+    <p><strong>Optional but recommended:</strong></p>
+    <ul>
+      <li>OpenAI's <a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/">Hugging Face incident and the road ahead</a>.</li>
+      <li>OpenAI's <a href="https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf">technical report on the incident</a>.</li>
+    </ul>
+    <p>Registered students should access the readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion.</p>
   </div>
 </div>
 
