@@ -18,9 +18,11 @@ permalink: /
 
 __Fall 2026__, __Thursdays 3:45pm–6:30pm Eastern Time__ (first lecture September 3)
 
+__Room:__ 114 Western Ave., Room 2112
+
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
-__Teaching Fellows:__ [Natalia Siwek](mailto:nataliasiwek@college.harvard.edu), [Terry Zhou](mailto:terryzhou@fas.harvard.edu), and [Michael Shoemate](mailto:shoematem@seas.harvard.edu)
+__Teaching Fellows:__ [Natalia Siwek](mailto:nataliasiwek@college.harvard.edu), [Terry Zhou](mailto:terryzhou@fas.harvard.edu), [Michael Shoemate](mailto:shoematem@seas.harvard.edu), [Ege Çakar](mailto:ecakar@college.harvard.edu), and [Itay Lavie](mailto:itaylavie@g.harvard.edu)
 
 __Course email:__ [cs2881@boazbarak.org](mailto:cs2881@boazbarak.org)
 
