@@ -22,7 +22,7 @@ __Room:__ 114 Western Ave., Room 2112
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
-__Teaching Fellows:__ [Natalia Siwek](mailto:nataliasiwek@college.harvard.edu), [Terry Zhou](mailto:terryzhou@fas.harvard.edu), [Michael Shoemate](mailto:shoematem@seas.harvard.edu), [Ege Çakar](mailto:ecakar@college.harvard.edu), and [Itay Lavie](mailto:itaylavie@g.harvard.edu)
+__Teaching Fellows:__ [Natalia Siwek](mailto:nataliasiwek@college.harvard.edu), [Terry Zhou](mailto:terryzhou@fas.harvard.edu), [Michael Shoemate](mailto:shoematem@seas.harvard.edu), [Ege Çakar](mailto:ecakar@college.harvard.edu), [Itay Lavie](mailto:itaylavie@g.harvard.edu), [Lia Zheng](mailto:liazheng@college.harvard.edu), and [Hugh Van Deventer](mailto:hughvandeventer@g.harvard.edu)
 
 __Course email:__ [cs2881@boazbarak.org](mailto:cs2881@boazbarak.org)
 
