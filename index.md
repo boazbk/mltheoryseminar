@@ -18,7 +18,7 @@ permalink: /
 
 __Fall 2026__, __Thursdays 3:45pm–6:30pm Eastern Time__ (first lecture September 3)
 
-__Room:__ 114 Western Ave., Room 2112
+__Classroom:__ Room 2112, 114 Western Avenue, Allston, MA 02134 ([building information and directions](https://seas.harvard.edu/about-us/visit-us/allston/114-western-avenue))
 
 __Instructor:__ [Boaz Barak](https://boazbarak.org)
 
@@ -56,6 +56,8 @@ __Prerequisites:__ We require mathematical maturity and proficiency with proofs,
 # Schedule
 
 Additional lecture topics and materials will be added as they are confirmed.
+
+Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6:30pm Eastern Time in **Room 2112, 114 Western Avenue, Allston, MA 02134**.
 
 <div class="lecture-schedule lecture-schedule--2026">
 
