@@ -65,6 +65,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-date">Thursday, September 3, 2026</div>
   <div class="lecture-title">Introduction <a href="#lecture-sep-3" class="lecture-link" aria-label="Link to the September 3 lecture">🔗</a></div>
   <div class="lecture-content">
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://youtu.be/j4WSktB5Ni0">Lecture video (YouTube)</a></li>
+      <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQDkQxhY3gGNQreesK7SilaEAY_7h6hn1vrEl7ENLAgGINY?e=dXjKNF">Presentation slides</a></li>
+    </ul>
     <p><strong>Required pre-reading and viewing:</strong></p>
     <ul>
       <li><a href="https://windowsontheory.org/2026/07/13/its-2030-and-we-fucked-up-how-did-it-happen/">It's 2030 and we fucked up. How did it happen?</a></li>
