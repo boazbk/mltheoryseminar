@@ -90,6 +90,13 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-sep-10">
   <div class="lecture-date">Thursday, September 10, 2026</div>
   <div class="lecture-title">TBD <a href="#lecture-sep-10" class="lecture-link" aria-label="Link to the September 10 lecture">🔗</a></div>
+  <div class="lecture-content">
+    <p><strong>Required pre-reading:</strong></p>
+    <ul>
+      <li><a href="https://arxiv.org/abs/2605.11086">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?</a></li>
+    </ul>
+    <p>Registered students should access the reading through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 10, 2026</strong>.</p>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-sep-17">
