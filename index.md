@@ -96,6 +96,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
       <li><a href="https://arxiv.org/abs/2605.11086">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?</a></li>
       <li>Anthropic’s <a href="https://www.anthropic.com/research/n-days">Measuring LLMs’ impact on N-day exploits</a>.</li>
       <li>Anthropic’s <a href="https://www.anthropic.com/research/attack-navigator">Mapping AI-enabled cyber threats: Insights from the LLM ATT&amp;CK Navigator</a>.</li>
+      <li>Ralph Langner’s <a href="https://cyber-peace.org/wp-content/uploads/2013/06/To-kill-a-centrifuge.pdf">To Kill a Centrifuge: A Technical Analysis of What Stuxnet’s Creators Tried to Achieve</a>.</li>
     </ul>
     <p>Registered students should access the readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 10, 2026</strong>.</p>
   </div>
