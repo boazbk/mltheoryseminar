@@ -104,6 +104,8 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <ul>
       <li>Max Fillinger and Marc Stevens’s <a href="https://www.marc-stevens.nl/research/papers/AC15-FS.pdf">Reverse-engineering of the cryptanalytic attack used in the Flame super-malware</a>.</li>
       <li>Sections 3.3, “The FLAME supermalware,” and 4.4, “FLAME’s MD5 chosen-prefix collision attack,” of Marc Stevens’s <a href="https://marc-stevens.nl/research/papers/CC21Chapter-S.pdf">A Survey of Chosen-Prefix Collision Attacks</a>.</li>
+      <li>Anthropic’s <a href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses">Discovering cryptographic weaknesses with Claude</a>.</li>
+      <li>Matthew Green’s <a href="https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/">Some thoughts about Anthropic’s new cryptanalysis results</a>.</li>
     </ul>
     <p>Registered students should access the required readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 10, 2026</strong>.</p>
   </div>
