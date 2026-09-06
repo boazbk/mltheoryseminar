@@ -99,7 +99,12 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
       <li>Ralph Langner’s <a href="https://cyber-peace.org/wp-content/uploads/2013/06/To-kill-a-centrifuge.pdf">To Kill a Centrifuge: A Technical Analysis of What Stuxnet’s Creators Tried to Achieve</a>.</li>
       <li>Chapter 3, “Distribution” (pages 24–44), of ESET’s <a href="https://web-assets.esetstatic.com/wls/en/papers/white-papers/Stuxnet_Under_the_Microscope.pdf#page=24">Stuxnet Under the Microscope</a>.</li>
     </ul>
-    <p>Registered students should access the readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 10, 2026</strong>.</p>
+    <p><strong>Optional reading:</strong></p>
+    <ul>
+      <li>Max Fillinger and Marc Stevens’s <a href="https://www.marc-stevens.nl/research/papers/AC15-FS.pdf">Reverse-engineering of the cryptanalytic attack used in the Flame super-malware</a>.</li>
+      <li>Sections 3.3, “The FLAME supermalware,” and 4.4, “FLAME’s MD5 chosen-prefix collision attack,” of Marc Stevens’s <a href="https://marc-stevens.nl/research/papers/CC21Chapter-S.pdf">A Survey of Chosen-Prefix Collision Attacks</a>.</li>
+    </ul>
+    <p>Registered students should access the required readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 10, 2026</strong>.</p>
   </div>
 </div>
 
