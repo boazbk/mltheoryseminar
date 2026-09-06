@@ -91,6 +91,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-date">Thursday, September 10, 2026</div>
   <div class="lecture-title">Cyber Capabilities <a href="#lecture-sep-10" class="lecture-link" aria-label="Link to the September 10 lecture">🔗</a></div>
   <div class="lecture-content">
+    <p><strong>Guest lecturer:</strong> Nicholas Carlini (Anthropic, virtual)</p>
     <p><strong>Required pre-reading:</strong></p>
     <ul>
       <li><a href="https://arxiv.org/abs/2605.11086">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?</a></li>
