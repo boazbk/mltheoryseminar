@@ -113,7 +113,27 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-sep-17">
   <div class="lecture-date">Thursday, September 17, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-sep-17" class="lecture-link" aria-label="Link to the September 17 lecture">🔗</a></div>
+  <div class="lecture-title">Modern LLM Training and Inference <a href="#lecture-sep-17" class="lecture-link" aria-label="Link to the September 17 lecture">🔗</a></div>
+  <div class="lecture-content">
+    <p><strong>Required pre-reading, in order:</strong> Read the sections specified below. Sections marked optional and implementation walkthroughs marked to skip are not required.</p>
+    <ol>
+      <li>Horace He, <a href="https://horace.io/brrr_intro.html">Making Deep Learning Go Brrrr From First Principles</a>. Read the whole article; treat the older framework references as historical examples.</li>
+      <li>Austin et al., <a href="https://jax-ml.github.io/scaling-book/transformers/">All the Transformer Math You Need to Know</a>. Read the main text through the gradient-checkpointing and KV-cache discussions. You may skim the elementary dot-product accounting if familiar. The FlashAttention appendix and exercises are optional.</li>
+      <li>Austin et al., <a href="https://jax-ml.github.io/scaling-book/inference/">All About Transformer Inference</a>. Read the opening basics through “What about memory?”, followed by the discussion of GQA and quantization in “Tricks for Improving Generation Throughput and Latency.” The multi-accelerator derivations, detailed serving-engine discussion, and JetStream implementation are optional.</li>
+      <li>Nathan Lambert, <a href="https://rlhfbook.com/c/04-instruction-tuning">Instruction Fine-Tuning</a>. Read the opening explanation, one chat-template example, “Best Practices for Instruction Tuning,” and “Implementation Details.” Skim the Jinja listing and additional template examples; the suggested experiments are optional.</li>
+      <li>Lambert et al., <a href="https://huggingface.co/blog/rlhf">Illustrating Reinforcement Learning from Human Feedback (RLHF)</a>. Read the central three-stage pipeline and the limitations discussion. Skip the historical bibliography and resource roundup.</li>
+      <li>OpenAI Spinning Up, <a href="https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html">Part 3: Intro to Policy Optimization</a>. Read “Deriving the Simplest Policy Gradient,” “Expected Grad-Log-Prob Lemma,” and “Baselines in Policy Gradients.” Skip the implementation walkthroughs. Interpret actions as generated tokens and the return as the verifier’s score.</li>
+      <li>Nathan Lambert, <a href="https://rlhfbook.com/c/07-reasoning">Reasoning and Inference-Time Scaling</a>. Read “The Role of RLVR,” “RL Training vs. Inference-Time Scaling,” and “Common Practices in Training Reasoning Models.” The historical tour and model catalogue are optional.</li>
+      <li>Kevin Lu and Thinking Machines Lab, <a href="https://thinkingmachines.ai/blog/on-policy-distillation/">On-Policy Distillation</a>. Read the introduction through “Implementation,” followed by “Distillation for reasoning.” The personalization section is optional; the discussion section provides additional material for debate.</li>
+      <li>Hugging Face, <a href="https://huggingface.co/blog/smollm3">SmolLM3: smol, multilingual, long-context reasoner</a>. Read the pretraining, mid-training, and post-training sections through “Model Merging.” Skim the benchmark tables and skip the local-running instructions.</li>
+    </ol>
+    <p><strong>Optional reading:</strong></p>
+    <ul>
+      <li><a href="https://vllm-project.github.io/2023/06/20/vllm.html">vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention</a>. A concrete explanation of KV-cache fragmentation, block allocation, and prefix sharing.</li>
+      <li>Tatsunori Hashimoto, <a href="https://github.com/stanford-cs336/lectures/blob/main/lecture_09.pdf">Stanford CS336 (Spring 2026), Lecture 9: Scaling Laws</a> (<a href="https://cs336.stanford.edu/">course page</a>).</li>
+    </ul>
+    <p>Registered students should access the required readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 17, 2026</strong>.</p>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-sep-24">
