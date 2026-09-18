@@ -139,7 +139,15 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-sep-24">
   <div class="lecture-date">Thursday, September 24, 2026</div>
   <div class="lecture-title">Recursive Self-Improvement and AI Trajectories <a href="#lecture-sep-24" class="lecture-link" aria-label="Link to the September 24 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturers:</strong> Dwarkesh Patel and Daniel Kokotajlo</div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturers:</strong> Dwarkesh Patel and Daniel Kokotajlo</p>
+    <p><strong>Required pre-reading:</strong></p>
+    <ul>
+      <li><a href="https://ai-2027.com/">AI 2027</a> (<a href="{{ '/assets/readings/ai-2027.pdf' | relative_url }}">course PDF</a>). Read the main scenario and both the Race and Slowdown endings.</li>
+      <li><a href="https://ai-2040.com/">AI 2040: Plan A</a> (<a href="{{ '/assets/readings/ai-2040.pdf' | relative_url }}">course PDF</a>).</li>
+    </ul>
+    <p>Registered students should access the readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, September 24, 2026</strong>.</p>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-1">
