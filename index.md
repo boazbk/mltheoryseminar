@@ -115,6 +115,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-date">Thursday, September 17, 2026</div>
   <div class="lecture-title">Modern LLM Training and Inference <a href="#lecture-sep-17" class="lecture-link" aria-label="Link to the September 17 lecture">🔗</a></div>
   <div class="lecture-content">
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://youtu.be/Lp_e8Ts5-nE">Lecture video (YouTube)</a></li>
+    </ul>
     <p><strong>Required pre-reading, in order:</strong> Read the sections specified below. Sections marked optional and implementation walkthroughs marked to skip are not required.</p>
     <ol>
       <li>Horace He, <a href="https://horace.io/brrr_intro.html">Making Deep Learning Go Brrrr From First Principles</a>. Read the whole article; treat the older framework references as historical examples.</li>
