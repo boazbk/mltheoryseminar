@@ -118,6 +118,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Lecture materials:</strong></p>
     <ul>
       <li><a href="https://youtu.be/Lp_e8Ts5-nE">Lecture video (YouTube)</a></li>
+      <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQAIURSiytaRRouFa-2fENnZAdwfZdHR0aQ-30xmhOMW9f8?e=kzh3Zw">Presentation slides</a></li>
     </ul>
     <p><strong>Required pre-reading, in order:</strong> Read the sections specified below. Sections marked optional and implementation walkthroughs marked to skip are not required.</p>
     <ol>
