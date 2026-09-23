@@ -69,6 +69,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <ul>
       <li><a href="https://youtu.be/j4WSktB5Ni0">Lecture video (YouTube)</a></li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQDkQxhY3gGNQreesK7SilaEAY_7h6hn1vrEl7ENLAgGINY?e=dXjKNF">Presentation slides</a></li>
+      <li><a href="https://windowsontheory.org/2026/09/22/cs-2881-fall-26-lecture-1-introduction/">Lecture blog post</a></li>
     </ul>
     <p><strong>Required pre-reading and viewing:</strong></p>
     <ul>
