@@ -159,7 +159,23 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-oct-1">
   <div class="lecture-date">Thursday, October 1, 2026</div>
   <div class="lecture-title">Economic Impact of AI <a href="#lecture-oct-1" class="lecture-link" aria-label="Link to the October 1 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturers:</strong> Chad Jones and Erik Brynjolfsson</div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturers:</strong> Chad Jones and Erik Brynjolfsson</p>
+    <p><strong>Required pre-reading:</strong></p>
+    <ul>
+      <li>Erik Brynjolfsson, <a href="https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/">The Turing Trap: The Promise &amp; Peril of Human-Like Artificial Intelligence</a> (<em>Daedalus</em>, 2022).</li>
+      <li>Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen, <a href="https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/">Canaries in the Coal Mine: Six Facts about the Recent Employment Effects of Artificial Intelligence</a> (August 2026 update).</li>
+      <li>Andreas Haupt and Erik Brynjolfsson, <a href="https://digitaleconomy.stanford.edu/wp-content/uploads/2025/06/CentaurEvaluations.pdf">AI Should Not Be an Imitation Game: Centaur Evaluations</a> (ICML 2025).</li>
+      <li><a href="https://www.nber.org/papers/w34256">A Research Agenda for the Economics of Transformative AI</a>. Skim, focusing on the nine research challenges, including safety.</li>
+      <li>Chad Jones, <a href="https://web.stanford.edu/~chadj/papers.html#aifuture">AI and Our Economic Future</a> (<em>Journal of Economic Perspectives</em>, Summer 2026; <a href="https://web.stanford.edu/~chadj/slides-AIandEconomicFuture.pdf">slides</a>).</li>
+      <li>Chad Jones and Chris Tonetti, <a href="https://web.stanford.edu/~chadj/JonesTonetti_Automation.pdf">Past Automation and Future A.I.: How Weak Links Tame the Growth Explosion</a> (May 2026, version 0.5; <a href="https://web.stanford.edu/~chadj/slides-automation.pdf">slides</a>).</li>
+    </ul>
+    <p><strong>Optional reading:</strong></p>
+    <ul>
+      <li><a href="https://www.nber.org/books-and-chapters/economics-transformative-ai/ais-use-knowledge-society">AI's Use of Knowledge in Society</a>.</li>
+    </ul>
+    <p>Registered students should access the required readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, October 1, 2026</strong>.</p>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-8">
