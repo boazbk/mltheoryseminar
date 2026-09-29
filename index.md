@@ -224,6 +224,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-dec-3">
   <div class="lecture-date">Thursday, December 3, 2026</div>
   <div class="lecture-title">TBD <a href="#lecture-dec-3" class="lecture-link" aria-label="Link to the December 3 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturer:</strong> Ajeya Cotra</div>
 </div>
 
 </div>
