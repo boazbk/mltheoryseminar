@@ -209,8 +209,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-nov-12">
   <div class="lecture-date">Thursday, November 12, 2026</div>
-  <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> Jakub Pachocki</div>
+  <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement; AI Policy <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturers:</strong> Jakub Pachocki and Brad Carson</p>
+    <p>Brad Carson's participation mode is to be confirmed.</p>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-19">
