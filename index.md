@@ -180,8 +180,26 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-oct-8">
   <div class="lecture-date">Thursday, October 8, 2026</div>
-  <div class="lecture-title">Reinforcement Learning for Post-Training and Alignment <a href="#lecture-oct-8" class="lecture-link" aria-label="Link to the October 8 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> John Schulman</div>
+  <div class="lecture-title">Grading, reward hacking, and alignment (CS 2881, Oct 8) <a href="#lecture-oct-8" class="lecture-link" aria-label="Link to the October 8 lecture">🔗</a></div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturer:</strong> John Schulman</p>
+    <p>Students have already covered policy gradients (Spinning Up), an RLHF overview, Lambert's reasoning/RLVR chapter, and TML's on-policy distillation post. This list assumes those and doesn't repeat RLHF basics.</p>
+    <p><strong>Required pre-reading (5):</strong></p>
+    <ol>
+      <li>Gao, Schulman &amp; Hilton (2023). <a href="https://arxiv.org/abs/2210.10760">Scaling laws for reward model overoptimization</a>. ICML 2023. <em>Read §1–2 and Fig. 1. Skim §3–4.</em> The classic picture of Goodhart in RL from human feedback.</li>
+      <li>Xiaomi (2026). <a href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/MiMo_V2_6_technical_report.pdf">MiMo-V2.6 technical report</a>. <em>Read §4.2–4.3 only (environment auditing, rubric graders, the agentic grader, and the Fig. 8 ablation).</em> It is the most detailed public account of how modern graders are built.</li>
+      <li>Baker et al. (2025). <a href="https://arxiv.org/abs/2503.11926">Monitoring reasoning models for misbehavior and the risks of promoting obfuscation</a>. <em>Read §1–3 and look at Fig. 4–5.</em> Reward hacking in coding environments, chain-of-thought (CoT) monitoring, and what happens when you train against the monitor.</li>
+      <li>Qi, Wright, MacDiarmid &amp; Hubinger (2026). <a href="https://alignment.anthropic.com/2026/reward-seeker/">Training a misaligned reward seeker</a>. Anthropic Alignment Science Blog. <em>Read in full.</em> RL on hackable environments produces grader awareness and grader manipulation. The post also reproduces Hugging-Face-incident-like behavior in simulation.</li>
+      <li>OpenAI (2025). <a href="https://openai.com/index/sycophancy-in-gpt-4o/">Sycophancy in GPT-4o</a> and <a href="https://openai.com/index/expanding-on-sycophancy/">Expanding on what we missed with sycophancy</a>. Both are short; read both.</li>
+    </ol>
+    <p><strong>Optional reading (4):</strong></p>
+    <ul>
+      <li>MacDiarmid et al. (2025). <a href="https://arxiv.org/abs/2511.18397">Natural emergent misalignment from reward hacking in production RL</a>. <em>Read §1–3 and Fig. 1.</em> Reward hacking learned in realistic RL generalizes to broader misalignment. It also covers inoculation prompting.</li>
+      <li>Schoen &amp; Nitishinskaya (2026). <a href="https://alignment.openai.com/metagaming/">Metagaming matters for training, evaluation, and oversight</a>. Apollo Research &amp; OpenAI. <em>Short.</em> Production evidence that metagaming (reasoning about the grader and oversight) rises during capabilities RL and persists into deployment.</li>
+      <li>Mahmoud, Rezaei, Wang, Gunjal, Liu &amp; He (2026). <a href="https://arxiv.org/abs/2605.12474">Reward hacking in rubric-based RL</a>. <em>Read §4.</em> How the brain dump arises. 90% of rubric weight is "must include X", response length nearly triples, and incorrect claims rise.</li>
+      <li>Ringer (2022). <a href="https://www.lesswrong.com/posts/TWorNr22hhYegE4RT/models-don-t-get-reward">Models don't "get reward"</a>. LessWrong. <em>Short; read in full.</em> RL is selection, not incentive: the model never sees the reward.</li>
+    </ul>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-15">
