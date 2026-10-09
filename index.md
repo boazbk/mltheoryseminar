@@ -93,6 +93,12 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Cyber Capabilities <a href="#lecture-sep-10" class="lecture-link" aria-label="Link to the September 10 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> Nicholas Carlini (Anthropic, virtual)</p>
+    <p><strong>Student experiment:</strong> Can a small AI detect a large AI's cyberattack from service logs? — Amrit Vir Chadha</p>
+    <ul>
+      <li><a href="https://github.com/avchadha/AI-Safety-Mini-Experiment-on-Open-Source-Cyber/blob/main/REPORT.md">Experiment report (REPORT.md)</a></li>
+      <li><a href="https://github.com/avchadha/AI-Safety-Mini-Experiment-on-Open-Source-Cyber">Code repository</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1V0bHrGptg7UTk8z0lgKdag9W6MQt7mD342IsZYFsIoY/edit?usp=sharing">Presentation slides (slides 1–16 only)</a>. Only slides 1–16 were presented; slides 17 onward are rough work and are not for reproduction.</li>
+    </ul>
     <p><strong>Required pre-reading:</strong></p>
     <ul>
       <li><a href="https://arxiv.org/abs/2605.11086">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?</a></li>
@@ -147,6 +153,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Recursive Self-Improvement and AI Trajectories <a href="#lecture-sep-24" class="lecture-link" aria-label="Link to the September 24 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Dwarkesh Patel and Daniel Kokotajlo</p>
+    <p><strong>Student experiment:</strong> Can AI agents collaborate on ML research? — Anthony Shen, Eric Ge, Riddhi Bhagwat, and Alvin Ekelund</p>
+    <ul>
+      <li><a href="https://github.com/ericjkge/multiagent-research">Code repository</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1RCdVmbJWBpfPx78A4hrlIbyrlyxyL7HleC08j8ktAuU/edit?slide=id.p#slide=id.p">Presentation slides</a></li>
+    </ul>
     <p><strong>Required pre-reading:</strong></p>
     <ul>
       <li><a href="https://ai-2027.com/">AI 2027</a> (<a href="{{ '/assets/readings/ai-2027.pdf' | relative_url }}">course PDF</a>). Read the main scenario and both the Race and Slowdown endings.</li>
@@ -161,6 +172,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Economic Impact of AI <a href="#lecture-oct-1" class="lecture-link" aria-label="Link to the October 1 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Chad Jones and Erik Brynjolfsson</p>
+    <p><strong>Student experiment:</strong> LLM market mechanisms — Zach Chen, Jasmine Liu, and Jeffrey Zhou</p>
+    <ul>
+      <li><a href="https://github.com/Zxch-Chen/llm-market-mechanisms">Code repository</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1s_nrwWY4qb4I9TqLT46TQo4OR420gUwjCRQz4oPeSpw/edit?usp=sharing">Presentation slides</a></li>
+    </ul>
     <p><strong>Required pre-reading:</strong></p>
     <ul>
       <li>Erik Brynjolfsson, <a href="https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/">The Turing Trap: The Promise &amp; Peril of Human-Like Artificial Intelligence</a> (<em>Daedalus</em>, 2022).</li>
