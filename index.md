@@ -223,12 +223,13 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Model Policies <a href="#lecture-oct-15" class="lecture-link" aria-label="Link to the October 15 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> Ziad Reslan</p>
-    <p><strong>Required pre-reading (4):</strong></p>
+    <p><strong>Required pre-reading (5):</strong></p>
     <ol>
       <li>OpenAI, <a href="https://cdn.openai.com/pdf/openai-principles-for-national-security-partnerships.pdf">Principles for National Security Partnerships</a> (July 8, 2026).</li>
       <li>OpenAI, <a href="https://model-spec.openai.com/2026-08-18.html">Model Spec</a> (August 18, 2026 version).</li>
       <li>Anthropic, <a href="https://www.anthropic.com/constitution">Claude’s Constitution</a> (January 2026; <a href="https://www-cdn.anthropic.com/cffd979fd050fbc0d8874b8c58b24cc10554e208/claudes-constitution_webPDF_26-01.26a.pdf">PDF</a>).</li>
       <li><a href="https://arxiv.org/pdf/2602.16800">Large-scale online deanonymization with LLMs</a> (v2, February 25, 2026).</li>
+      <li>Emelia Probasco, Matthew Burtell, Helen Toner, and Tim G. J. Rudner, <a href="{{ '/assets/readings/not-oracles-of-the-battlefield.pdf' | relative_url }}">Not Oracles of the Battlefield: Safety Considerations for AI-Based Military Decision Support Systems</a> (2024).</li>
     </ol>
     <p>Registered students should access the required readings through <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> and contribute substantive comments or replies to the discussion by <strong>noon Eastern Time on Thursday, October 15, 2026</strong>.</p>
   </div>
