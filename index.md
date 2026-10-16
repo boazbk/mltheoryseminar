@@ -172,6 +172,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Economic Impact of AI <a href="#lecture-oct-1" class="lecture-link" aria-label="Link to the October 1 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Chad Jones and Erik Brynjolfsson</p>
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://youtu.be/iezRKFkyjVY">Lecture video (YouTube)</a></li>
+    </ul>
     <p><strong>Student experiment:</strong> LLM market mechanisms — Zach Chen, Jasmine Liu, and Jeffrey Zhou</p>
     <ul>
       <li><a href="https://github.com/Zxch-Chen/llm-market-mechanisms">Code repository</a></li>
