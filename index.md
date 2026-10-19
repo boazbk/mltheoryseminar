@@ -132,6 +132,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
       <li><a href="https://youtu.be/Lp_e8Ts5-nE">Lecture video (YouTube)</a></li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQAIURSiytaRRouFa-2fENnZAdwfZdHR0aQ-30xmhOMW9f8?e=kzh3Zw">Presentation slides</a></li>
     </ul>
+    <p><strong>Student experiment:</strong> False statements as filler tokens for LLM reasoning — Andrew Wu and Andrea Chen</p>
+    <ul>
+      <li>Slides and code: forthcoming.</li>
+    </ul>
     <p><strong>Required pre-reading, in order:</strong> Read the sections specified below. Sections marked optional and implementation walkthroughs marked to skip are not required.</p>
     <ol>
       <li>Horace He, <a href="https://horace.io/brrr_intro.html">Making Deep Learning Go Brrrr From First Principles</a>. Read the whole article; treat the older framework references as historical examples.</li>
@@ -183,7 +187,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     </ul>
     <p><strong>Student experiment:</strong> LLM market mechanisms — Zach Chen, Jasmine Liu, and Jeffrey Zhou</p>
     <ul>
-      <li><a href="https://github.com/Zxch-Chen/llm-market-mechanisms">Code repository</a></li>
+      <li><a href="https://github.com/Zxch-Chen/llm-market-mechanisms">Code repository</a> (currently unavailable)</li>
       <li><a href="https://docs.google.com/presentation/d/1s_nrwWY4qb4I9TqLT46TQo4OR420gUwjCRQz4oPeSpw/edit?usp=sharing">Presentation slides</a></li>
     </ul>
     <p><strong>Required pre-reading:</strong></p>
@@ -208,6 +212,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Grading, reward hacking, and alignment (CS 2881, Oct 8) <a href="#lecture-oct-8" class="lecture-link" aria-label="Link to the October 8 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> John Schulman</p>
+    <p><strong>Student experiment:</strong> Measuring RL Environment Quality Across Self-Play Training — Essa Jan</p>
+    <ul>
+      <li>Presentation slides: forthcoming.</li>
+      <li>Code repository: forthcoming.</li>
+    </ul>
     <p>Students have already covered policy gradients (Spinning Up), an RLHF overview, Lambert's reasoning/RLVR chapter, and TML's on-policy distillation post. This list assumes those and doesn't repeat RLHF basics.</p>
     <p><strong>Required pre-reading (5):</strong></p>
     <ol>
@@ -232,6 +241,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Model Policies <a href="#lecture-oct-15" class="lecture-link" aria-label="Link to the October 15 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> Ziad Reslan</p>
+    <p><strong>Student experiment:</strong> Who Are You? — Advikar Ananthkumar and Shaurya Jeloka</p>
+    <ul>
+      <li><a href="https://github.com/AdvikarA/who-are-you-em">Code repository</a> (currently unavailable)</li>
+      <li>Presentation slides: forthcoming.</li>
+    </ul>
     <p><strong>Required pre-reading (5):</strong></p>
     <ol>
       <li>OpenAI, <a href="https://cdn.openai.com/pdf/openai-principles-for-national-security-partnerships.pdf">Principles for National Security Partnerships</a> (July 8, 2026).</li>
