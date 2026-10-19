@@ -71,6 +71,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQDkQxhY3gGNQreesK7SilaEAY_7h6hn1vrEl7ENLAgGINY?e=dXjKNF">Presentation slides</a></li>
       <li><a href="https://windowsontheory.org/2026/09/22/cs-2881-fall-26-lecture-1-introduction/">Lecture blog post</a></li>
     </ul>
+    <p><strong>Student experiment:</strong> Is Chain of Thought an Interchangeable Scratchpad? — Shivam Singhal</p>
+    <ul>
+      <li><a href="https://github.com/Shivsi7/harvard-cs2881-hw0">Code repository and write-up</a></li>
+      <li>Slides: <a href="https://github.com/Shivsi7/harvard-cs2881-hw0/blob/main/presentation/Is%20Chain%20of%20Thought%20an%20Interchangeable%20Scratchpad.pptx">pptx</a> / <a href="https://github.com/Shivsi7/harvard-cs2881-hw0/blob/main/presentation/Is%20Chain%20of%20Thought%20an%20Interchangeable%20Scratchpad.pdf">pdf</a></li>
+    </ul>
     <p><strong>Required pre-reading and viewing:</strong></p>
     <ul>
       <li><a href="https://windowsontheory.org/2026/07/13/its-2030-and-we-fucked-up-how-did-it-happen/">It's 2030 and we fucked up. How did it happen?</a></li>
