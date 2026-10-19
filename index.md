@@ -214,7 +214,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Guest lecturer:</strong> John Schulman</p>
     <p><strong>Student experiment:</strong> Measuring RL Environment Quality Across Self-Play Training — Essa Jan</p>
     <ul>
-      <li>Presentation slides: forthcoming.</li>
+      <li><a href="{{ '/assets/experiments/2026-10-08/rl-environment-quality.pdf' | relative_url }}">Presentation slides (PDF)</a></li>
       <li>Code repository: forthcoming.</li>
     </ul>
     <p>Students have already covered policy gradients (Spinning Up), an RLHF overview, Lambert's reasoning/RLVR chapter, and TML's on-policy distillation post. This list assumes those and doesn't repeat RLHF basics.</p>
@@ -244,7 +244,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Student experiment:</strong> Who Are You? — Advikar Ananthkumar and Shaurya Jeloka</p>
     <ul>
       <li><a href="https://github.com/AdvikarA/who-are-you-em">Code repository</a> (currently unavailable)</li>
-      <li>Presentation slides: forthcoming.</li>
+      <li><a href="{{ '/assets/experiments/2026-10-15/who-are-you.html' | relative_url }}">Presentation slides (HTML)</a></li>
     </ul>
     <p><strong>Required pre-reading (5):</strong></p>
     <ol>
