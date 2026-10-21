@@ -266,7 +266,20 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-oct-29">
   <div class="lecture-date">Thursday, October 29, 2026</div>
-  <div class="lecture-title">TBD <a href="#lecture-oct-29" class="lecture-link" aria-label="Link to the October 29 lecture">🔗</a></div>
+  <div class="lecture-title">Frontier AI Regulation Under Uncertainty <a href="#lecture-oct-29" class="lecture-link" aria-label="Link to the October 29 lecture">🔗</a></div>
+  <div class="lecture-content">
+    <p><strong>Guest speaker:</strong> Helen Toner (Center for Security and Emerging Technology, Georgetown University; remote)</p>
+    <p>Opening remarks followed by Q&amp;A and discussion on frontier AI regulation under uncertainty, including how evaluations and other technical evidence should inform national-security policy and the U.S.–China context.</p>
+    <p><strong>Helen's session:</strong> 3:45pm–5:00pm Eastern Time (EDT). The full class block remains 3:45pm–6:30pm Eastern Time.</p>
+    <p><strong>Suggested pre-reading from Helen Toner:</strong></p>
+    <ul>
+      <li><a href="https://helentoner.substack.com/p/unresolved-debates-about-the-future">Unresolved debates about the future of AI</a></li>
+      <li><a href="https://radical-optionality.ai/">Radical Optionality</a> (skim)</li>
+      <li><a href="https://ari.us/research/responsible-innovation-at-the-frontier/">Responsible Innovation at the Frontier</a></li>
+      <li><a href="https://meagreprotestanthistory.substack.com/p/the-goodhart-singularity">The Goodhart Singularity</a></li>
+      <li><a href="https://www.nybooks.com/articles/2026/11/05/the-dream-of-ai-primacy/">The Dream of AI Primacy</a> (<a href="https://archive.ph/twI27">archive</a>)</li>
+    </ul>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-5">
