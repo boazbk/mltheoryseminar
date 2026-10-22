@@ -215,7 +215,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Student experiment:</strong> Measuring RL Environment Quality Across Self-Play Training — Essa Jan</p>
     <ul>
       <li><a href="{{ '/assets/experiments/2026-10-08/rl-environment-quality.pdf' | relative_url }}">Presentation slides (PDF)</a></li>
-      <li>Code repository: forthcoming.</li>
+      <li><a href="https://github.com/essacheez/self-play-environment-quality">Code repository</a></li>
     </ul>
     <p>Students have already covered policy gradients (Spinning Up), an RLHF overview, Lambert's reasoning/RLVR chapter, and TML's on-policy distillation post. This list assumes those and doesn't repeat RLHF basics.</p>
     <p><strong>Required pre-reading (5):</strong></p>
