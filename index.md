@@ -261,7 +261,14 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-oct-22">
   <div class="lecture-date">Thursday, October 22, 2026</div>
   <div class="lecture-title">Open-Source Models <a href="#lecture-oct-22" class="lecture-link" aria-label="Link to the October 22 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> Nathan Lambert</div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturers:</strong> Sam Altman (remote) and Nathan Lambert (in person)</p>
+    <ul>
+      <li><strong>3:45pm–4:45pm Eastern Time (EDT):</strong> Sam Altman</li>
+      <li><strong>4:45pm–6:30pm Eastern Time (EDT):</strong> Nathan Lambert</li>
+    </ul>
+    <p>The full class block remains 3:45pm–6:30pm Eastern Time.</p>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-oct-29">
@@ -284,8 +291,8 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-nov-5">
   <div class="lecture-date">Thursday, November 5, 2026</div>
-  <div class="lecture-title">AI Interpretability <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> Jack Lindsey</div>
+  <div class="lecture-title">AI Interpretability and Model Welfare <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
+  <div class="lecture-content"><strong>Guest lecturers:</strong> Jack Lindsey and Jeff Sebo (both remote)</div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-12">
@@ -293,14 +300,17 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement; AI Policy <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Jakub Pachocki and Brad Carson</p>
-    <p>Brad Carson's participation mode is to be confirmed.</p>
+    <p>Participation modes are to be confirmed.</p>
   </div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-19">
   <div class="lecture-date">Thursday, November 19, 2026</div>
   <div class="lecture-title">AI Biosecurity and Threat Modeling <a href="#lecture-nov-19" class="lecture-link" aria-label="Link to the November 19 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> Luca Righetti</div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturer:</strong> Luca Righetti</p>
+    <p>Participation mode is to be confirmed.</p>
+  </div>
 </div>
 
 <div class="no-lecture">No lecture on Thursday, November 26 — Thanksgiving Break</div>
@@ -308,7 +318,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-dec-3">
   <div class="lecture-date">Thursday, December 3, 2026</div>
   <div class="lecture-title">TBD <a href="#lecture-dec-3" class="lecture-link" aria-label="Link to the December 3 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturer:</strong> Ajeya Cotra</div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturers:</strong> Ajeya Cotra (METR, in person) and Roy Rinberg</p>
+    <p>Roy Rinberg's participation mode is to be confirmed.</p>
+  </div>
 </div>
 
 </div>
