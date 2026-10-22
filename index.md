@@ -262,11 +262,8 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-date">Thursday, October 22, 2026</div>
   <div class="lecture-title">Open-Source Models <a href="#lecture-oct-22" class="lecture-link" aria-label="Link to the October 22 lecture">🔗</a></div>
   <div class="lecture-content">
-    <p><strong>Guest lecturers:</strong> Sam Altman (remote) and Nathan Lambert (in person)</p>
-    <ul>
-      <li><strong>3:45pm–4:45pm Eastern Time (EDT):</strong> Sam Altman</li>
-      <li><strong>4:45pm–6:30pm Eastern Time (EDT):</strong> Nathan Lambert</li>
-    </ul>
+    <p><strong>Guest lecturer:</strong> Nathan Lambert (in person)</p>
+    <p><strong>Nathan's session:</strong> 4:45pm–6:30pm Eastern Time (EDT).</p>
     <p>The full class block remains 3:45pm–6:30pm Eastern Time.</p>
   </div>
 </div>
