@@ -260,11 +260,23 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-oct-22">
   <div class="lecture-date">Thursday, October 22, 2026</div>
-  <div class="lecture-title">Open-Source Models <a href="#lecture-oct-22" class="lecture-link" aria-label="Link to the October 22 lecture">🔗</a></div>
+  <div class="lecture-title">Q&amp;A with Sam Altman; Open-Source Models <a href="#lecture-oct-22" class="lecture-link" aria-label="Link to the October 22 lecture">🔗</a></div>
   <div class="lecture-content">
+    <p><strong>Guest Q&amp;A:</strong> Sam Altman (virtual), 3:45pm–4:45pm Eastern Time (EDT).</p>
     <p><strong>Guest lecturer:</strong> Nathan Lambert (in person)</p>
     <p><strong>Nathan's session:</strong> 4:45pm–6:30pm Eastern Time (EDT).</p>
     <p>The full class block remains 3:45pm–6:30pm Eastern Time.</p>
+    <p><strong>Pre-reading for Nathan Lambert’s lecture:</strong> Read the <strong>Foundation</strong> section of his <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">Open-Source AI &amp; Open Models Reading List</a>, including the supporting links under the main readings below.</p>
+    <ol>
+      <li>Bill Gurley, <a href="https://p3institute.substack.com/p/from-open-source-software-to-open">From Open Source Software to Open Source Strategy</a>.</li>
+      <li>Mark Zuckerberg, <a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/">Open Source AI Is the Path Forward</a>.</li>
+      <li>Irene Solaiman, <a href="https://arxiv.org/abs/2302.04844">The Gradient of Generative AI Release: Methods and Considerations</a>.</li>
+      <li>Nathan Lambert, <a href="https://www.interconnects.ai/p/the-next-phase-of-open-models">What comes next with open models</a>.</li>
+      <li>Thinking Machines Lab, <a href="https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/">A Safe Path to Open Weights</a>.</li>
+      <li>Shayne Longpre et al., <a href="https://arxiv.org/abs/2407.14933">Consent in Crisis: The Rapid Decline of the AI Data Commons</a>.</li>
+      <li>Nathan Lambert, <a href="https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation">Kimi K3: The open-weights escalation</a> and <a href="https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open">GLM-5.2 is the step change for open agents</a>.</li>
+    </ol>
+    <p>The adoption resources marked optional in the Foundation section remain optional. The later <strong>US–China Competition</strong> and <strong>Technical Details</strong> sections are additional reading for those who want to go deeper.</p>
   </div>
 </div>
 
