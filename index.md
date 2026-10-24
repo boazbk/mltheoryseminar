@@ -266,6 +266,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Guest lecturer:</strong> Nathan Lambert (in person)</p>
     <p><strong>Nathan's session:</strong> 4:45pm–6:30pm Eastern Time (EDT).</p>
     <p>The full class block remains 3:45pm–6:30pm Eastern Time.</p>
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://youtu.be/0L-DGRn52Q0">Lecture video (YouTube)</a> — Nathan Lambert and student experiment only.</li>
+    </ul>
     <p><strong>Pre-reading for Nathan Lambert’s lecture:</strong> Read the <strong>Foundation</strong> section of his <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">Open-Source AI &amp; Open Models Reading List</a>, including the supporting links under the main readings below.</p>
     <ol>
       <li>Bill Gurley, <a href="https://p3institute.substack.com/p/from-open-source-software-to-open">From Open Source Software to Open Source Strategy</a>.</li>
