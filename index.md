@@ -306,19 +306,18 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 
 <div class="lecture-item" id="lecture-nov-12">
   <div class="lecture-date">Thursday, November 12, 2026</div>
-  <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement; AI Policy <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
+  <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
   <div class="lecture-content">
-    <p><strong>Guest lecturers:</strong> Jakub Pachocki and Brad Carson</p>
-    <p>Participation modes are to be confirmed.</p>
+    <p><strong>Guest lecturer:</strong> Jakub Pachocki (in person)</p>
   </div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-19">
   <div class="lecture-date">Thursday, November 19, 2026</div>
-  <div class="lecture-title">AI Biosecurity and Threat Modeling <a href="#lecture-nov-19" class="lecture-link" aria-label="Link to the November 19 lecture">🔗</a></div>
+  <div class="lecture-title">AI Biosecurity and Threat Modeling; AI Policy <a href="#lecture-nov-19" class="lecture-link" aria-label="Link to the November 19 lecture">🔗</a></div>
   <div class="lecture-content">
-    <p><strong>Guest lecturer:</strong> Luca Righetti</p>
-    <p>Participation mode is to be confirmed.</p>
+    <p><strong>Guest lecturers:</strong> Luca Righetti and Brad Carson (in person)</p>
+    <p>Luca Righetti's participation mode is to be confirmed.</p>
   </div>
 </div>
 
