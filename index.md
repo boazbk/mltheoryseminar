@@ -305,7 +305,14 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
 <div class="lecture-item" id="lecture-nov-5">
   <div class="lecture-date">Thursday, November 5, 2026</div>
   <div class="lecture-title">AI Interpretability and Model Welfare <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
-  <div class="lecture-content"><strong>Guest lecturers:</strong> Jack Lindsey and Jeff Sebo (both remote)</div>
+  <div class="lecture-content">
+    <p><strong>Guest lecturers:</strong> Jack Lindsey and Jeff Sebo (both remote)</p>
+    <p><strong>Pre-reading for Jeff Sebo's lecture:</strong></p>
+    <ul>
+      <li><a href="https://arxiv.org/abs/2411.00986">Taking AI Welfare Seriously</a> — recommended for students new to AI welfare.</li>
+      <li><a href="https://nonhumanminds.org/studying-ai-welfare-empirically/">Studying AI Welfare Empirically</a> — an alternative for students already familiar with the basics.</li>
+    </ul>
+  </div>
 </div>
 
 <div class="lecture-item" id="lecture-nov-12">
