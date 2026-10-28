@@ -131,6 +131,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <ul>
       <li><a href="https://youtu.be/Lp_e8Ts5-nE">Lecture video (YouTube)</a></li>
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQAIURSiytaRRouFa-2fENnZAdwfZdHR0aQ-30xmhOMW9f8?e=kzh3Zw">Presentation slides</a></li>
+      <li><a href="https://windowsontheory.org/2026/10/28/cs-2881-fall-26-lecture-3-modern-llm-training-and-inference/">Lecture blog post</a></li>
     </ul>
     <p><strong>Student experiment:</strong> False statements as filler tokens for LLM reasoning — Andrew Wu and Andrea Chen</p>
     <ul>
@@ -187,7 +188,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     </ul>
     <p><strong>Student experiment:</strong> LLM market mechanisms — Zach Chen, Jasmine Liu, and Jeffrey Zhou</p>
     <ul>
-      <li><a href="https://github.com/Zxch-Chen/llm-market-mechanisms">Code repository</a> (currently unavailable)</li>
+      <li><a href="https://github.com/Zxch-Chen/llm-market-mechanisms">Code repository</a></li>
       <li><a href="https://docs.google.com/presentation/d/1s_nrwWY4qb4I9TqLT46TQo4OR420gUwjCRQz4oPeSpw/edit?usp=sharing">Presentation slides</a></li>
     </ul>
     <p><strong>Required pre-reading:</strong></p>
@@ -243,7 +244,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Guest lecturer:</strong> Ziad Reslan</p>
     <p><strong>Student experiment:</strong> Who Are You? — Advikar Ananthkumar and Shaurya Jeloka</p>
     <ul>
-      <li><a href="https://github.com/AdvikarA/who-are-you-em">Code repository</a> (currently unavailable)</li>
+      <li><a href="https://github.com/AdvikarA/who-are-you-em">Code repository</a></li>
       <li><a href="{{ '/assets/experiments/2026-10-15/who-are-you.html' | relative_url }}">Presentation slides (HTML)</a></li>
     </ul>
     <p><strong>Required pre-reading (5):</strong></p>
