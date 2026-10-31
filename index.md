@@ -308,11 +308,19 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">AI Interpretability and Model Welfare <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Jack Lindsey and Jeff Sebo (both remote)</p>
-    <p><strong>Pre-reading for Jeff Sebo's lecture:</strong></p>
+    <p><strong>Required pre-reading for Jack Lindsey's lecture:</strong></p>
     <ul>
-      <li><a href="https://arxiv.org/abs/2411.00986">Taking AI Welfare Seriously</a> — recommended for students new to AI welfare.</li>
-      <li><a href="https://nonhumanminds.org/studying-ai-welfare-empirically/">Studying AI Welfare Empirically</a> — an alternative for students already familiar with the basics.</li>
+      <li><a href="https://transformer-circuits.pub/2026/workspace/">Verbalizable Representations Form a Global Workspace in Language Models</a> (J-lens / workspace paper).</li>
+      <li><a href="https://transformer-circuits.pub/2026/nla/">Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations</a> (NLA paper).</li>
+      <li><a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents">An alignment assessment of recent cybersecurity incidents</a> (blog post).</li>
     </ul>
+    <p><strong>Required pre-reading for Jeff Sebo's lecture (both):</strong></p>
+    <ul>
+      <li><a href="https://arxiv.org/abs/2411.00986">Taking AI Welfare Seriously</a>.</li>
+      <li><a href="https://nonhumanminds.org/studying-ai-welfare-empirically/">Studying AI Welfare Empirically</a>.</li>
+    </ul>
+    <p>Even if you have read these papers before, please reread them in preparation for the discussion.</p>
+    <p>Registered students can access the readings on <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a>. The discussion deadline is <strong>noon Eastern Time on Thursday, November 5, 2026</strong>; the course's existing participation and reading-group policy applies.</p>
   </div>
 </div>
 
