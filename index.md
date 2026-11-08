@@ -137,9 +137,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
       <li><a href="https://hu-my.sharepoint.com/:p:/g/personal/boaz_seas_harvard_edu/IQAIURSiytaRRouFa-2fENnZAdwfZdHR0aQ-30xmhOMW9f8?e=kzh3Zw">Presentation slides</a></li>
       <li><a href="https://windowsontheory.org/2026/10/28/cs-2881-fall-26-lecture-3-modern-llm-training-and-inference/">Lecture blog post</a></li>
     </ul>
-    <p><strong>Student experiment:</strong> False statements as filler tokens for LLM reasoning — Andrew Wu and Andrea Chen</p>
+    <p><strong>Student experiment:</strong> How do different types of filler tokens affect LLM reasoning? — Andrew Wu and Andrea Chen</p>
     <ul>
-      <li>Slides and code: forthcoming.</li>
+      <li><a href="https://github.com/andreach3n/filler-token-facts">Code repository</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1i_9ewAvE_-vfgSjJP8zWsaHglwW5_ryyh6AbuhHsl-0/edit">Presentation slides</a></li>
     </ul>
     <p><strong>Required pre-reading, in order:</strong> Read the sections specified below. Sections marked optional and implementation walkthroughs marked to skip are not required.</p>
     <ol>
@@ -284,6 +285,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <ul>
       <li><a href="https://youtu.be/0L-DGRn52Q0">Lecture video (YouTube)</a> — Nathan Lambert and student experiment only.</li>
     </ul>
+    <p><strong>Student experiment:</strong> Evaluation awareness and the Hawthorne effect — Harshvardha Sanghi, Andrew Weckstein, and Liam Shepard</p>
+    <ul>
+      <li><a href="https://github.com/a-weckstein/eval-hawthorne-effect-public">Code repository and experiment report</a></li>
+      <li><a href="{{ '/assets/experiments/2026-10-22/hawthorne-effect.pdf' | relative_url }}">Presentation slides (PDF)</a></li>
+    </ul>
     <p><strong>Pre-reading for Nathan Lambert’s lecture:</strong> Read the <strong>Foundation</strong> section of his <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">Open-Source AI &amp; Open Models Reading List</a>, including the supporting links under the main readings below.</p>
     <ol>
       <li>Bill Gurley, <a href="https://p3institute.substack.com/p/from-open-source-software-to-open">From Open Source Software to Open Source Strategy</a>.</li>
@@ -305,6 +311,11 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Guest speaker:</strong> Helen Toner (Center for Security and Emerging Technology, Georgetown University; remote)</p>
     <p>Opening remarks followed by Q&amp;A and discussion on frontier AI regulation under uncertainty, including how evaluations and other technical evidence should inform national-security policy and the U.S.–China context.</p>
     <p><strong>Helen's session:</strong> 3:45pm–5:00pm Eastern Time (EDT). The full class block remains 3:45pm–6:30pm Eastern Time.</p>
+    <p><strong>Student experiment:</strong> Refusal geometry and political bias — Michael Brown, Skyler Liu, and Divya Nekkanti</p>
+    <ul>
+      <li><a href="https://github.com/brow4623/ai-safety-democracy">Code repository</a></li>
+      <li><a href="{{ '/assets/experiments/2026-10-29/refusal-geometry.pptx' | relative_url }}">Presentation slides (PPTX)</a></li>
+    </ul>
     <p><strong>Suggested pre-reading from Helen Toner:</strong></p>
     <ul>
       <li><a href="https://helentoner.substack.com/p/unresolved-debates-about-the-future">Unresolved debates about the future of AI</a></li>
@@ -324,6 +335,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Lecture materials:</strong></p>
     <ul>
       <li><a href="https://youtu.be/zAiSb2K-bNo">Jeff Sebo's lecture on AI welfare and Q&amp;A (YouTube)</a></li>
+    </ul>
+    <p><strong>Student experiment:</strong> WeirdChat neuron interpretability — Agastya Sridharan, Om Patil, and Juliana Li</p>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1knWh7LMmWiB2Ou1EAxYNZ9lN5bTXEaw6yHt3Hqw9iRE/edit">Presentation slides</a></li>
     </ul>
     <p><strong>Required pre-reading for Jack Lindsey's lecture:</strong></p>
     <ul>
