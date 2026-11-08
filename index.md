@@ -98,6 +98,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Cyber Capabilities <a href="#lecture-sep-10" class="lecture-link" aria-label="Link to the September 10 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> Nicholas Carlini (Anthropic, virtual)</p>
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://windowsontheory.org/2026/11/08/cs-2881-fall-26-lecture-2-cyber-capabilities/">Lecture blog post (scribe notes)</a></li>
+    </ul>
     <p><strong>Student experiment:</strong> Can a small AI detect a large AI's cyberattack from service logs? — Amrit Vir Chadha</p>
     <ul>
       <li><a href="https://github.com/avchadha/AI-Safety-Mini-Experiment-on-Open-Source-Cyber/blob/main/REPORT.md">Experiment report (REPORT.md)</a></li>
@@ -163,6 +167,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Recursive Self-Improvement and AI Trajectories <a href="#lecture-sep-24" class="lecture-link" aria-label="Link to the September 24 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Dwarkesh Patel and Daniel Kokotajlo</p>
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://windowsontheory.org/2026/11/08/cs-2881-fall-26-lecture-4-recursive-self-improvement-and-ai-trajectories/">Lecture blog post (scribe notes)</a></li>
+    </ul>
     <p><strong>Student experiment:</strong> Can AI agents collaborate on ML research? — Anthony Shen, Eric Ge, Riddhi Bhagwat, and Alvin Ekelund</p>
     <ul>
       <li><a href="https://github.com/ericjkge/multiagent-research">Code repository</a></li>
@@ -185,6 +193,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <p><strong>Lecture materials:</strong></p>
     <ul>
       <li><a href="https://youtu.be/iezRKFkyjVY">Lecture video (YouTube)</a></li>
+      <li><a href="https://windowsontheory.org/2026/11/08/cs-2881-fall-26-lecture-5-economics-of-ai/">Lecture blog post (scribe notes)</a></li>
     </ul>
     <p><strong>Student experiment:</strong> LLM market mechanisms — Zach Chen, Jasmine Liu, and Jeffrey Zhou</p>
     <ul>
@@ -213,6 +222,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Grading, reward hacking, and alignment (CS 2881, Oct 8) <a href="#lecture-oct-8" class="lecture-link" aria-label="Link to the October 8 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> John Schulman</p>
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://windowsontheory.org/2026/11/08/cs-2881-fall-26-lecture-6-grading-reward-hacking-and-alignment/">Lecture blog post (scribe notes)</a></li>
+    </ul>
     <p><strong>Student experiment:</strong> Measuring RL Environment Quality Across Self-Play Training — Essa Jan</p>
     <ul>
       <li><a href="{{ '/assets/experiments/2026-10-08/rl-environment-quality.pdf' | relative_url }}">Presentation slides (PDF)</a></li>
@@ -308,6 +321,10 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">AI Interpretability and Model Welfare <a href="#lecture-nov-5" class="lecture-link" aria-label="Link to the November 5 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Jack Lindsey and Jeff Sebo (both remote)</p>
+    <p><strong>Lecture materials:</strong></p>
+    <ul>
+      <li><a href="https://youtu.be/zAiSb2K-bNo">Jeff Sebo's lecture on AI welfare and Q&amp;A (YouTube)</a></li>
+    </ul>
     <p><strong>Required pre-reading for Jack Lindsey's lecture:</strong></p>
     <ul>
       <li><a href="https://transformer-circuits.pub/2026/workspace/">Verbalizable Representations Form a Global Workspace in Language Models</a> (J-lens / workspace paper).</li>
@@ -329,6 +346,14 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-title">Alignment in the Age of Recursive Self-Improvement <a href="#lecture-nov-12" class="lecture-link" aria-label="Link to the November 12 lecture">🔗</a></div>
   <div class="lecture-content">
     <p><strong>Guest lecturer:</strong> Jakub Pachocki (in person)</p>
+    <p><strong>Required pre-reading (4):</strong></p>
+    <ol>
+      <li>Kaplan et al., <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a>.</li>
+      <li>OpenAI, <a href="https://openai.com/index/research-acceleration-view-inside-openai/">Research acceleration: The view inside OpenAI</a>.</li>
+      <li>Jakub Pachocki, <a href="https://openai.com/index/an-alien-mind/">An Alien Mind</a>.</li>
+      <li>OpenAI, <a href="https://deploymentsafety.openai.com/gpt-6-astra/monitorability">GPT-6 Astra System Card: Monitorability</a>. Read <strong>only the Monitorability section</strong>, not the full system card.</li>
+    </ol>
+    <p>Registered students can access the readings on <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a>. The discussion deadline is <strong>noon Eastern Time on Thursday, November 12, 2026</strong>; the course's existing participation and reading-group policy applies.</p>
   </div>
 </div>
 
