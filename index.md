@@ -376,8 +376,17 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-date">Thursday, November 19, 2026</div>
   <div class="lecture-title">AI Biosecurity and Threat Modeling; AI Policy <a href="#lecture-nov-19" class="lecture-link" aria-label="Link to the November 19 lecture">🔗</a></div>
   <div class="lecture-content">
-    <p><strong>Guest lecturers:</strong> Luca Righetti and Brad Carson (in person)</p>
-    <p>Luca Righetti's participation mode is to be confirmed.</p>
+    <p><strong>Guest lecturers:</strong> Luca Righetti (remote) and Brad Carson (in person)</p>
+    <p><strong>Required pre-reading for Luca Righetti's lecture:</strong></p>
+    <ul>
+      <li>Becca Chandler Bostock, <a href="https://securebio.substack.com/p/nature-sets-a-baseline">Nature Sets a Baseline, Not a Ceiling</a> (SecureBio). Read the full article.</li>
+      <li>Jassi Pannu, <a href="https://centerforhealthsecurity.org/sites/default/files/2026-01/HHRG-119-IF02-Wstate-PannuJ-20251217.pdf#page=2">Examining Biosecurity at the Intersection of AI and Biology</a> (congressional testimony). Read <strong>only the introduction and top-line recommendations on page 2</strong>.</li>
+    </ul>
+    <p><strong>Optional reading for Luca Righetti's lecture:</strong></p>
+    <ul>
+      <li>Luca Righetti, <a href="https://cdn.governance.ai/Dual-Use_AI_Capabilities_and_the_Risk_of_Bioterrorism.pdf">Dual-Use AI Capabilities and the Risk of Bioterrorism: Converting Capability Evaluations to Risk Assessments</a> (GovAI).</li>
+    </ul>
+    <p>Registered students can access the readings on <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a>. The discussion deadline is <strong>noon Eastern Time on Thursday, November 19, 2026</strong>; the course's existing participation and reading-group policy applies.</p>
   </div>
 </div>
 
