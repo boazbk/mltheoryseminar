@@ -401,6 +401,15 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   </div>
 </div>
 
+<div class="lecture-item" id="final-project-poster-session">
+  <div class="lecture-date">Saturday, December 5, 2026</div>
+  <div class="lecture-title">Final Project Poster and Presentation Session <a href="#final-project-poster-session" class="lecture-link" aria-label="Link to the final project poster and presentation session">🔗</a></div>
+  <div class="lecture-content">
+    <p><strong>Time:</strong> 10 a.m.–1 p.m. Eastern</p>
+    <p><strong>Location:</strong> Room TBD</p>
+  </div>
+</div>
+
 </div>
 
 __Previous versions:__ <a href="{{ '/fall2025/' | relative_url }}">Fall 2025 AI Safety</a> | <a href="{{ '/spring2023' | relative_url }}">Spring 2023 ML Theory Seminar</a> | [Spring 2021 ML Theory Seminar](https://boazbk.github.io/mltheoryseminar/cs229br)
