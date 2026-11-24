@@ -398,6 +398,23 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
   <div class="lecture-content">
     <p><strong>Guest lecturers:</strong> Ajeya Cotra (METR, in person) and Roy Rinberg</p>
     <p>Roy Rinberg's participation mode is to be confirmed.</p>
+    <p><strong>Pre-reading for Roy Rinberg's lecture:</strong></p>
+    <p><strong>Conceptual Overview:</strong></p>
+    <ul>
+      <li><a href="https://arxiv.org/abs/2507.15916">Verifying international agreements on AI</a>.</li>
+    </ul>
+    <p><strong>Current Research Directions:</strong></p>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1xnZpe_FwJyT50aQfA9bDDNddJmNUcT0fwyQ_PixXEQg/edit?tab=t.0#heading=h.m6eqfmtgvbm2">[Shared] Verification Research Agenda</a>.</li>
+      <li><a href="https://raw.githubusercontent.com/JamesPetrie/VerificationResearchAgenda/main/VerificationResearchAgenda.pdf">Research Priorities for AI Compute Verification</a>.</li>
+      <li><a href="https://www.aisafety.sg/blog/exploring-memory-exhaustion-as-a-verification-approach">Memory Exhaustion Concept Overview</a>.</li>
+    </ul>
+    <p><strong>Roy Rinberg's public work:</strong></p>
+    <ul>
+      <li><a href="https://www.anthropic.com/research/provable-inference">ZKPs for Provable Inference (FlashProve)</a>.</li>
+      <li><a href="https://www.lesswrong.com/posts/uWYk7MM9hAf9GEbGe/auditor-in-a-box-tools-for-third-party-auditing">Auditor Agents</a>.</li>
+    </ul>
+    <p>Registered students should use <a href="https://app.perusall.com/courses/compsci-2881r-topics-in-foundations-of-ml-ai-alignment-and-safety/_/assignments">Perusall</a> for the reading discussion. The discussion deadline is <strong>noon Eastern Time on Thursday, December 3, 2026</strong>; the course's existing participation and reading-group policy applies.</p>
   </div>
 </div>
 
