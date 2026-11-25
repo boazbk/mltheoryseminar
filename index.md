@@ -73,8 +73,8 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     </ul>
     <p><strong>Student experiment:</strong> Is Chain of Thought an Interchangeable Scratchpad? — Shivam Singhal</p>
     <ul>
-      <li><a href="https://github.com/Shivsi7/harvard-cs2881-hw0">Code repository and write-up</a></li>
-      <li>Slides: <a href="https://github.com/Shivsi7/harvard-cs2881-hw0/blob/main/presentation/Is%20Chain%20of%20Thought%20an%20Interchangeable%20Scratchpad.pptx">pptx</a> / <a href="https://github.com/Shivsi7/harvard-cs2881-hw0/blob/main/presentation/Is%20Chain%20of%20Thought%20an%20Interchangeable%20Scratchpad.pdf">pdf</a></li>
+      <li><a href="https://github.com/Shivsi7/internalisation_externalisation_of_J-lens">Code repository and write-up</a></li>
+      <li>Slides: <a href="https://github.com/Shivsi7/internalisation_externalisation_of_J-lens/blob/main/presentation/Is%20Chain%20of%20Thought%20an%20Interchangeable%20Scratchpad.pptx">pptx</a> / <a href="https://github.com/Shivsi7/internalisation_externalisation_of_J-lens/blob/main/presentation/Is%20Chain%20of%20Thought%20an%20Interchangeable%20Scratchpad.pdf">pdf</a></li>
     </ul>
     <p><strong>Required pre-reading and viewing:</strong></p>
     <ul>
