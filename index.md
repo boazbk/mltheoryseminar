@@ -336,7 +336,7 @@ Unless otherwise noted, all lectures meet in person on Thursdays from 3:45pm–6
     <ul>
       <li><a href="https://youtu.be/zAiSb2K-bNo">Jeff Sebo's lecture on AI welfare and Q&amp;A (YouTube)</a></li>
     </ul>
-    <p><strong>Student experiment:</strong> WeirdChat neuron interpretability — Agastya Sridharan, Om Patil, and Juliana Li</p>
+    <p><strong>Student experiment:</strong> WeirdChat neuron interpretability — Agastya Sridharan, Om Nitin Patil, and Juliana Li</p>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1knWh7LMmWiB2Ou1EAxYNZ9lN5bTXEaw6yHt3Hqw9iRE/edit">Presentation slides</a></li>
     </ul>
